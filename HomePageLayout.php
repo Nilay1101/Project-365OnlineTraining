@@ -119,9 +119,9 @@
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>
                                <div class="training-dd-wrap">
-                                    <!--<div class="container-dd-training">
-                                       <div class="container-dd-training-detail"> <span>Date&nbsp;–&nbsp;</span><span class="training-date">Sunday, 10th July</span></div>
-                                    </div>-->
+                                    <div class="container-dd-training">
+                                       <div class="container-dd-training-detail"><span class="training-date">Sunday, 10th July</span></div>
+                                    </div>
                                     <div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-webcenter-sites-online-training/';"></span></div>
                                 </div>
                             </div>
@@ -134,9 +134,9 @@
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>
                                 <div class="training-dd-wrap">
-                                   <!-- <div class="container-dd-training">
-                                        <div class="container-dd-training-detail"> <span>Date&nbsp;–&nbsp;</span><span class="training-date">Sunday, 10th July</span></div>
-                                    </div> -->
+                                   <div class="container-dd-training">
+                                        <div class="container-dd-training-detail"><span class="training-date">Sunday, 10th July</span></div>
+                                    </div>
                                     <div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-webcenter-content-training/';"></span></div>
                                 </div>
                             </div>
@@ -148,9 +148,9 @@
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot03.png"></div>
                                 <div class="training-dd-wrap">
-                                    <!--<div class="container-dd-training">
-                                        <div class="container-dd-training-detail"> <span>Date&nbsp;–&nbsp;</span><span class="training-date">Sunday 17th July</span></div>
-                                    </div> -->
+                                    <div class="container-dd-training">
+                                        <div class="container-dd-training-detail"><span class="training-date">Sunday 17th July</span></div>
+                                    </div>
                                     <div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-mobile-application-framework-training-maf/';"></span></div>
                                 </div>
                             </div>
@@ -162,9 +162,9 @@
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot04.png"></div>
                                 <div class="training-dd-wrap">
-                                    <!--<div class="container-dd-training">
-                                        <div class="container-dd-training-detail"> <span>Date&nbsp;–&nbsp;</span><span class="training-date">Sunday 17th July</span></div>
-                                    </div> -->
+                                    <div class="container-dd-training">
+                                        <div class="container-dd-training-detail"><span class="training-date">Sunday 17th July</span></div>
+                                    </div>
                                     <div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-atg-training/';"></span></div>
                                 </div>
                             </div>
@@ -176,9 +176,9 @@
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot05.jpg"></div>
                                 <div class="training-dd-wrap">
-                                    <!--<div class="container-dd-training">
-                                        <div class="container-dd-training-detail"> <span>Date&nbsp;–&nbsp;</span><span class="training-date">Sunday, 17th July</span></div>
-                                    </div> -->
+                                    <div class="container-dd-training">
+                                        <div class="container-dd-training-detail"><span class="training-date">Sunday, 17th July</span></div>
+                                    </div>
                                     <div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/training-programs/';"></span></div>
                                 </div>
                             </div>
@@ -190,9 +190,9 @@
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot06.jpg"></div>
                                 <div class="training-dd-wrap">
-                                    <!--<div class="container-dd-training">
-                                        <div class="container-dd-training-detail"> <span>Date&nbsp;–&nbsp;</span><span class="training-date">Sunday, 17th July</span></div>
-                                    </div> -->
+                                    <div class="container-dd-training">
+                                        <div class="container-dd-training-detail"><span class="training-date">Sunday, 17th July</span></div>
+                                    </div>
                                     <div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-adf-online-training/';"></span></div>
                                 </div>
                             </div>
