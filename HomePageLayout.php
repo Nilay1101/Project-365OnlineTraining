@@ -114,89 +114,63 @@
                 <div class="courses-wrapper">
                     <div class="container-heading col-xs-12">
                         <h3>Training Programs</h3></div>
-                    <div class="container-details col-xs-6 col-sm-4">
+                    <div class="container-details col-xs-6 col-sm-3">
+                        <div class="clearfix training-det-wrap">
+                            <div class="container-dd-wrapper">
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>  
+                            </div>
+                            <div ><h5><strong>Oracle WebCenter Sites Training</strong></h5></div>
+<div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-webcenter-sites-online-training/';"></span></div>			 
+                        </div>
+                    </div>
+                    <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>
-                               <div class="training-dd-wrap">
-                                    <div class="container-dd-training">
-                                       <div class="container-dd-training-detail"><span class="training-date">Sunday, 10th July</span></div>
-                                    </div>
-                                    <div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-webcenter-sites-online-training/';"></span></div>
-                                </div>
+                      
                             </div>
-                            <div class="container-dd-heading">Oracle WebCenter Sites Training<br>&nbsp;</div>
-							 
+                            <div ><h5><strong>Oracle WebCenter Content Training</h5></strong></div>
+							<div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-webcenter-content-training/';"></span></div>
                         </div>
                     </div>
-                    <div class="container-details col-xs-6 col-sm-4">
-                        <div class="clearfix training-det-wrap">
-                            <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>
-                                <div class="training-dd-wrap">
-                                   <div class="container-dd-training">
-                                        <div class="container-dd-training-detail"><span class="training-date">Sunday, 10th July</span></div>
-                                    </div>
-                                    <div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-webcenter-content-training/';"></span></div>
-                                </div>
-                            </div>
-                            <div class="container-dd-heading">Oracle WebCenter Content Training</div>
-                        </div>
-                    </div>
-                    <div class="container-details col-xs-6 col-sm-4">
+                    <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot03.png"></div>
-                                <div class="training-dd-wrap">
-                                    <div class="container-dd-training">
-                                        <div class="container-dd-training-detail"><span class="training-date">Sunday 17th July</span></div>
-                                    </div>
-                                    <div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-mobile-application-framework-training-maf/';"></span></div>
-                                </div>
+                              
                             </div>
-                            <div class="container-dd-heading">Oracle MAF Training</div>
+                            <div ><h5><strong>Oracle MAF Training</h5></strong></div>
+							<div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-mobile-application-framework-training-maf/';"></span></div>
                         </div>
                     </div>
-                    <div class="container-details col-xs-6 col-sm-4">
+                    <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot04.png"></div>
-                                <div class="training-dd-wrap">
-                                    <div class="container-dd-training">
-                                        <div class="container-dd-training-detail"><span class="training-date">Sunday 17th July</span></div>
-                                    </div>
-                                    <div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-atg-training/';"></span></div>
-                                </div>
+                               
                             </div>
-                            <div class="container-dd-heading">Oracle ATG Web Commerce Training</div>
+                            <div ><h5><strong>Oracle ATG Web Commerce Training</h5></strong></div>
+							<div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-atg-training/';"></span></div>
                         </div>
                     </div>
-                    <div class="container-details col-xs-6 col-sm-4">
+                    <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot05.jpg"></div>
-                                <div class="training-dd-wrap">
-                                    <div class="container-dd-training">
-                                        <div class="container-dd-training-detail"><span class="training-date">Sunday, 17th July</span></div>
-                                    </div>
-                                    <div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/training-programs/';"></span></div>
-                                </div>
+                               
                             </div>
-                            <div class="container-dd-heading">Oracle Weblogic 12C Training</div>
+                            <div ><h5><strong>Oracle Weblogic 12C Training</h5></strong></div>
+							<div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/training-programs/';"></span></div>
                         </div>
                     </div>
-                    <div class="container-details col-xs-6 col-sm-4">
+                    <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot06.jpg"></div>
-                                <div class="training-dd-wrap">
-                                    <div class="container-dd-training">
-                                        <div class="container-dd-training-detail"><span class="training-date">Sunday, 17th July</span></div>
-                                    </div>
-                                    <div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-adf-online-training/';"></span></div>
-                                </div>
+                               
                             </div>
-                            <div class="container-dd-heading">Oracle ADF Training</div>
+                            <div><h5><strong>Oracle ADF Training</h5></strong></div>
+							<div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-adf-online-training/';"></span></div>
                         </div>
                     </div>
                 </div>
