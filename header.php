@@ -25,7 +25,7 @@
    
         <div class="header row clearfix">
             <div class="nav-wrap logo-home col-md-3 col-sm-3 column col-xs-3">
-                <div class="nav-logo col-sm-3 col-md-3 column"><img src="<?php bloginfo('template_directory'); ?>/images/logo1.png" ></div>
+                <div class="nav-logo col-sm-6 col-md-6 column"><img src="<?php bloginfo('template_directory'); ?>/images/logo1.png" ></div>
             </div>
             <div class="header_user_info col-md-9 col-sm-9 column col-xs-9">
                 <div class="nav-wrap col-sm-2 col-xs-2 blog-wrap"><button class="blogs"><a href="http://365onlinetraining.com/blog/">Blog</a></button>

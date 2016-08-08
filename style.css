@@ -95,7 +95,7 @@ select { max-width: 100%; }
 
 .header-wrap { background: #fff; }
 .logo-wrap { padding: 10px; padding: 0.625rem; overflow: hidden; }
-.logo { display: inline-block; margin: 10px 5px; }
+.logo { display: inline-block; margin: 10px 5px; height: 30px; width:120px;}
 .logo a { text-decoration: none; }
 .logo-name { text-transform: uppercase; text-shadow: 1px 2px 5px #969696; border-bottom: 3px solid #000; display: inline-block; }
 .logo-desc { font-size: 14px; font-size: 0.875rem; font-weight: 400; color: #333; text-align: center; }
