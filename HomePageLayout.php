@@ -77,7 +77,7 @@
 </div>
 </div>
                          
-                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More</span></a></div>
+                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More.....</span></a></div>
                         </div>
                     </div>
                     <div class="category-group-info clearfix">
@@ -87,7 +87,7 @@
                             <div class="category-group-info-desc">
                                 <div>Our web commerce solution help organization to deliver a personalized online buying experience to their customers. We use our expertise in Oracle ATG web commerce and open Source product like Magento and Prestashop to deliver the commerce portal.</div>
                             </div>
-                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More</span></a></div>
+                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More.....</span></a></div>
                         </div>
                     </div>
                     <div class="category-group-info clearfix">
@@ -97,7 +97,7 @@
                             <div class="category-group-info-desc">
                                 <div>Content managemet is one of the key task for all the enterprises and we help them to achieve this. Our solution uses Oracle WebCenter Content and document cloud service to create scalable repositories which support enterprise-wide applications.</div>
                             </div>
-                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More</span></a></div>
+                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More.....</span></a></div>
                         </div>
                     </div>
                     <div class="category-group-info clearfix">
@@ -107,7 +107,7 @@
                             <div class="category-group-info-desc">
                                 <div>We deliver the most advanced solution for developing and securing mobile applications. Our solution use Oracle Mobile Application Framework and Mobile cloud Service to to deliver highly engaging mobile experiences.</div>
                             </div>
-                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More</span></a></div>
+                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More.....</span></a></div>
                         </div>
                     </div>
                 </div>
@@ -116,66 +116,153 @@
             <div class="container-left col-xs-12 col-md-12 column">
                 <div class="courses-wrapper">
                     <div class="container-heading col-xs-12">
+<br>
                         <h3  style="color:#262626">T r a i n i n g &nbsp;&nbsp;P r o g r a m s</h3>
-<hr style="border : 0;height: 1px; width:50%;letter-spacing:px;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"></div>
+<hr style="border : 0;height: 1px; width:50%;letter-spacing:px;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
+<br></div>
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>
-             
+             <div class="training-more-wrap"><span><input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/oracle-webcenter-sites-online-training/';"></span></div>
                             </div>
-                            <div ><h5><strong>Oracle WebCenter Sites Training</strong></h5></div>
-<div class="training-more-wrap"><span> <input type="button" value="Read More ....." onClick="window.location='http://365onlinetraining.com/oracle-webcenter-sites-online-training/';"></span></div>			 
+                            <div ><h5><strong>Oracle WebCenter Sites Training</strong></h5>
+<?php echo ' <script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(5);
+document.write(dt.toDateString());
+
+</script> ';  ?>
+ </div>
+		 
                         </div>
                     </div>
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>
-                               
+                               <div class="training-more-wrap"><span> <input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/oracle-webcenter-content-training/';"></span></div>
                             </div>
-                            <div ><h5><strong>Oracle WebCenter Content Training</h5></strong></div>
-							<div class="training-more-wrap"><span> <input type="button" value="Read More ....." onClick="window.location='http://365onlinetraining.com/oracle-webcenter-content-training/';"></span></div>
+                            <div ><h5><strong>Oracle WebCenter Content Training</h5></strong>
+<?php echo ' <script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(5);
+document.write(dt.toDateString());
+
+</script> ';  ?></div>
+							
                         </div>
                     </div>
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot03.png"></div>
-                              
+                              <div class="training-more-wrap"><span> <input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/oracle-mobile-application-framework-training-maf/';"></span></div>
                             </div>
-                            <div ><h5><strong>Oracle MAF Training</h5></strong></div>
-							<div class="training-more-wrap"><span> <input type="button" value="Read More ....." onClick="window.location='http://365onlinetraining.com/oracle-mobile-application-framework-training-maf/';"></span></div>
+                            <div ><h5><strong>Oracle MAF Training</h5></strong>
+<?php echo ' <script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(5);
+document.write(dt.toDateString());
+
+</script> ';  ?></div>
+							
                         </div>
                     </div>
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot04.png"></div>
-                               
+                     <div class="training-more-wrap"><span> <input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/oracle-atg-training/';"></span></div>
                             </div>
-                            <div ><h5><strong>Oracle ATG Web Commerce Training</h5></strong></div>
-							<div class="training-more-wrap"><span> <input type="button" value="Read More ....." onClick="window.location='http://365onlinetraining.com/oracle-atg-training/';"></span></div>
+                            <div ><h5><strong>Oracle ATG Web Commerce Training</h5></strong>
+<?php echo ' <script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(5);
+document.write(dt.toDateString());
+
+</script> ';  ?></div>
+							
                         </div>
                     </div>
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot05.jpg"></div>
-                               
+                             <div class="training-more-wrap"><span> <input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/training-programs/';"></span></div>  
                             </div>
-                            <div ><h5><strong>Oracle Weblogic 12C Training</h5></strong></div>
-							<div class="training-more-wrap"><span> <input type="button" value="Read More ....." onClick="window.location='http://365onlinetraining.com/training-programs/';"></span></div>
+                            <div ><h5><strong>Oracle Weblogic 12C Training</h5></strong>
+<?php echo ' <script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(5);
+document.write(dt.toDateString());
+
+</script> ';  ?></div>
+							
                         </div>
                     </div>
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot06.jpg"></div>
-                               
+                              <div class="training-more-wrap"><span> <input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/oracle-adf-online-training/';"></span></div> 
                             </div>
-                            <div><h5><strong>Oracle ADF Training</h5></strong></div>
-							<div class="training-more-wrap"><span> <input type="button" value="Read More ....." onClick="window.location='http://365onlinetraining.com/oracle-adf-online-training/';"></span></div>
+                            <div><h5><strong>Oracle ADF Training</h5></strong>
+<?php echo ' <script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(5);
+document.write(dt.toDateString());
+
+</script> ';  ?></div>
+							
                         </div>
                     </div>
                 </div>
@@ -215,7 +302,7 @@
                     </div>
                 </div>
             </div> -->
-           <!-- <div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
+            <div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
                 <div class="container-center col-xs-12 column">
                     <div class="client-wrapper clearfix">
                         <h4  style="color:#262626">O u r &nbsp;&nbsp;P a s t &nbsp;&nbsp;C l i e n t s</h4>
@@ -237,6 +324,12 @@
                                     <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c3.png"></div>
                                 </div>
                             </div>
+							<div class="client-img-wrp item ">
+                                <div class="client-1 col-sm-3">
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c4.png"></div>
+                                </div>
+                            </div>
+							
                         </div>
                         <a href="#myCarousel2" role="button" data-slide="prev" class="left carousel-control">
                             <div class="glyphicon glyphicon-chevron-left"><img src="<?php bloginfo('template_directory'); ?>/images-new/left-arrow.png"></div><span class="sr-only">Previous</span></a>
@@ -245,7 +338,7 @@
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div> 
        <!-- <div class="container-wrapper row">
             <div class="container-center col-xs-12 column">
                 <div class="feeds-wrapper clearfix">
