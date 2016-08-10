@@ -123,12 +123,13 @@ li.dropdown-list-detail:hover .consultancy-dd {
 
 .body-container-wrapper.row {
   margin: 0;
-  max-width: 100%; }
+  max-width: 100%;
+background-color:#e6e6e6;  }
 
 .container-wrapper.row {
   width: 100%;
-  margin: 0 auto;
-  margin-top: 4rem;
+  margin: 0;
+  margin-top: 0rem;
   padding: 0; }
   .container-wrapper.row .item img {
     margin: 0 auto;

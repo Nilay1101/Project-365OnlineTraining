@@ -71,9 +71,12 @@
                         <div class="col-sm-8 center-block">
                             <div class="category-group-info-title-ex text-center">
                                 <h3>Digital Experience</h3></div>
-                            <div class="category-group-info-desc">
-                                <div>Digital Experience is the center of all Enterprise strategies. We help enterprises to achieve their vision and empower them to provide un matched digital Experience to their Customer. We use both best in class Oracle WebCenter Sites and Sites cloud solution to achieve this.</div>
-                            </div>
+                         <div class="category-group-info-desc">
+                                <div>
+                                Digital Experience is the center of all Enterprise strategies. We help enterprises to achieve their vision and empower them to provide un matched digital Experience to their Customer. We use both best in class Oracle WebCenter Sites and Sites cloud solution to achieve this.
+</div>
+</div>
+                         
                             <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More</span></a></div>
                         </div>
                     </div>
@@ -109,28 +112,30 @@
                     </div>
                 </div>
             </div>
-        <div class="container-wrapper row">
+        <div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
             <div class="container-left col-xs-12 col-md-12 column">
                 <div class="courses-wrapper">
                     <div class="container-heading col-xs-12">
-                        <h3>Training Programs</h3></div>
+                        <h3  style="color:#262626">T r a i n i n g &nbsp;&nbsp;P r o g r a m s</h3>
+<hr style="border : 0;height: 1px; width:50%;letter-spacing:px;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"></div>
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>  
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>
+             
                             </div>
                             <div ><h5><strong>Oracle WebCenter Sites Training</strong></h5></div>
-<div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-webcenter-sites-online-training/';"></span></div>			 
+<div class="training-more-wrap"><span> <input type="button" value="Read More ....." onClick="window.location='http://365onlinetraining.com/oracle-webcenter-sites-online-training/';"></span></div>			 
                         </div>
                     </div>
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>
-                      
+                               
                             </div>
                             <div ><h5><strong>Oracle WebCenter Content Training</h5></strong></div>
-							<div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-webcenter-content-training/';"></span></div>
+							<div class="training-more-wrap"><span> <input type="button" value="Read More ....." onClick="window.location='http://365onlinetraining.com/oracle-webcenter-content-training/';"></span></div>
                         </div>
                     </div>
                     <div class="container-details col-xs-6 col-sm-3">
@@ -140,7 +145,7 @@
                               
                             </div>
                             <div ><h5><strong>Oracle MAF Training</h5></strong></div>
-							<div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-mobile-application-framework-training-maf/';"></span></div>
+							<div class="training-more-wrap"><span> <input type="button" value="Read More ....." onClick="window.location='http://365onlinetraining.com/oracle-mobile-application-framework-training-maf/';"></span></div>
                         </div>
                     </div>
                     <div class="container-details col-xs-6 col-sm-3">
@@ -150,7 +155,7 @@
                                
                             </div>
                             <div ><h5><strong>Oracle ATG Web Commerce Training</h5></strong></div>
-							<div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-atg-training/';"></span></div>
+							<div class="training-more-wrap"><span> <input type="button" value="Read More ....." onClick="window.location='http://365onlinetraining.com/oracle-atg-training/';"></span></div>
                         </div>
                     </div>
                     <div class="container-details col-xs-6 col-sm-3">
@@ -160,7 +165,7 @@
                                
                             </div>
                             <div ><h5><strong>Oracle Weblogic 12C Training</h5></strong></div>
-							<div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/training-programs/';"></span></div>
+							<div class="training-more-wrap"><span> <input type="button" value="Read More ....." onClick="window.location='http://365onlinetraining.com/training-programs/';"></span></div>
                         </div>
                     </div>
                     <div class="container-details col-xs-6 col-sm-3">
@@ -170,18 +175,19 @@
                                
                             </div>
                             <div><h5><strong>Oracle ADF Training</h5></strong></div>
-							<div class="training-more-wrap"><span> <input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/oracle-adf-online-training/';"></span></div>
+							<div class="training-more-wrap"><span> <input type="button" value="Read More ....." onClick="window.location='http://365onlinetraining.com/oracle-adf-online-training/';"></span></div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-            <div class="container-wrapper row">
+       <!--     <div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
                 <div class="container-center row">
                     <div class="container-cloud-wrapper clearfix">
                         <div class="container-cloud-info">
                             <div class="container-cloud-title clearfix">
-                                <h3>Cloud Solutions</h3></div>
+                                <h3 style="color:#262626">C l o u d &nbsp;&nbsp;S o l u t i o n s</h3>
+<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"></div>
                             <div class="container-cloud-info-wrap clearfix">
                                 <div class="cloud-info-wrap-top col-xs-12">
                                     <div class="cloud-tab-info"><a href="#" class="button button-cloud"><span>Oracle Eloqua Marketing Cloud Service</span></a></div>
@@ -208,11 +214,12 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="container-wrapper row">
+            </div> -->
+           <!-- <div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
                 <div class="container-center col-xs-12 column">
                     <div class="client-wrapper clearfix">
-                        <h4>Our Past Clients</h4>
+                        <h4  style="color:#262626">O u r &nbsp;&nbsp;P a s t &nbsp;&nbsp;C l i e n t s</h4>
+<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
                     <div id="myCarousel2" data-ride="carousel" data-type="multi" data-interval="3000" class="carousel slide fdi-Carousel clearfix">
                         <div role="listbox" class="client-list clearfix carousel-inner second-inner">
                             <div class="client-img-wrp item active">
@@ -238,7 +245,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
        <!-- <div class="container-wrapper row">
             <div class="container-center col-xs-12 column">
                 <div class="feeds-wrapper clearfix">
@@ -270,14 +277,18 @@
             </div>
         </div> -->
         <div class="footer">
-            <div class="row footer-about-company-row">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+           <div class="row footer-about-company-row">
+			<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                </div>
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                     <div class="footer-about-company">
                         <div class="region-footer">
                             <div class="content">
-                                <h4>Copyright 2016 365 Online. All Right Reserved</h4></div>
+                                <h5><b>Copyright 2016 365 Online. All Right Reserved</b></h5></div>
                         </div>
                     </div>
+                </div>
+			<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                 </div>
             </div>
         </div>
