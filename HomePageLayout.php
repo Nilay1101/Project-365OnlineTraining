@@ -1,7 +1,7 @@
 <?php /* Template Name: HomePageLayout */ ?>
 <?php $options = get_option('mh_options'); ?>
 <?php get_header(); ?>
-        <div class="body-container-wrapper row clearfix home-page-body">
+        <div id="top" class="body-container-wrapper row clearfix home-page-body">
             <div class="container-wrapper row container-wrapper-crousel">
                 <div id="myCarousel" data-ride="carousel" class="carousel slide">
                     <!-- Indicators-->
@@ -12,29 +12,26 @@
                     </ol>
                     <!-- Wrapper for slides-->
                     <div role="listbox" class="carousel-inner">
-                        <div class="item active"><img src="<?php bloginfo('template_directory'); ?>/images-new/easa-online-training.jpg" alt="Easa online training">
+                        <div class="item active"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner1.png" alt="Easa online training">
                             <div class="carousel-content col-sm-5 col-md-5">
-                                <div class="content-heading">Training Programs</div>
-                                <div class="content-details">
-                                    Best in class employee enablement and training programs.
-								</div>
-                                <div class="content-button"><input type="button" value="Read more" onClick="window.location='http://365onlinetraining.com/training-programs/';"></div>
+                                <div style="color:white" class="content-heading">Training Programs</div>
+                                    <h3 style="color:white">Best in class employee enablement<br>and training programs.</h3>
+<br><br>
+                                <div  class="content-button"><input type="button" value="Read more" onClick="window.location='http://365onlinetraining.com/training-programs/';"></div>
                             </div>
                         </div>
                        
-                        <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/project-management.jpg" alt="Project management">
+                        <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner2.jpg" alt="Project management">
                             <div class="carousel-content col-sm-5 col-md-5">
-                                <div class="content-heading">Project Support</div>
-								<div class="content-details">
-                                    Highly efficient support services which help in delivering the projects on time.</div>  
+                                <div style="color:white" class="content-heading">Project Support</div>
+		<h3 style="color:white">Highly efficient support services<br>which help in delivering the<br> projects on time.</h3><br><br>
                                 <div class="content-button"><input type="button" value="Read more" onClick="window.location='http://365onlinetraining.com/training-programs/';"></div>
                             </div>
                         </div>
 						 <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/corporate-training.jpg" alt="Corporate training">
                             <div class="carousel-content col-sm-5 col-md-5">
-                                <div class="content-heading">Enterprise Digital Solution</div>
-                                <div class="content-details">
-                                     Digital solution to empower organization to be online 365 days a year.</div>
+                                <div style="color:white" class="content-heading">Enterprise Digital Solution</div>
+                               <h3 style="color:white">Digital solution to empower organization<br>to be online 365 days a year.</h3><br><br>
                                 <div class="content-button"><input type="button" value="Read more" onClick="window.location='http://365onlinetraining.com/training-programs/';"></div>
                             </div> 
                         </div>
@@ -47,19 +44,19 @@
                         <ul class="category-tabs-link clearfix">
                             <li class="tabs-title col-xs-6 col-sm-3 tabs-title-active">
                                 <div id="experience">
-                                    <h4 class="category-tab-title">Experience</h4></div>
+                                    <h4 class="category-tab-title"><b>Experience</b></h4></div>
                             </li>
                             <li class="tabs-title col-xs-6 col-sm-3">
                                 <div id="commerce">
-                                    <h4 class="category-tab-title">Commerce</h4></div>
+                                    <h4 class="category-tab-title"><b>Commerce</b></h4></div>
                             </li>
                             <li class="tabs-title col-xs-6 col-sm-3">
                                 <div id="content">
-                                    <h4 class="category-tab-title">Content</h4></div>
+                                    <h4 class="category-tab-title"><b>Content</b></h4></div>
                             </li>
                             <li class="tabs-title col-xs-6 col-sm-3">
                                 <div id="mobility">
-                                    <h4 class="category-tab-title">Mobility</h4></div>
+                                    <h4 class="category-tab-title"><b>Mobility</b></h4></div>
                             </li>
                         </ul>
                     </div>
@@ -266,45 +263,36 @@ document.write(dt.toDateString());
                         </div>
                     </div>
                 </div>
-            </div>
+            </div><br>
         </div>
-       <!--     <div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
+           <div class="container-wrapper row" style="background-color:black;margin-top:0px;">
                 <div class="container-center row">
                     <div class="container-cloud-wrapper clearfix">
                         <div class="container-cloud-info">
                             <div class="container-cloud-title clearfix">
-                                <h3 style="color:#262626">C l o u d &nbsp;&nbsp;S o l u t i o n s</h3>
-<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));"></div>
-                            <div class="container-cloud-info-wrap clearfix">
-                                <div class="cloud-info-wrap-top col-xs-12">
-                                    <div class="cloud-tab-info"><a href="#" class="button button-cloud"><span>Oracle Eloqua Marketing Cloud Service</span></a></div>
+<br>
+                                <h3 style="color:white">C l o u d &nbsp;&nbsp;S o l u t i o n s</h3>
+<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));"></div>
+<br>
+                            <div class=" row">
+                                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 pull-left">
+                                    <div ><a href="#" class="button button-cloud"><h3 style="color:white;text-decoration: none"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle Eloqua Marketing Cloud Service</h3></a></div>
+                                    <div ><a href="#" class="button button-cloud"><h3 style="color:white;text-decoration: none"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle Sites Cloud Service</h3></a></div> 
+                                    <div ><a href="#" class="button button-cloud"><h3 style="color:white;text-decoration: none"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle Document Cloud Service</h3></a></div>
+                                    <div ><a href="#" class="button button-cloud"><h3 style="color:white;text-decoration: none"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle Java Cloud Service</h3></a></div>
                                 </div>
-                                <div class="cloud-info-wrap-medium col-xs-12">
-                                    <div class="cloud-info-wrap-left col-xs-4 pull-left">
-                                        <div class="cloud-tab-info"><a href="#" class="button button-cloud"><span></span></a></div>
-                                       <div class="cloud-tab-info"><a href="#" class="button button-cloud"><span>Oracle Sites Cloud Service</span></a></div> 
-                                        <div class="cloud-tab-info"><a href="#" class="button button-cloud"><span></span></a></div> 
-                                    </div>
-                                    <div class="cloud-info-wrap-mid-img col-xs-4">
-                                        <div class="cloud-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/cloud-computing.png"></div>
-                                    </div>
-                                    <div class="cloud-info-wrap-right col-xs-4 pull-right">
-                                        <div class="cloud-tab-info"><a href="#" class="button button-cloud"><span></span></a></div>
-                                        <div class="cloud-tab-info"><a href="#" class="button button-cloud"><span></span>Oracle Document Cloud Service</a></div>
-                                        <div class="cloud-tab-info"><a href="#" class="button button-cloud"><span></span></a></div>
-                                    </div>
-                                </div>
-                                <div class="cloud-info-wrap-bottom col-xs-12">
-                                    <div class="cloud-tab-info"><a href="#" class="button button-cloud"><span>Oracle Java Cloud Service</span></a></div>
+								<div class=" col-xs-6 col-sm-6 col-md-6 col-lg-6 pull-right" style="margin-top:-220px"><div ><img src="<?php bloginfo('template_directory'); ?>/images-new/cloud.png"></div>
+<br><br>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div> 
             <div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
                 <div class="container-center col-xs-12 column">
                     <div class="client-wrapper clearfix">
+<br>
                         <h4  style="color:#262626">O u r &nbsp;&nbsp;P a s t &nbsp;&nbsp;C l i e n t s</h4>
 <hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
                     <div id="myCarousel2" data-ride="carousel" data-type="multi" data-interval="3000" class="carousel slide fdi-Carousel clearfix">
@@ -369,7 +357,7 @@ document.write(dt.toDateString());
                 </div>
             </div>
         </div> -->
-        <div class="footer">
+        <div style="background:black" class="footer">
            <div class="row footer-about-company-row">
 			<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
                 </div>
@@ -377,7 +365,7 @@ document.write(dt.toDateString());
                     <div class="footer-about-company">
                         <div class="region-footer">
                             <div class="content">
-                                <h5><b>Copyright 2016 365 Online. All Right Reserved</b></h5></div>
+                                <h5><b>Copyright 2016 365 Online. All Right Reserved &nbsp;&nbsp;&nbsp;</b><a href="#top"><img style="height:25px; widht:25px" src="<?php bloginfo('template_directory'); ?>/images-new/up-arrow.png"></a></h5></div>
                         </div>
                     </div>
                 </div>

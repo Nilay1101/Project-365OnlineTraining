@@ -1,11 +1,12 @@
 html {
-  margin-top: 0 !important; }
+  margin-top: 0 !important;
+ background-color:#e6e6e6;  }
 
 .wrapper {
-  margin-top: 100px; }
+  margin-top: 0px; }
 
 .header.row {
-  background: #000000;
+  background:black;
   max-width: 100%;
   margin: 0;
   position: fixed;
@@ -123,13 +124,13 @@ li.dropdown-list-detail:hover .consultancy-dd {
 
 .body-container-wrapper.row {
   margin: 0;
-  max-width: 100%;
-background-color:#e6e6e6;  }
+  max-width: 100%; 
+background-color:#e6e6e6; }
 
 .container-wrapper.row {
   width: 100%;
   margin: 0;
-  margin-top: 0rem;
+  margin-top: 0;
   padding: 0; }
   .container-wrapper.row .item img {
     margin: 0 auto;
@@ -236,7 +237,7 @@ background-color:#e6e6e6;  }
   font-size: 18px; }
 
 .content-button input[type="button"] {
-  background-color: rgba(1, 211, 255, 0.79);
+   background-color: rgba(1, 211, 255, 0.79);
   border: 0;
   padding: 10px;
   font-size: 16px;
@@ -366,7 +367,7 @@ a.button.read-more-button:hover {
     color: #fff;
     padding-right: 50px;
     padding-left: 15px;
-    background-image: url("../images-new/arrow-white.png");
+   background-image: url("../images-new/arrow-white.png");
     background-repeat: no-repeat;
     background-position: 97% 50%;
     background-size: 20px; }
