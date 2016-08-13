@@ -12,27 +12,27 @@
                     </ol>
                     <!-- Wrapper for slides-->
                     <div role="listbox" class="carousel-inner">
-                        <div class="item active"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner1.png" alt="Easa online training">
+                        <div class="item active"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner1.jpg" alt="Easa online training">
                             <div class="carousel-content col-sm-5 col-md-5">
-                                <div style="color:white" class="content-heading">Training Programs</div>
-                                    <h3 style="color:white">Best in class employee enablement<br>and training programs.</h3>
-<br><br>
-                                <div  class="content-button"><input type="button" value="Read more" onClick="window.location='http://365onlinetraining.com/training-programs/';"></div>
+                                <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Training Programs</div>
+                                    <h4 style="color:white;font-family: 'Raleway', sans-serif;">Best in class employee enablement and<br>training programs.</h4>
+<br>
+                                <div  class="content-button"><input type="button" value="READ MORE" onClick="window.location='http://365onlinetraining.com/training-programs/';"></div>
                             </div>
                         </div>
                        
-                        <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner2.jpg" alt="Project management">
+                        <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner2.png" alt="Project management">
                             <div class="carousel-content col-sm-5 col-md-5">
-                                <div style="color:white" class="content-heading">Project Support</div>
-		<h3 style="color:white">Highly efficient support services<br>which help in delivering the<br> projects on time.</h3><br><br>
-                                <div class="content-button"><input type="button" value="Read more" onClick="window.location='http://365onlinetraining.com/training-programs/';"></div>
+                                <div style="color:black;font-family: 'PT Sans', sans-serif;" class="content-heading">Project Support</div>
+		<h4 style="color:black; font-family: 'Raleway', sans-serif;">Highly efficient support services which<br>help in delivering theprojects on time.</h4><br>
+                                <div class="content-button"><input type="button" value="READ MORE" onClick="window.location='http://365onlinetraining.com/training-programs/';"></div>
                             </div>
                         </div>
-						 <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/corporate-training.jpg" alt="Corporate training">
+						 <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner3.jpeg" alt="Corporate training">
                             <div class="carousel-content col-sm-5 col-md-5">
-                                <div style="color:white" class="content-heading">Enterprise Digital Solution</div>
-                               <h3 style="color:white">Digital solution to empower organization<br>to be online 365 days a year.</h3><br><br>
-                                <div class="content-button"><input type="button" value="Read more" onClick="window.location='http://365onlinetraining.com/training-programs/';"></div>
+                                <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Enterprise Digital Solution</div>
+                               <h4 style="color:white;font-family: 'Raleway', sans-serif;">Digital solution to empower organization<br>to be online 365 days a year.</h4><br>
+                                <div class="content-button"><input type="button" value="READ MORE" onClick="window.location='http://365onlinetraining.com/training-programs/';"></div>
                             </div> 
                         </div>
                     </div>
@@ -62,49 +62,49 @@
                     </div>
                 </div>
             </div>
-            <div class="container-wrapper row category-group-info-wrapper">
+            <div class="container-wrapper row category-group-info-wrapper" >
                 <div class="container-center row">
                     <div class="category-group-info clearfix">
-                        <div class="col-sm-8 center-block">
+                        <div class="col-sm-12 center-block">
                             <div class="category-group-info-title-ex text-center">
-                                <h3>Digital Experience</h3></div>
+                                <h3 style="font-family: 'PT Sans', sans-serif;">Digital Experience</h3></div>
                          <div class="category-group-info-desc">
-                                <div>
-                                Digital Experience is the center of all Enterprise strategies. We help enterprises to achieve their vision and empower them to provide un matched digital Experience to their Customer. We use both best in class Oracle WebCenter Sites and Sites cloud solution to achieve this.
+                                <div style="font-family: 'Raleway', sans-serif;">
+                                <p><font size="5">Digital Experience is the center of all Enterprise strategies. We help enterprises to achieve their vision and empower them to provide un matched digital Experience to their Customer. We use both best in class Oracle WebCenter Sites and Sites cloud solution to achieve this.</font></p>
 </div>
 </div>
                          
-                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More.....</span></a></div>
+                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div>
                         </div>
                     </div>
                     <div class="category-group-info clearfix">
-                        <div class="col-sm-8 center-block">
+                        <div class="col-sm-12 center-block">
                             <div class="category-group-info-title-ex text-center">
-                                <h3>Web Commerce</h3></div>
+                                <h3 style="font-family: 'PT Sans', sans-serif;">Web Commerce</h3></div>
                             <div class="category-group-info-desc">
-                                <div>Our web commerce solution help organization to deliver a personalized online buying experience to their customers. We use our expertise in Oracle ATG web commerce and open Source product like Magento and Prestashop to deliver the commerce portal.</div>
+                                <div style="font-family: 'Raleway', sans-serif;"><p><font size="5">Our web commerce solution help organization to deliver a personalized online buying experience to their customers. We use our expertise in Oracle ATG web commerce and open Source product like Magento and Prestashop to deliver the commerce portal.</font></p></div>
                             </div>
-                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More.....</span></a></div>
+                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div>
                         </div>
                     </div>
                     <div class="category-group-info clearfix">
-                        <div class="col-sm-8 center-block">
+                        <div class="col-sm-12 center-block">
                             <div class="category-group-info-title-ex text-center">
-                                <h3>Enterprise Content Management</h3></div>
+                                <h3 style="font-family: 'PT Sans', sans-serif;">Enterprise Content Management</h3></div>
                             <div class="category-group-info-desc">
-                                <div>Content managemet is one of the key task for all the enterprises and we help them to achieve this. Our solution uses Oracle WebCenter Content and document cloud service to create scalable repositories which support enterprise-wide applications.</div>
+                                <div style="font-family: 'Raleway', sans-serif;"><p><font size="5">Content managemet is one of the key task for all the enterprises and we help them to achieve this. Our solution uses Oracle WebCenter Content and document cloud service to create scalable repositories which support enterprise-wide applications.</font></p></div>
                             </div>
-                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More.....</span></a></div>
+                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div>
                         </div>
                     </div>
                     <div class="category-group-info clearfix">
-                        <div class="col-sm-8 center-block">
+                        <div class="col-sm-12 center-block">
                             <div class="category-group-info-title-ex text-center">
-                                <h3>Enterprise Mobility</h3></div>
+                                <h3 style="font-family: 'PT Sans', sans-serif;">Enterprise Mobility</h3></div>
                             <div class="category-group-info-desc">
-                                <div>We deliver the most advanced solution for developing and securing mobile applications. Our solution use Oracle Mobile Application Framework and Mobile cloud Service to to deliver highly engaging mobile experiences.</div>
+                                <div style="font-family: 'Lato', sans-serif;"><p><font size="5">We deliver the most advanced solution for developing and securing mobile applications. Our solution use Oracle Mobile Application Framework and Mobile cloud Service to to deliver highly engaging mobile experiences.</font></p></div>
                             </div>
-                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span>Read More.....</span></a></div>
+                            <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div>
                         </div>
                     </div>
                 </div>
@@ -114,7 +114,7 @@
                 <div class="courses-wrapper">
                     <div class="container-heading col-xs-12">
 <br>
-                        <h3  style="color:#262626">T r a i n i n g &nbsp;&nbsp;P r o g r a m s</h3>
+                        <h3  style="color:#262626; font-family: 'PT Sans', sans-serif;">T r a i n i n g &nbsp;&nbsp;P r o g r a m s</h3>
 <hr style="border : 0;height: 1px; width:50%;letter-spacing:px;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
 <br></div>
                     <div class="container-details col-xs-6 col-sm-3">
@@ -134,7 +134,7 @@ Date.prototype.addDays = function(days)
 
 var dat =  new Date();
 
-var dt=dat.addDays(5);
+var dt=dat.addDays(2);
 document.write(dt.toDateString());
 
 </script> ';  ?>
@@ -159,7 +159,7 @@ Date.prototype.addDays = function(days)
 
 var dat =  new Date();
 
-var dt=dat.addDays(5);
+var dt=dat.addDays(2);
 document.write(dt.toDateString());
 
 </script> ';  ?></div>
@@ -183,7 +183,7 @@ Date.prototype.addDays = function(days)
 
 var dat =  new Date();
 
-var dt=dat.addDays(5);
+var dt=dat.addDays(3);
 document.write(dt.toDateString());
 
 </script> ';  ?></div>
@@ -207,7 +207,7 @@ Date.prototype.addDays = function(days)
 
 var dat =  new Date();
 
-var dt=dat.addDays(5);
+var dt=dat.addDays(3);
 document.write(dt.toDateString());
 
 </script> ';  ?></div>
@@ -231,7 +231,7 @@ Date.prototype.addDays = function(days)
 
 var dat =  new Date();
 
-var dt=dat.addDays(5);
+var dt=dat.addDays(4);
 document.write(dt.toDateString());
 
 </script> ';  ?></div>
@@ -255,7 +255,7 @@ Date.prototype.addDays = function(days)
 
 var dat =  new Date();
 
-var dt=dat.addDays(5);
+var dt=dat.addDays(4);
 document.write(dt.toDateString());
 
 </script> ';  ?></div>
@@ -271,15 +271,15 @@ document.write(dt.toDateString());
                         <div class="container-cloud-info">
                             <div class="container-cloud-title clearfix">
 <br>
-                                <h3 style="color:white">C l o u d &nbsp;&nbsp;S o l u t i o n s</h3>
+                                <h3 style="color:white;font-family: 'PT Sans', sans-serif;">C l o u d &nbsp;&nbsp;S o l u t i o n s</h3>
 <hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));"></div>
 <br>
                             <div class=" row">
                                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 pull-left">
-                                    <div ><a href="#" class="button button-cloud"><h3 style="color:white;text-decoration: none"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle Eloqua Marketing Cloud Service</h3></a></div>
-                                    <div ><a href="#" class="button button-cloud"><h3 style="color:white;text-decoration: none"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle Sites Cloud Service</h3></a></div> 
-                                    <div ><a href="#" class="button button-cloud"><h3 style="color:white;text-decoration: none"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle Document Cloud Service</h3></a></div>
-                                    <div ><a href="#" class="button button-cloud"><h3 style="color:white;text-decoration: none"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle Java Cloud Service</h3></a></div>
+                                    <div ><a href="#" class="button button-cloud"><h3 style="color:white;font-family: 'Raleway', sans-serif;"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle Eloqua Marketing Cloud Service</h3></a></div>
+                                    <div ><a href="#" class="button button-cloud"><h3 style="color:white;font-family: 'Raleway', sans-serif;"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle Sites Cloud Service</h3></a></div> 
+                                    <div ><a href="#" class="button button-cloud"><h3 style="color:white;font-family: 'Raleway', sans-serif;"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle Document Cloud Service</h3></a></div>
+                                    <div ><a href="#" class="button button-cloud"><h3 style="color:white;font-family: 'Raleway', sans-serif;"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle Java Cloud Service</h3></a></div>
                                 </div>
 								<div class=" col-xs-6 col-sm-6 col-md-6 col-lg-6 pull-right" style="margin-top:-220px"><div ><img src="<?php bloginfo('template_directory'); ?>/images-new/cloud.png"></div>
 <br><br>
@@ -289,7 +289,7 @@ document.write(dt.toDateString());
                     </div>
                 </div>
             </div> 
-            <div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
+         <!--    <div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
                 <div class="container-center col-xs-12 column">
                     <div class="client-wrapper clearfix">
 <br>
@@ -320,13 +320,13 @@ document.write(dt.toDateString());
 							
                         </div>
                         <a href="#myCarousel2" role="button" data-slide="prev" class="left carousel-control">
-                            <div class="glyphicon glyphicon-chevron-left"><img src="<?php bloginfo('template_directory'); ?>/images-new/left-arrow.png"></div><span class="sr-only">Previous</span></a>
+                            <div class="glyphicon glyphicon-chevron-left"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-left.png"></div><span class="sr-only">Previous</span></a>
                         <a href="#myCarousel2" role="button" data-slide="next" class="right carousel-control">
-                            <div class="glyphicon glyphicon-chevron-right"><img src="<?php bloginfo('template_directory'); ?>/images-new/right-arrow.png"></div><span class="sr-only">Next</span></a>
+                            <div class="glyphicon glyphicon-chevron-right"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-right.png"></div><span class="sr-only">Next</span></a>
                     </div>
                 </div>
             </div>
-        </div> 
+        </div> -->
        <!-- <div class="container-wrapper row">
             <div class="container-center col-xs-12 column">
                 <div class="feeds-wrapper clearfix">
@@ -365,7 +365,7 @@ document.write(dt.toDateString());
                     <div class="footer-about-company">
                         <div class="region-footer">
                             <div class="content">
-                                <h5><b>Copyright 2016 365 Online. All Right Reserved &nbsp;&nbsp;&nbsp;</b><a href="#top"><img style="height:25px; widht:25px" src="<?php bloginfo('template_directory'); ?>/images-new/up-arrow.png"></a></h5></div>
+                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2016 365 Online. All Right Reserved &nbsp;&nbsp;&nbsp;<a href="#top"><img style="height:25px; widht:25px" src="<?php bloginfo('template_directory'); ?>/images-new/up-arrow.png"></a></h5></div>
                         </div>
                     </div>
                 </div>
