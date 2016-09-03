@@ -35,7 +35,7 @@
                 <div class="nav-logo col-sm-4 col-md-4 column"><img  src="<?php bloginfo('template_directory'); ?>/images/logo1.png" ></div>
             </div>
             <div class="header_user_info col-md-8 col-sm-8 column col-xs-8">
-                <div class="nav-wrap col-sm-2 col-xs-2 blog-wrap" style="font-family: 'Lato', sans-serif;"><button class="blogs"><a href="http://365onlinetraining.com/blog/"><b>Blog</b></a></button>
+                <div class="nav-wrap col-sm-2 col-xs-2 blog-wrap" style="font-family: 'Lato', sans-serif;"><button class="blogs"><b>Blog</b></button>
                  <div class="nav-wrap-dropdown">  
         		  	<ul class="dropdown-list">
                         <li class="dropdown-list-detail"><a href="http://365onlinetraining.com/webcenter-sites-blog/">Oracle WebCenter Sites</a>
