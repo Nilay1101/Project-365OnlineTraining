@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js<?php mh_html_class(); ?> <?php language_attributes(); ?>
+<html class="no-js<?php mh_html_class(); ?>" <?php language_attributes(); ?>>
 <head>
 
 <meta charset="<?php bloginfo('charset'); ?>">
@@ -13,7 +13,7 @@
 </head>
 
 <body>
-<br><br><br>
+<br><br>
 <?php
 /*
 Template Name: About
@@ -23,17 +23,15 @@ Template Name: About
 <?php get_header(); ?>
 <section id="Section-1" class="fullbg" style="z-index:0;">
 <div class="container" style="box-shadow:none">
-<div class="row">
-	<div class="page-header text-center col-sm-12 col-lg-12 color-white">
+<div class="row page-header text-center color-white">
 		<h1>About Us</h1>
 		<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
-<br><br><br>
+<br>
 		<p class="lead">
-			some lines....<br>some lines....<br>some lines....
+			some lines....<br>some lines....<br>some lines....<br>some lines....
 		</p>
-	</div>
-</div>
-<br><br>
+
+<br>
 <div class="row color-white">
 	<div class="col-md-12">
 		<div class="boxservice bottomb">
@@ -65,13 +63,11 @@ Template Name: About
 
 <section id="Section-4" class="fullbg color-white" style="z-index:0;">
 <div class="container" style="box-shadow:none">
-<div class="row">
-	<div class="page-header text-center col-sm-12 col-lg-12 animated fade">
-		<h1>Reviews</h1>
+<div class="row page-header text-center">
+	
+		<h1>Customer Reviews</h1>
  <hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
-	</div>
-</div>
-<br><br>
+<br>
 <div class="row testimonials">
 	<div class="col-sm-12 col-lg-12">
 		<div class="arrow">
@@ -80,11 +76,11 @@ Template Name: About
 			<div class="slide">
 				<div class="testimonials-carousel-thumbnail">
 					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/avatar.jpg">
-				</div>
-				<div class="testimonials-carousel-context">
-					<div class="testimonials-name">
+                                        <div class="testimonials-name">
 						 Bill Robinson <span>google.com</span>
 					</div>
+				</div>
+				<div class="testimonials-carousel-context">
 					<div class="testimonials-carousel-content">
 						<p>
 							some lines....<br>some lines....<br>some lines....
@@ -96,11 +92,11 @@ Template Name: About
 			<div class="slide">
 				<div class="testimonials-carousel-thumbnail">
 					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/avatar.jpg">
+                                        <div class="testimonials-name">
+						 Andrew Bilson <span>alpha.com</span>
+					</div>
 				</div>
 				<div class="testimonials-carousel-context">
-					<div class="testimonials-name">
-						 Andrew Bilson <span>wowthemes.net</span>
-					</div>
 					<div class="testimonials-carousel-content">
 						<p>
 							some lines....<br>some lines....<br>some lines....
@@ -108,7 +104,9 @@ Template Name: About
 					</div>
 				</div>
 			</div>
-		</div>
+		</div><br><br><br>
+<a href="#" class="buttoncolor"><i class="fa fa-link"></i>&nbsp;Write a review</a>
+<br><br>
 	</div>
 </div>
 </div>
