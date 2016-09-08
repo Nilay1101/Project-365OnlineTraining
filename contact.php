@@ -13,6 +13,60 @@
 <link href="<?php bloginfo('template_directory'); ?>/assets/css/skin-blue.css" rel="stylesheet">
 </head>
 
+<style>
+.floating-label-form-group {
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #eeeeee;
+}
+.floating-label-form-group input,
+.floating-label-form-group textarea {
+  z-index: 1;
+  position: relative;
+  padding-right: 0;
+  padding-left: 0;
+  border: none;
+  border-radius: 0;
+  font-size: 1.5em;
+  background: none;
+  box-shadow: none !important;
+  resize: none;
+  color:white;
+}
+.floating-label-form-group label {
+  display: block;
+  z-index: 0;
+  position: relative;
+  top: 2em;
+  margin: 0;
+  font-size: 0.85em;
+  line-height: 1.764705882em;
+  vertical-align: middle;
+  vertical-align: baseline;
+  opacity: 0;
+  -webkit-transition: top 0.3s ease,opacity 0.3s ease;
+  -moz-transition: top 0.3s ease,opacity 0.3s ease;
+  -ms-transition: top 0.3s ease,opacity 0.3s ease;
+  transition: top 0.3s ease,opacity 0.3s ease;
+}
+.floating-label-form-group:not(:first-child) {
+  padding-left: 14px;
+  border-left: 1px solid #eeeeee;
+}
+.floating-label-form-group-with-value label {
+  top: 0;
+  opacity: 1;
+}
+.floating-label-form-group-with-focus label {
+  color: #18BC9C;
+}
+form .row:first-child .floating-label-form-group {
+  border-top: 1px solid #eeeeee;
+}
+
+</style>
+
 <body>
 <br><br><br>
 <?php
@@ -27,31 +81,54 @@ Template Name: Contact
 <section id="Section-6" class="fullbg" style="z-index:0;">
 <div class="container" style="box-shadow:none">
 	<div class="page-header text-center col-sm-12 col-lg-12 color-white ">
-		<h2>Contact Us</h2>
+		<h2 style="color:white;font-family: 'PT Sans', sans-serif;">Contact Us</h2>
 		<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
-	
-<div class="row">
-	<div class="col-lg-8 col-md-offset-2">
-		<form action="#" name="MYFORM" id="MYFORM">
-			<input name="name" size="30" type="text" id="name" class="col-lg-6 leftradius" placeholder="Your Name">
-			<input name="email" size="30" type="text" id="email" class="col-lg-6 rightradius" placeholder="E-mail Address">
-			<br>
-			<textarea id="message" name="message" class="col-lg-12 allradius" placeholder="Message" rows="7"></textarea>
-			<br>
-			<img src="contact/refresh.jpg" alt="" id="refresh" style="width:45px;"/><img src="contact/get_captcha.php" alt="" id="captcha" style="height:45px;"/>
-			<br>
-			<input name="code" type="text" id="code" placeholder="Enter Captcha" class="top20">
-			<br>
-			<input value="Send Message" type="submit" id="Send" class="btn btn-default btn-lg">
-			
-			
-		</form>
-	</div>
-</div><br><br>
+
+<div class="col-lg-8 col-lg-offset-2">
+                    <form name="sentMessage" id="contactForm" novalidate>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Name</label>
+                                <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Email Address</label>
+                                <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Phone Number</label>
+                                <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Message</label>
+                                <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <br>
+                        <div id="success"></div>
+                        <div class="row">
+                            <div class="form-group col-lg-11 col-lg-offset-2">
+                                <button type="submit" class="btn btn-success btn-lg">Send</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+</div><br><br><br><br><br><br><br><br><br>
 </div>
 </section>
 
-<footer id="foot-sec" class="fullbg" style="z-index:0;margin-top:-150px" >
+<footer id="foot-sec" class="fullbg" style="z-index:0;margin-top:-84px" >
 <div class="container " style="box-shadow:none">
 <div class="row">
 <br><br>
@@ -96,4 +173,6 @@ Template Name: Contact
 <script src="<?php bloginfo('template_directory'); ?>/assets/js/toucheffects.js"></script>
 <script src="<?php bloginfo('template_directory'); ?>/assets/js/animations.js"></script>
 <script src="<?php bloginfo('template_directory'); ?>/assets/js/init.js"></script>
+<script src="<?php bloginfo('template_directory'); ?>/assets/js/jqBootstrapValidation.js"></script>
+<script src="<?php bloginfo('template_directory'); ?>/assets/js/contact_me.js"></script>
 </body>
