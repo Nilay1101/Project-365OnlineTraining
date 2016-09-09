@@ -85,32 +85,32 @@ Template Name: Contact
 		<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
 
 <div class="col-lg-8 col-lg-offset-2">
-                    <form name="sentMessage" id="contactForm" novalidate>
+                    <form action="<?php bloginfo('template_directory'); ?>/contact_me.php" method="post" name="sentMessage" id="contactForm">
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Name</label>
-                                <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
+                                <input type="text" class="form-control" placeholder="Name" name="name">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Email Address</label>
-                                <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+                                <input type="email" class="form-control" placeholder="Email Address" name="email">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Phone Number</label>
-                                <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
+                                <input type="tel" class="form-control" placeholder="Phone Number" name="phone">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Message</label>
-                                <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                                <textarea rows="5" class="form-control" placeholder="Message" name="message"></textarea>
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
@@ -134,12 +134,9 @@ Template Name: Contact
 <br><br>
 	<div class="text-center color-white col-lg-11">
 		<ul class="social-icons">
-			<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-			<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+			<li><a href="https://www.linkedin.com/in/tusharwebcentersitestrainer"><i class="fa fa-linkedin no-spin"></i></a></li>
+<li><a href="mailto:contact@365onlinetraining.com"><i class="fa fa-envelope"></i></a></li>
 		</ul>
-		<p>
-			 email | contact
-		</p>
 	</div>
 </div>
 </div>
@@ -173,6 +170,4 @@ Template Name: Contact
 <script src="<?php bloginfo('template_directory'); ?>/assets/js/toucheffects.js"></script>
 <script src="<?php bloginfo('template_directory'); ?>/assets/js/animations.js"></script>
 <script src="<?php bloginfo('template_directory'); ?>/assets/js/init.js"></script>
-<script src="<?php bloginfo('template_directory'); ?>/assets/js/jqBootstrapValidation.js"></script>
-<script src="<?php bloginfo('template_directory'); ?>/assets/js/contact_me.js"></script>
 </body>
