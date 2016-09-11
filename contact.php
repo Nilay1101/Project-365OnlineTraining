@@ -83,34 +83,41 @@ Template Name: Contact
 	<div class="page-header text-center col-sm-12 col-lg-12 color-white ">
 		<h2 style="color:white;font-family: 'PT Sans', sans-serif;">Contact Us</h2>
 		<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
+<p class="lead animated fadeInLeftBig" style="color:white; font-family: 'Raleway', sans-serif;">
+Mail Us : <a href="mailto:contact@365onlinetraining.com">contact@365onlinetraining.com </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Call : +91 7795-472-579
+</p>
 
-<div class="col-lg-8 col-lg-offset-2">
-                    <form action="<?php bloginfo('template_directory'); ?>/contact_me.php" method="post" name="sentMessage" id="contactForm">
+<p class="lead animated fadeInLeftBig" style="color:white; font-family: 'Raleway', sans-serif;">
+Or<br><br>Fill out the form and we will call you back
+</p>
+
+<div class="col-lg-8 col-lg-offset-2 animated fadeInUpNow">
+                    <form action="<?php bloginfo('template_directory'); ?>/contact_me.php" method="post" name="sentMessage" id="contactForm" novalidate>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Name</label>
-                                <input type="text" class="form-control" placeholder="Name" name="name">
+                                <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Email Address</label>
-                                <input type="email" class="form-control" placeholder="Email Address" name="email">
+                                <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Phone Number</label>
-                                <input type="tel" class="form-control" placeholder="Phone Number" name="phone">
+                                <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Message</label>
-                                <textarea rows="5" class="form-control" placeholder="Message" name="message"></textarea>
+                                <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter your message."></textarea>
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
@@ -124,18 +131,17 @@ Template Name: Contact
                     </form>
                 </div>
 
-</div><br><br><br><br><br><br><br><br><br>
+</div><br><br><br><br><br><br><br><br><br><br>
 </div>
 </section>
 
-<footer id="foot-sec" class="fullbg" style="z-index:0;margin-top:-84px" >
+<footer id="foot-sec" class="fullbg" style="z-index:0;margin-top:-45px" >
 <div class="container " style="box-shadow:none">
 <div class="row">
 <br><br>
 	<div class="text-center color-white col-lg-11">
 		<ul class="social-icons">
-			<li><a href="https://www.linkedin.com/in/tusharwebcentersitestrainer"><i class="fa fa-linkedin no-spin"></i></a></li>
-<li><a href="mailto:contact@365onlinetraining.com"><i class="fa fa-envelope"></i></a></li>
+			<li><a href="https://www.linkedin.com/in/tusharwebcentersitestrainer"><i class="fa fa-linkedin"></i></a></li>
 		</ul>
 	</div>
 </div>
@@ -170,4 +176,6 @@ Template Name: Contact
 <script src="<?php bloginfo('template_directory'); ?>/assets/js/toucheffects.js"></script>
 <script src="<?php bloginfo('template_directory'); ?>/assets/js/animations.js"></script>
 <script src="<?php bloginfo('template_directory'); ?>/assets/js/init.js"></script>
+<script src="<?php bloginfo('template_directory'); ?>/assets/js/jqBootstrapValidation.js"></script>
+<script src="<?php bloginfo('template_directory'); ?>/assets/js/contact_me.js"></script>
 </body>
