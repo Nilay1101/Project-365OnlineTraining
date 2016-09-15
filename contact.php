@@ -91,7 +91,7 @@ Mail Us : <a href="mailto:contact@365onlinetraining.com">contact@365onlinetraini
 Or<br><br>Fill out the form and we will call you back
 </p>
 
-<div class="col-lg-8 col-lg-offset-2 animated fadeInUpNow">
+<div class="col-lg-8 col-lg-offset-2">
                     <form action="<?php bloginfo('template_directory'); ?>/contact_me.php" method="post" name="sentMessage" id="contactForm" novalidate>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
@@ -137,12 +137,28 @@ Or<br><br>Fill out the form and we will call you back
 
 <footer id="foot-sec" class="fullbg" style="z-index:0;margin-top:-45px" >
 <div class="container " style="box-shadow:none">
-<div class="row">
 <br><br>
-	<div class="text-center color-white col-lg-11">
-		<ul class="social-icons">
-			<li><a href="https://www.linkedin.com/in/tusharwebcentersitestrainer"><i class="fa fa-linkedin"></i></a></li>
-		</ul>
+<div class="row">
+	<div class="text-center color-white col-lg-4">
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">About Us</h4>
+	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>365 Online is the leading IT training and consultancy provider in the field of customer experience.. &nbsp;&nbsp;</small><a href="http://365onlinetraining.com/about-us/"> Read more</a></p>
+	 <ul class="social-icons">
+		<li><a href="https://www.linkedin.com/in/tusharwebcentersitestrainer"><i class="fa fa-linkedin"></i></a></li>
+	</ul>
+	</div>
+
+	<div class="text-center color-white col-lg-4">
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Recent Posts</h4>
+	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/change-language-of-oracle-webcenter-sites-interfaces/"> Change language of oracle webcenter sites interface</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/how-to-start-oracle-webcenter-sites-12c-jump-start-kit/"> How to start oracle webcenter sites 12C jump start kit</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/oracle-webcenter-sites-11g-how-to-make-left-side-admin-tab-works-in-mozilla-firefox-browser/"> Oracle webcenter sites 11g</a></small></p>
+	</div>
+
+	<div class="text-center color-white col-lg-3">
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Contact</h4>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-envelope"></i><small><a href="mailto:contact@365onlinetraining.com"> &nbsp;contact@365onlinetraining.com </a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91 7795-472-579</small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="<a href="mailto:contact@365onlinetraining.com"> &nbsp;Write to us</a></small></p>
 	</div>
 </div>
 </div>
@@ -156,7 +172,7 @@ Or<br><br>Fill out the form and we will call you back
                     <div class="footer-about-company">
                         <div class="region-footer">
                             <div class="content">
-                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2016 365 Online. All Right Reserved &nbsp;&nbsp;&nbsp;<a href="#top"><img style="height:25px; widht:25px" src="<?php bloginfo('template_directory'); ?>/images-new/up-arrow.png"></a></h5></div>
+                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2016 365 Online. All Right Reserved</h5></div>
                         </div>
                     </div>
                 </div>

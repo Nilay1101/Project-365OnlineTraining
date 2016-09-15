@@ -12,7 +12,7 @@
                     </ol>
                     <!-- Wrapper for slides-->
                     <div role="listbox" class="carousel-inner">
-                        <div class="item active"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner1.jpg" alt="Easa online training">
+                        <div class="item active"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner1.png" alt="Easa online training">
                             <div class="carousel-content col-sm-5 col-md-5">
                                 <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Training Programs</div>
                                     <h4 style="color:white;font-family: 'Raleway', sans-serif;"><br><br>Best in class employee enablement and<br><br>training programs.</h4>
@@ -23,8 +23,8 @@
                        
                         <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner2.png" alt="Project management">
                             <div class="carousel-content col-sm-5 col-md-5">
-                                <div style="color:black;font-family: 'PT Sans', sans-serif;" class="content-heading">Project Support</div>
-		<h4 style="color:black; font-family: 'Raleway', sans-serif;"><br><br>Highly efficient support services which<br><br>help in delivering theprojects on time.</h4><br><br><br>
+                                <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Project Support</div>
+		<h4 style="color:white; font-family: 'Raleway', sans-serif;"><br><br>Highly efficient support services which<br><br>help in delivering theprojects on time.</h4><br><br><br>
                                <div class="content-button"><input type="button" value="READ MORE" onClick="window.location='#sec2';"></div>
                             </div>
                         </div>
@@ -306,10 +306,10 @@ document.write(dt.toDateString());
 <br>
                             <div class=" row">
                                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 pull-left">
-                                    <div ><h3 style="color:white;font-family: 'Raleway', sans-serif;"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle WebCenter Sites Project Support</h3></div>
-                                    <div ><h3 style="color:white;font-family: 'Raleway', sans-serif;"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle ADF Project Support</h3></div> 
-                                    <div ><h3 style="color:white;font-family: 'Raleway', sans-serif;"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle ATG Commerce Project Support</h3></div>
-                                    <div ><!--<a href="" class="button button-cloud">--><h3 style="color:white;font-family: 'Raleway', sans-serif;"><img src="<?php bloginfo('template_directory'); ?>/images-new/arrow-white.png">&nbsp;Oracle eLoqua Project Support</h3><!--</a>--></div>
+                                    <div ><h3 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-arrow-right"></i> Oracle WebCenter Sites Project Support</h3></div>
+                                    <div ><h3 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-arrow-right"></i> Oracle ADF Project Support</h3></div> 
+                                    <div ><h3 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-arrow-right"></i> Oracle ATG Commerce Project Support</h3></div>
+                                    <div ><!--<a href="" class="button button-cloud">--><h3 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-arrow-right"></i> Oracle eLoqua Project Support</h3><!--</a>--></div>
                                 </div>
 								<div class=" col-xs-6 col-sm-6 col-md-6 col-lg-6 pull-right" style="margin-top:-220px"><div ><img src="<?php bloginfo('template_directory'); ?>/images-new/cloud.png"></div>
 <br><br>
@@ -388,6 +388,35 @@ document.write(dt.toDateString());
                 </div>
             </div>
         </div> -->
+
+<footer id="foot-sec" class="fullbg" style="z-index:0;margin-top:-45px" >
+<div class="container " style="box-shadow:none">
+<br>
+<div class="row">
+	<div class="text-center color-white col-lg-4">
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">About Us</h4>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>365 Online is the leading IT training and consultancy provider in the field of customer experience.. &nbsp;&nbsp;</small><a href="http://365onlinetraining.com/about-us/"> Read more</a></p>
+	 <a href="https://www.linkedin.com/in/tusharwebcentersitestrainer"><i class="fa fa-linkedin"></i></a></li>
+	
+	</div>
+
+	<div class="text-center color-white col-lg-4">
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Recent Posts</h4>
+	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left"><i class="fa fa-arrow-right"></i><small ><a href="http://365onlinetraining.com/change-language-of-oracle-webcenter-sites-interfaces/"> Change language of oracle webcenter sites interface</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/how-to-start-oracle-webcenter-sites-12c-jump-start-kit/"> How to start oracle webcenter sites 12C jump start kit</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/oracle-webcenter-sites-11g-how-to-make-left-side-admin-tab-works-in-mozilla-firefox-browser/"> Oracle webcenter sites 11g</a></small></p>
+	</div>
+
+	<div class="text-center color-white col-lg-3">
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Contact</h4>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-envelope"></i><small><a href="mailto:contact@365onlinetraining.com"> &nbsp;contact@365onlinetraining.com </a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91 7795-472-579</small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="<a href="mailto:contact@365onlinetraining.com"> &nbsp;Write to us</a></small></p>
+	</div>
+</div>
+</div>
+</footer>
+
         <div style="background:black" class="footer">
            <div class="row footer-about-company-row">
 			<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
@@ -396,7 +425,7 @@ document.write(dt.toDateString());
                     <div class="footer-about-company">
                         <div class="region-footer">
                             <div class="content">
-                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2016 365 Online. All Right Reserved &nbsp;&nbsp;&nbsp;<a href="#top"><img style="height:25px; widht:25px" src="<?php bloginfo('template_directory'); ?>/images-new/up-arrow.png"></a></h5></div>
+                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2016 365 Online. All Right Reserved</h5></div>
                         </div>
                     </div>
                 </div>

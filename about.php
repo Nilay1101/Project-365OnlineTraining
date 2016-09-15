@@ -34,19 +34,19 @@ Template Name: About
 <br>
 <div class="row color-white">
 	<div class="col-md-12">
-		<div class="boxservice bottomb">
+		<div class="boxservice ">
 			<i class="fa fa-gear"></i>
-			<h3>Training Programs</h3>
+			<h3 style="color:white;font-family: 'PT Sans', sans-serif;">Training Programs</h3>
 			
 		</div>
-		<div class="boxservice bottomb">
+		<div class="boxservice">
 			<i class="fa fa-rocket"></i>
-			<h3>Project Consultancy</h3>
+			<h3 style="color:white;font-family: 'PT Sans', sans-serif;">Project Consultancy</h3>
 			
 		</div>
-		<div class="boxservice rightb bottomb">
+		<div class="boxservice rightb">
 			<i class="fa fa-laptop"></i>
-			<h3>Digital Solutions </h3>
+			<h3 style="color:white;font-family: 'PT Sans', sans-serif;">Digital Solutions </h3>
 			
 		</div>
 	</div>
@@ -72,7 +72,7 @@ Template Name: About
 					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/1.jpg">    
 				</div>
 				<div class="testimonials-carousel-context">
-                                        <div class="testimonials-name">
+                                        <div class="testimonials-name text-left">
 						 Amol Gavali<span>WebCenter Content/Imaging/Records Architect</span>
                                                  <a href="https://www.linkedin.com/in/amol-gavali-a219201"><i class="fa fa-linkedin" style="color:black"></i></a>
 					</div>
@@ -89,7 +89,7 @@ Template Name: About
 					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/2.jpg">     
 				</div>
 				<div class="testimonials-carousel-context">
-                                        <div class="testimonials-name">
+                                        <div class="testimonials-name text-left">
 						 Ibrahim Maro<span>Senior Solution Consultant at Omnix Technology</span> <a href="https://www.linkedin.com/in/iamaro"><i class="fa fa-linkedin" style="color:black"></i></a>
 					</div>
 					<div class="testimonials-carousel-content">
@@ -105,7 +105,7 @@ Template Name: About
 					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/3.jpg">     
 				</div>
 				<div class="testimonials-carousel-context">
-                                        <div class="testimonials-name">
+                                        <div class="testimonials-name text-left">
 						 Milena Djurasovic<span>Oracle UCM/Stellant Consultant</span> <a href="https://www.linkedin.com/in/mdjurasovic"><i class="fa fa-linkedin" style="color:black"></i></a>
 					</div>
 					<div class="testimonials-carousel-content">
@@ -121,7 +121,7 @@ Template Name: About
 					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/4.jpg">     
 				</div>
 				<div class="testimonials-carousel-context">
-                                        <div class="testimonials-name">
+                                        <div class="testimonials-name text-left">
 						 Logixal Inc<span></span> <a href="http://www.logixal.com/"><i class="fa fa-globe" style="color:black"></i></a>
 					</div>
 					<div class="testimonials-carousel-content">
@@ -136,6 +136,36 @@ Template Name: About
 </div>
 </div>
 </section>
+
+<footer id="foot-sec" class="fullbg" style="z-index:0;margin-top:-70px" >
+<div class="container " style="box-shadow:none">
+<br><br>
+<div class="row">
+	<div class="text-center color-white col-lg-4">
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">About Us</h4>
+	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>365 Online is the leading IT training and consultancy provider in the field of customer experience.. &nbsp;&nbsp;</small><a href="http://365onlinetraining.com/about-us/"> Read more</a></p>
+	 <ul class="social-icons">
+		<li><a href="https://www.linkedin.com/in/tusharwebcentersitestrainer"><i class="fa fa-linkedin"></i></a></li>
+	</ul>
+	</div>
+
+	<div class="text-center color-white col-lg-4">
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Recent Posts</h4>
+	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/change-language-of-oracle-webcenter-sites-interfaces/"> Change language of oracle webcenter sites interface</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/how-to-start-oracle-webcenter-sites-12c-jump-start-kit/"> How to start oracle webcenter sites 12C jump start kit</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/oracle-webcenter-sites-11g-how-to-make-left-side-admin-tab-works-in-mozilla-firefox-browser/"> Oracle webcenter sites 11g</a></small></p>
+	</div>
+
+	<div class="text-center color-white col-lg-3">
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Contact</h4>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-envelope"></i><small><a href="mailto:contact@365onlinetraining.com"> &nbsp;contact@365onlinetraining.com </a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91 7795-472-579</small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="<a href="mailto:contact@365onlinetraining.com"> &nbsp;Write to us</a></small></p>
+	</div>
+</div>
+</div>
+</footer>
+
 <div style="background:black" class="footer">
            <div class="row footer-about-company-row">
 			<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
@@ -144,7 +174,7 @@ Template Name: About
                     <div class="footer-about-company">
                         <div class="region-footer">
                             <div class="content">
-                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2016 365 Online. All Right Reserved &nbsp;&nbsp;&nbsp;<a href="#top"><img style="height:25px; widht:25px" src="<?php bloginfo('template_directory'); ?>/images-new/up-arrow.png"></a></h5></div>
+                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2016 365 Online. All Right Reserved</h5></div>
                         </div>
                     </div>
                 </div>
