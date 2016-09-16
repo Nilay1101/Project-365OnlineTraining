@@ -137,7 +137,7 @@ Or<br><br>Fill out the form and we will call you back
 
 <footer id="foot-sec" class="fullbg" style="z-index:0;margin-top:-45px" >
 <div class="container " style="box-shadow:none">
-<br><br>
+<br>
 <div class="row">
 	<div class="text-center color-white col-lg-4">
 	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">About Us</h4>
@@ -158,8 +158,8 @@ Or<br><br>Fill out the form and we will call you back
 	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Contact</h4>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-envelope"></i><small><a href="mailto:contact@365onlinetraining.com"> &nbsp;contact@365onlinetraining.com </a></small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91 7795-472-579</small></p>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="<a href="mailto:contact@365onlinetraining.com"> &nbsp;Write to us</a></small></p>
-	</div>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="http://365onlinetraining.com/contact/"> &nbsp;Write to us</a></small></p>
+</div>
 </div>
 </div>
 </footer>

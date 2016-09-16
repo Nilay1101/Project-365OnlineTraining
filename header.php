@@ -8,7 +8,7 @@
 
 <link type="text/css" rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/styles/reset.css">
 <link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
@@ -25,7 +25,7 @@
     </script>
 <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/scripts/365online.js"></script>
 <link href="<?php bloginfo('template_directory'); ?>/assets/css/font-awesome.min.css" rel="stylesheet">
-    <title>Home</title>
+<title>Home</title>
 </head>
 
 <body>
@@ -36,7 +36,7 @@
                 <div class="nav-logo col-sm-4 col-md-4 column"><img  src="<?php bloginfo('template_directory'); ?>/images/logo1.png" ></div>
             </div>
             <div class="header_user_info col-md-8 col-sm-8 column col-xs-8">
-                <div class="nav-wrap col-sm-2 col-xs-2 blog-wrap" style="font-family: 'Lato', sans-serif;"><button class="blogs"><b>Blog</b></button>
+                <div class="nav-wrap col-sm-2 col-xs-2 blog-wrap" style="font-family: 'Raleway', sans-serif;"><button class="blogs">Blog</button>
                  <div style="background:black" class="nav-wrap-dropdown">  
         		  	<ul class="dropdown-list">
                         <li class="dropdown-list-detail"><a>Oracle WebCenter Sites</a>
@@ -52,15 +52,15 @@
                     </ul>
 		          </div>
                 </div>
-                 <div class="nav-wrap col-xs-2 col-sm-2" style="font-family: 'Lato', sans-serif;"><button onclick="location.href='http://365onlinetraining.com/contact/';" class="contact"><a href="http://365onlinetraining.com/contact/"><b>Contact</b></a></button>
+                 <div class="nav-wrap col-xs-2 col-sm-2" style="font-family: 'Raleway', sans-serif;"><button onclick="location.href='http://365onlinetraining.com/contact/';" class="contact"><a href="http://365onlinetraining.com/contact/">Contact</a></button>
                     <ul class="dropdown-list-detail">
                         <li class="dropdown-list-detail">
                             <a href=""></a>
                         </li>
                     </ul>
                 </div> 
-                <div class="nav-wrap col-sm-2 col-xs-2" style="font-family: 'Lato', sans-serif;"><button onclick="location.href='http://365onlinetraining.com/about-us/';" class="about-us"><a href="http://365onlinetraining.com/about-us/"><b>About</b></a></button></div>
-              <!--  <div class="nav-wrap col-sm-2 col-xs-2 consultancy-wrap" style="font-family: 'Lato', sans-serif;"><button onclick="location.href='#';" class="consultancy"><a href="http://365onlinetraining.com/consultancy/"><b>Consultancy</b></a></button>
+                <div class="nav-wrap col-sm-2 col-xs-2" style="font-family: 'Raleway', sans-serif;"><button onclick="location.href='http://365onlinetraining.com/about-us/';" class="about-us"><a href="http://365onlinetraining.com/about-us/">About</a></button></div>
+              <!--  <div class="nav-wrap col-sm-2 col-xs-2 consultancy-wrap" style="font-family: 'Raleway', sans-serif;"><button onclick="location.href='#';" class="consultancy"><a href="http://365onlinetraining.com/consultancy/">Consultancy</a></button>
                     <div class="nav-wrap-dropdown">
                         <ul class="dropdown-list">
                             <li class="dropdown-list-detail"><a href="http://365onlinetraining.com/customer-experience/">customer experience</a>
@@ -91,7 +91,7 @@
                         </ul>
                     </div>
                 </div> -->
-                <div class="nav-wrap col-xs-2 col-sm-2 trainings-wrap" style="font-family: 'Lato', sans-serif;"><button onclick="location.href='#';"class="trainings"> <a href="http://365onlinetraining.com/training-programs/"><b>Training Programs</b></a></button>
+                <div class="nav-wrap col-xs-2 col-sm-2 trainings-wrap" style="font-family: 'Raleway', sans-serif;"><button onclick="location.href='#';"class="trainings"> <a href="http://365onlinetraining.com/training-programs/">Training Programs</a></button>
                     <div style="background:black" class="nav-wrap-dropdown">
                         <ul class="dropdown-list">
                             <li class="dropdown-list-detail"><a href="http://365onlinetraining.com/oracle-webcenter-sites-online-training/">Oracle Webcentre Sites Training</a></li>
@@ -105,7 +105,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="nav-wrap col-xs-2 col-sm-2" style="font-family: 'Lato', sans-serif;"><button onclick="location.href='http://365onlinetraining.com/';" class="home-icon"> <a href="http://365onlinetraining.com"><b>HOME</b></a></button></div>
+                <div class="nav-wrap col-xs-2 col-sm-2" style="font-family: 'Raleway', sans-serif;"><button onclick="location.href='http://365onlinetraining.com/';" class="home-icon"> <a href="http://365onlinetraining.com">Home</a></button></div>
             </div>
         </div>
 

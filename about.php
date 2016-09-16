@@ -57,7 +57,7 @@ Template Name: About
 
 <section id="Section-4" class="fullbg color-white" style="z-index:0;">
 <div class="container" style="box-shadow:none">
-<div class="row page-header text-center">
+<div class="row page-header text-center animated fadeInUpNow">
 	
 		<h1 style="color:white;font-family: 'PT Sans', sans-serif;">Customer Reviews</h1>
  <hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
@@ -139,7 +139,7 @@ Template Name: About
 
 <footer id="foot-sec" class="fullbg" style="z-index:0;margin-top:-70px" >
 <div class="container " style="box-shadow:none">
-<br><br>
+<br>
 <div class="row">
 	<div class="text-center color-white col-lg-4">
 	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">About Us</h4>
@@ -160,7 +160,7 @@ Template Name: About
 	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Contact</h4>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-envelope"></i><small><a href="mailto:contact@365onlinetraining.com"> &nbsp;contact@365onlinetraining.com </a></small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91 7795-472-579</small></p>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="<a href="mailto:contact@365onlinetraining.com"> &nbsp;Write to us</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="<a href="http://365onlinetraining.com/contact/"> &nbsp;Write to us</a></small></p>
 	</div>
 </div>
 </div>

@@ -45,19 +45,19 @@
                         <ul class="category-tabs-link clearfix">
                             <li class="tabs-title col-xs-6 col-sm-3 tabs-title-active">
                                 <div id="experience">
-                                    <h4 class="category-tab-title"><b>Experience</b></h4></div>
+                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;">Experience</h4></div>
                             </li>
                             <li class="tabs-title col-xs-6 col-sm-3">
                                 <div id="commerce">
-                                    <h4 class="category-tab-title"><b>Commerce</b></h4></div>
+                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;">Commerce</h4></div>
                             </li>
                             <li class="tabs-title col-xs-6 col-sm-3">
                                 <div id="content">
-                                    <h4 class="category-tab-title"><b>Content</></h4></div>
+                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;">Content</h4></div>
                             </li>
                             <li class="tabs-title col-xs-6 col-sm-3">
                                 <div id="mobility">
-                                    <h4 class="category-tab-title"><b>Mobility</b></h4></div>
+                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;">Mobility</h4></div>
                             </li>
                         </ul>
                     </div>
@@ -103,7 +103,7 @@
                             <div class="category-group-info-title-ex text-center">
                                 <h3 style="font-family: 'PT Sans', sans-serif;">Enterprise Mobility</h3></div>
                             <div class="category-group-info-desc">
-                                <div style="font-family: 'Lato', sans-serif;"><p><font size="4">We deliver the most advanced solution for developing and securing mobile applications. Our solution use Oracle Mobile Application Framework and Mobile cloud Service to to deliver highly engaging mobile experiences.</font></p></div>
+                                <div style="font-family: 'Raleway', sans-serif;"><p><font size="4">We deliver the most advanced solution for developing and securing mobile applications. Our solution use Oracle Mobile Application Framework and Mobile cloud Service to to deliver highly engaging mobile experiences.</font></p></div>
                             </div>
                        <!--     <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div> -->
                         </div>
@@ -411,7 +411,7 @@ document.write(dt.toDateString());
 	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Contact</h4>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-envelope"></i><small><a href="mailto:contact@365onlinetraining.com"> &nbsp;contact@365onlinetraining.com </a></small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91 7795-472-579</small></p>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="<a href="mailto:contact@365onlinetraining.com"> &nbsp;Write to us</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="http://365onlinetraining.com/contact/"> &nbsp;Write to us</a></small></p>
 	</div>
 </div>
 </div>
