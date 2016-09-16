@@ -160,7 +160,7 @@ Template Name: About
 	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Contact</h4>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-envelope"></i><small><a href="mailto:contact@365onlinetraining.com"> &nbsp;contact@365onlinetraining.com </a></small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91 7795-472-579</small></p>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="<a href="http://365onlinetraining.com/contact/"> &nbsp;Write to us</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="http://365onlinetraining.com/contact/"> &nbsp;Write to us</a></small></p>
 	</div>
 </div>
 </div>
