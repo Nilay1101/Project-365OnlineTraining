@@ -35,12 +35,12 @@ Template Name: About
 <div class="row color-white">
 	<div class="col-md-12">
 		<div class="boxservice">
-			<i class="fa fa-"></i>
+			<i class="fa fa-bookmark"></i>
 			<h3>Training Programs</h3>
 			
 		</div>
 		<div class="boxservice ">
-			<i class="fa fa-"></i>
+			<i class="fa fa-user"></i>
 			<h3>Project Consultancy</h3>
 			
 		</div>

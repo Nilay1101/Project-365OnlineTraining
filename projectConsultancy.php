@@ -67,47 +67,24 @@ Template Name: Project
 
 <section id="Section-5" class="fullbg color-white" style="z-index:0;">
 <div class="container" style="box-shadow:none">
-	<div class="row page-header text-center col-sm-12 col-lg-12 animated fade">
-		<h1 style="font-family: 'PT Sans', sans-serif;">Our<strong style="color:black">  Recent Works</strong></h1>
-		<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
+	<div class="row page-header text-center col-sm-12 col-lg-12">
+		<h1 class="animated fade"style="font-family: 'PT Sans', sans-serif;">Project<strong style="color:black"> Support</strong></h1>
+		<hr class="animated fade"style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
 		<p class="lead" style="color:white; font-family: 'Raleway', sans-serif;">
 		Helping Small Businesses To Find Right Way
 		</p>
 <br>
-<div class="row pricing animated fadeInUpNow">
-	<div class="col-lg-1">
-	</div>
-	<div class="col-lg-5">
-		<div class="whitebox salmonborder">
-			<div class="content text-left">
-				<p class="lead" style="color:black; font-family: 'Raleway', sans-serif;">
-			        Project text
-				</p>
-				<p>
-				project description
-				</p>
-				<br>
-				<a class="btn btn-lg"><i class="fa fa-globe"></i> Explore</a>
-			</div>
-		</div>
-	</div>
-	<div class="col-lg-5">
-		<div class="whitebox greenborder">
-			<div class="content text-left">
-				<p class="lead" style="color:black; font-family: 'Raleway', sans-serif;">
-				Project text
-				</p>
-				<p>
-				project description
-				</p>
-				<br>
-				<a class="btn btn-lg"><i class="fa fa-globe"></i> Explore</a>
-			</div>
-		</div>
-	</div>
-	<div class="col-lg-1">
-	</div>
-</div>
+<h3 class="price text-left">Why Choose Us ?</h3>
+<p class="lead " style="color:white; font-family: 'Raleway', sans-serif;">
+		365 Online is one of those platforms that gives you space to work with people who know you, love you, and support you. Our mission is to help bring creative projects to life.
+		</p>
+<br>
+		<h1 class="animated fade"style="font-family: 'PT Sans', sans-serif;">create the<strong style="color:black"> universe</strong> and<strong style="color:black"> culture</strong> you want to see</h1>
+<br>
+<p class="lead " style="color:white; font-family: 'Raleway', sans-serif;">
+		365 Online helps developers, designers, and other creators find the resources and support they need to make their ideas a reality. To date, a number of creative projects — big and small — have come to life with our support. 
+		</p>
+		<br><br><br>
 </div>
 </section>
 
