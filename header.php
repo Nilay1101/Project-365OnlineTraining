@@ -41,10 +41,10 @@
         		  	<ul class="dropdown-list">
                         <li class="dropdown-list-detail"><a>Oracle WebCenter Sites</a>
 							<ul class="consultancy-dd">
-                                    <li class="consultancy-dd-list"><a href="http://365onlinetraining.com/change-language-of-oracle-webcenter-sites-interfaces/">Change language of Oracle WebCenter Sites interfaces</a></li>
-<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/how-to-start-oracle-webcenter-sites-12c-jump-start-kit/">How to start Oracle WebCenter Sites 12C Jump start kit</a></li>
-<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/oracle-webcenter-sites-11g-how-to-make-left-side-admin-tab-works-in-mozilla-firefox-browser/">Oracle WebCenter Sites 11g: How to make Left side admin tab works in Mozilla Firefox browser</a></li>
-<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/resolve-eclipse-plugin-integration-issue-oracle-webcenter-sites-12c/">How to resolve eclipse plugin integration issue with Oracle WebCenter Sites 12C</a></li>
+                                    <li class="consultancy-dd-list"><a href="http://365onlinetraining.com/change-language-of-oracle-webcenter-sites-interfaces/"><small>Change language of Oracle WebCenter Sites interfaces</small></a></li>
+<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/how-to-start-oracle-webcenter-sites-12c-jump-start-kit/"><small>How to start Oracle WebCenter Sites 12C Jump start kit</small></a></li>
+<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/oracle-webcenter-sites-11g-how-to-make-left-side-admin-tab-works-in-mozilla-firefox-browser/"><small>Oracle WebCenter Sites 11g: How to make Left side admin tab works in Mozilla Firefox browser</small></a></li>
+<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/resolve-eclipse-plugin-integration-issue-oracle-webcenter-sites-12c/"><small>How to resolve eclipse plugin integration issue with Oracle WebCenter Sites 12C</small></a></li>
                                 </ul>
 						</li>
                         <li class="dropdown-list-detail"><a>Oracle WebCenter Content</a></li>
@@ -91,7 +91,7 @@
                         </ul>
                     </div>
                 </div> -->
-                <div class="nav-wrap col-xs-2 col-sm-2 trainings-wrap" style="font-family: 'Raleway', sans-serif;"><button onclick="location.href='#';"class="trainings"> <a href="http://365onlinetraining.com/training-programs/">Training Programs</a></button>
+                <div class="nav-wrap col-xs-2 col-sm-2 trainings-wrap" style="font-family: 'Raleway', sans-serif;"><button class="trainings">Training Programs</button>
                     <div style="background:black" class="nav-wrap-dropdown">
                         <ul class="dropdown-list">
                             <li class="dropdown-list-detail"><a href="http://365onlinetraining.com/oracle-webcenter-sites-online-training/">Oracle Webcentre Sites Training</a></li>

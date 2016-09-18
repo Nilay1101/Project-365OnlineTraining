@@ -17,7 +17,7 @@
                                 <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Training Programs</div>
                                     <h4 style="color:white;font-family: 'Raleway', sans-serif;"><br><br>Best in class employee enablement and<br><br>training programs.</h4>
 <br><br><br>
-                              <div  class="content-button"><input type="button" value="READ MORE"  onClick="window.location='#sec1';" ></div>
+                              <div  class="content-button"><input type="button" value="Read More"  onClick="window.location='#sec1';" ></div>
                             </div>
                         </div>
                        
@@ -25,14 +25,14 @@
                             <div class="carousel-content col-sm-5 col-md-5">
                                 <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Project Support</div>
 		<h4 style="color:white; font-family: 'Raleway', sans-serif;"><br><br>Highly efficient support services which<br><br>help in delivering theprojects on time.</h4><br><br><br>
-                               <div class="content-button"><input type="button" value="READ MORE" onClick="window.location='#sec2';"></div>
+                               <div class="content-button"><input type="button" value="Read More" onClick="window.location='#sec2';"></div>
                             </div>
                         </div>
 						 <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner3.jpeg" alt="Corporate training">
                             <div class="carousel-content col-sm-5 col-md-5">
                                 <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Enterprise Digital Solution</div>
                                <h4 style="color:white;font-family: 'Raleway', sans-serif;"><br><br>Digital solution to empower organization<br><br>to be online 365 days a year.</h4><br><br><br>
-                               <div class="content-button"><input type="button" value="READ MORE" onClick="window.location='#sec3';"></div>
+                               <div class="content-button"><input type="button" value="Read More" onClick="window.location='#sec3';"></div>
                             </div> 
                         </div>
                     </div>
@@ -45,19 +45,19 @@
                         <ul class="category-tabs-link clearfix">
                             <li class="tabs-title col-xs-6 col-sm-3 tabs-title-active">
                                 <div id="experience">
-                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;">Experience</h4></div>
+                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;"><b>Experience</b></h4></div>
                             </li>
                             <li class="tabs-title col-xs-6 col-sm-3">
                                 <div id="commerce">
-                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;">Commerce</h4></div>
+                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;"><b>Commerce</b></h4></div>
                             </li>
                             <li class="tabs-title col-xs-6 col-sm-3">
                                 <div id="content">
-                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;">Content</h4></div>
+                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;"><b>Content</b></h4></div>
                             </li>
                             <li class="tabs-title col-xs-6 col-sm-3">
                                 <div id="mobility">
-                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;">Mobility</h4></div>
+                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;"><b>Mobility</b></h4></div>
                             </li>
                         </ul>
                     </div>
@@ -123,9 +123,9 @@
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>
-             <div class="training-more-wrap"><span><input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/oracle-webcenter-sites-online-training/';"></span></div>
+             
                             </div>
-                            <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle WebCenter Sites Training</h5>
+                            <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle WebCenter Sites Training</h5><i class="fa fa-calendar"></i>
 <?php echo ' <script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -140,6 +140,7 @@ var dt=dat.addDays(2);
 document.write(dt.toDateString());
 
 </script> ';  ?>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-webcenter-sites-online-training/"><strong>Learn More</strong></a>
  </div>
 		 
                         </div>
@@ -148,9 +149,9 @@ document.write(dt.toDateString());
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>
-                               <div class="training-more-wrap"><span> <input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/oracle-webcenter-content-training/';"></span></div>
+                               
                             </div>
-                            <div ><h5 style="font-family: 'Raleway', sans-serif;"><strong>Oracle WebCenter Content Training</h5></strong>
+                            <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle WebCenter Content Training</h5><i class="fa fa-calendar"></i>
 <?php echo ' <script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -164,7 +165,8 @@ var dat =  new Date();
 var dt=dat.addDays(2);
 document.write(dt.toDateString());
 
-</script> ';  ?></div>
+</script> ';  ?>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-webcenter-content-training/"><strong>Learn More</strong></a></div>
 							
                         </div>
                     </div>
@@ -172,9 +174,9 @@ document.write(dt.toDateString());
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot03.png"></div>
-                              <div class="training-more-wrap"><span> <input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/oracle-mobile-application-framework-training-maf/';"></span></div>
+                              
                             </div>
-                            <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle MAF Training</h5>
+                            <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle MAF Training</h5><i class="fa fa-calendar"></i>
 <?php echo ' <script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -188,7 +190,8 @@ var dat =  new Date();
 var dt=dat.addDays(3);
 document.write(dt.toDateString());
 
-</script> ';  ?></div>
+</script> ';  ?>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-mobile-application-framework-training-maf/"><strong>Learn More</strong></a></div>
 							
                         </div>
                     </div>
@@ -196,9 +199,9 @@ document.write(dt.toDateString());
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot04.png"></div>
-                     <div class="training-more-wrap"><span> <input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/oracle-atg-training/';"></span></div>
+                     
                             </div>
-                            <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle ATG Web Commerce Training</h5>
+                            <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle ATG Web Commerce Training</h5><i class="fa fa-calendar"></i>
 <?php echo ' <script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -212,7 +215,8 @@ var dat =  new Date();
 var dt=dat.addDays(3);
 document.write(dt.toDateString());
 
-</script> ';  ?></div>
+</script> ';  ?>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-atg-training/"><strong>Learn More</strong></a></div>
 							
                         </div>
                     </div>
@@ -220,9 +224,9 @@ document.write(dt.toDateString());
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot05.jpg"></div>
-                             <div class="training-more-wrap"><span> <input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/training-programs/';"></span></div>  
+                               
                             </div>
-                            <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle Weblogic 12C Training</h5>
+                            <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle Weblogic 12C Training</h5><i class="fa fa-calendar"></i>
 <?php echo ' <script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -236,7 +240,8 @@ var dat =  new Date();
 var dt=dat.addDays(4);
 document.write(dt.toDateString());
 
-</script> ';  ?></div>
+</script> ';  ?>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://365onlinetraining.com/training-programs/"><strong>Learn More</strong></a></div>
 							
                         </div>
                     </div> -->
@@ -245,9 +250,9 @@ document.write(dt.toDateString());
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot07.jpg"></div>
-                             <div class="training-more-wrap"><span> <input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/angular-js-online-course';"></span></div>  
+                               
                             </div>
-                            <div ><h5 style="font-family: 'Raleway', sans-serif;">Angular JS Training</h5>
+                            <div ><h5 style="font-family: 'Raleway', sans-serif;">Angular JS Training</h5><i class="fa fa-calendar"></i>
 <?php echo ' <script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -261,7 +266,8 @@ var dat =  new Date();
 var dt=dat.addDays(4);
 document.write(dt.toDateString());
 
-</script> ';  ?></div>
+</script> ';  ?>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://365onlinetraining.com/angular-js-online-course/"><strong>Learn More</strong></a></div>
 							
                         </div>
                     </div>
@@ -270,9 +276,9 @@ document.write(dt.toDateString());
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
                                 <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot06.jpg"></div>
-                              <div class="training-more-wrap"><span> <input type="button" value="Read More " onClick="window.location='http://365onlinetraining.com/oracle-adf-online-training/';"></span></div> 
+                            
                             </div>
-                            <div><h5 style="font-family: 'Raleway', sans-serif;">Oracle ADF Training</h5>
+                            <div><h5 style="font-family: 'Raleway', sans-serif;">Oracle ADF Training</h5><i class="fa fa-calendar"></i>
 <?php echo ' <script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -286,7 +292,8 @@ var dat =  new Date();
 var dt=dat.addDays(4);
 document.write(dt.toDateString());
 
-</script> ';  ?></div>
+</script> ';  ?>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-adf-online-training/"><strong>Learn More</strong></a></div>
 							
                         </div>
                     </div>
@@ -301,17 +308,17 @@ document.write(dt.toDateString());
                         <div class="container-cloud-info">
                             <div class="clearfix">
 <br>
-                                <h3 style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading text-center">Project Support</h3>
+                                <h3 style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading text-center">Project <strong style="color:#4ba2dc">Support</strong></h3>
 <hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));"></div>
 <br>
                             <div class=" row">
-                                <div class="col-lg-6">
-                                    <div ><h3 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-wrench"></i> &nbsp;&nbsp;Oracle WebCenter Sites Project Support</h3></div>
-                                    <div ><h3 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-wrench"></i> &nbsp;&nbsp;Oracle ADF Project Support</h3></div>
-                                    <div ><h3 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-wrench"></i> &nbsp;&nbsp;Oracle ATG Commerce Project Support</h3></div>
-                                    <div ><!--<a href="" class="button button-cloud">--><h3 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-wrench"></i> &nbsp;&nbsp;Oracle eLoqua Project Support</h3><!--</a>--></div>
+                                <div class="col-lg-6"><br>
+                                    <div ><h4 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-anchor"></i> &nbsp;&nbsp;Oracle WebCenter Sites Project Support</h4></div>
+                                    <div ><h4 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-anchor"></i> &nbsp;&nbsp;Oracle ADF Project Support</h4></div>
+                                    <div ><h4 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-anchor"></i> &nbsp;&nbsp;Oracle ATG Commerce Project Support</h4></div>
+                                    <div ><!--<a href="" class="button button-cloud">--><h4 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-anchor"></i> &nbsp;&nbsp;Oracle eLoqua Project Support</h4><!--</a>--></div>
                                 </div>
-								<div class=" col-xs-6 col-sm-6 col-md-6 col-lg-6 pull-right" style="margin-top:-220px"><div ><img src="<?php bloginfo('template_directory'); ?>/images-new/cloud.png"></div>
+				<div class=" col-xs-6 col-sm-6 col-md-6 col-lg-6 pull-right" style="margin-top:-160px"><div ><img src="<?php bloginfo('template_directory'); ?>/images-new/cloud.png" style="height:200px"></div>
 <br><br>
                                 </div>
                             </div>
@@ -402,16 +409,16 @@ document.write(dt.toDateString());
 	</div>
 
 	<div class="text-center color-white col-lg-4">
-	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Recent Posts</h4>
-	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left"><i class="fa fa-arrow-right"></i><small ><a href="http://365onlinetraining.com/change-language-of-oracle-webcenter-sites-interfaces/"> Change language of oracle webcenter sites interface</a></small></p>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/how-to-start-oracle-webcenter-sites-12c-jump-start-kit/"> How to start oracle webcenter sites 12C jump start kit</a></small></p>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/oracle-webcenter-sites-11g-how-to-make-left-side-admin-tab-works-in-mozilla-firefox-browser/"> Oracle webcenter sites 11g</a></small></p>
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Upcoming Trainings</h4>
+	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small> Oracle WebCenter Sites Training &nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-webcenter-sites-12c-online-training/"> Learn More</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>Oracle WebCenter Content Training &nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-webcenter-content-training/"> Learn More</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>Oracle ATG Web Commerce &nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-atg-training/"> Learn More</a></small></p>
 	</div>
 
 	<div class="text-center color-white col-lg-3">
 	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Contact</h4>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-envelope"></i><small><a href="mailto:contact@365onlinetraining.com"> &nbsp;contact@365onlinetraining.com </a></small></p>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91 7795-472-579</small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91-9448-481-470</small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="http://365onlinetraining.com/contact/"> &nbsp;Write to us</a></small></p>
 	</div>
 </div>

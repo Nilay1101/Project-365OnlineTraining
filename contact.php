@@ -81,13 +81,13 @@ Template Name: Contact
 <section id="Section-6" class="fullbg" style="z-index:0;">
 <div class="container" style="box-shadow:none">
 	<div class="page-header text-center col-sm-12 col-lg-12 color-white ">
-		<h2 style="color:white;font-family: 'PT Sans', sans-serif;">Contact Us</h2>
+		<h2 style="color:white;font-family: 'PT Sans', sans-serif;">Contact <strong style="color:#4ba2dc">Us</strong></h2>
 		<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
-<p class="lead animated fadeInLeftBig" style="color:white; font-family: 'Raleway', sans-serif;">
-Mail Us : <a href="mailto:contact@365onlinetraining.com">contact@365onlinetraining.com </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Call : +91 7795-472-579
+<p class="lead animated fadeInDownBig" style="color:white; font-family: 'Raleway', sans-serif;">
+Mail Us : <a href="mailto:contact@365onlinetraining.com">contact@365onlinetraining.com </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Call : +91-9448-481-470
 </p>
 
-<p class="lead animated fadeInLeftBig" style="color:white; font-family: 'Raleway', sans-serif;">
+<p class="lead animated fadeInDownBig" style="color:white; font-family: 'Raleway', sans-serif;">
 Or<br><br>Fill out the form and we will call you back
 </p>
 
@@ -127,11 +127,11 @@ Or<br><br>Fill out the form and we will call you back
                             <div class="form-group col-lg-11 col-lg-offset-2">
                                 <button type="submit" class="btn btn-success btn-lg">Send</button>
                             </div>
-                        </div>
+                        </div><br><br>
                     </form>
                 </div>
 
-</div><br><br><br><br><br><br><br><br><br><br>
+</div>
 </div>
 </section>
 
@@ -148,16 +148,16 @@ Or<br><br>Fill out the form and we will call you back
 	</div>
 
 	<div class="text-center color-white col-lg-4">
-	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Recent Posts</h4>
-	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/change-language-of-oracle-webcenter-sites-interfaces/"> Change language of oracle webcenter sites interface</a></small></p>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/how-to-start-oracle-webcenter-sites-12c-jump-start-kit/"> How to start oracle webcenter sites 12C jump start kit</a></small></p>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-arrow-right"></i><small><a href="http://365onlinetraining.com/oracle-webcenter-sites-11g-how-to-make-left-side-admin-tab-works-in-mozilla-firefox-browser/"> Oracle webcenter sites 11g</a></small></p>
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Upcoming Trainings</h4>
+	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small> Oracle WebCenter Sites Training &nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-webcenter-sites-12c-online-training/"> Learn More</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>Oracle WebCenter Content Training &nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-webcenter-content-training/"> Learn More</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>Oracle ATG Web Commerce &nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-atg-training/"> Learn More</a></small></p>
 	</div>
 
 	<div class="text-center color-white col-lg-3">
 	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Contact</h4>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-envelope"></i><small><a href="mailto:contact@365onlinetraining.com"> &nbsp;contact@365onlinetraining.com </a></small></p>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91 7795-472-579</small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91-9448-481-470</small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="http://365onlinetraining.com/contact/"> &nbsp;Write to us</a></small></p>
 </div>
 </div>
