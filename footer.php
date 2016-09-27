@@ -30,8 +30,7 @@
 <div class="row">
 	<div class="text-center color-white col-lg-4">
 	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">About Us</h4>
-	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>365 Online is the leading IT training and consultancy provider in the field of customer experience.. &nbsp;&nbsp;</small><a href="http://365onlinetraining.com/about-us/"> Read more</a></p>
-	 <a href="https://www.linkedin.com/in/tusharwebcentersitestrainer"><i class="fa fa-linkedin"></i></a>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>365 Online is the leading IT training and consultancy provider in the field of customer experience that focuses on quality, innovation, & speed. We utilized technology to to bring results. We pride ourselves in great work ethic, integrity.. &nbsp;&nbsp;</small><a href="http://365onlinetraining.com/about-us/"> Read more</a></p>
 	</div>
 
 	<div class="text-center color-white col-lg-4">

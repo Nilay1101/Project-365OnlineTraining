@@ -116,13 +116,13 @@
                 <div class="courses-wrapper">
                     <div class="col-xs-12">
 <br>
-                        <h3  style="color:#262626; font-family: 'PT Sans', sans-serif;" class="content-heading text-center">Training Programs</h3>
+                        <h3  style="color:#262626; font-family: 'PT Sans', sans-serif;" class="content-heading text-center">Training <strong style="color:#4ba2dc">Programs</strong></h3>
 <hr style="border : 0;height: 1px; width:50%;letter-spacing:px;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
 <br></div>
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg" style="opacity:1.0"></div>
              
                             </div>
                             <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle WebCenter Sites Training</h5><i class="fa fa-calendar"></i>
@@ -148,7 +148,7 @@ document.write(dt.toDateString());
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg" style="opacity:1.0"></div>
                                
                             </div>
                             <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle WebCenter Content Training</h5><i class="fa fa-calendar"></i>
@@ -173,7 +173,7 @@ document.write(dt.toDateString());
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot03.png"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot03.png" style="opacity:1.0"></div>
                               
                             </div>
                             <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle MAF Training</h5><i class="fa fa-calendar"></i>
@@ -198,7 +198,7 @@ document.write(dt.toDateString());
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot04.png"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot04.png" style="opacity:1.0"></div>
                      
                             </div>
                             <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle ATG Web Commerce Training</h5><i class="fa fa-calendar"></i>
@@ -223,7 +223,7 @@ document.write(dt.toDateString());
                   <!--  <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot05.jpg"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot05.jpg" style="opacity:1.0"></div>
                                
                             </div>
                             <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle Weblogic 12C Training</h5><i class="fa fa-calendar"></i>
@@ -249,7 +249,7 @@ document.write(dt.toDateString());
                    <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot07.jpg"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot07.jpg" style="opacity:1.0"></div>
                                
                             </div>
                             <div ><h5 style="font-family: 'Raleway', sans-serif;">Angular JS Training</h5><i class="fa fa-calendar"></i>
@@ -275,7 +275,7 @@ document.write(dt.toDateString());
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot06.jpg"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot06.jpg" style="opacity:1.0"></div>
                             
                             </div>
                             <div><h5 style="font-family: 'Raleway', sans-serif;">Oracle ADF Training</h5><i class="fa fa-calendar"></i>
@@ -403,9 +403,7 @@ document.write(dt.toDateString());
 <div class="row">
 	<div class="text-center color-white col-lg-4">
 	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">About Us</h4>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>365 Online is the leading IT training and consultancy provider in the field of customer experience.. &nbsp;&nbsp;</small><a href="http://365onlinetraining.com/about-us/"> Read more</a></p>
-	 <a href="https://www.linkedin.com/in/tusharwebcentersitestrainer"><i class="fa fa-linkedin"></i></a></li>
-	
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>365 Online is the leading IT training and consultancy provider in the field of customer experience that focuses on quality, innovation, & speed. We utilized technology to to bring results. We pride ourselves in great work ethic, integrity.. &nbsp;&nbsp;</small><a href="http://365onlinetraining.com/about-us/"> Read more</a></p>
 	</div>
 
 	<div class="text-center color-white col-lg-4">

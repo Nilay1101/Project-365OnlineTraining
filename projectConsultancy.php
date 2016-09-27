@@ -50,7 +50,7 @@ Template Name: Project
 		</div>
 		<div class="boxservice rightb bottomb">
 			<i class="fa fa-eye"></i>
-			<h3>UI / UX</h3>
+			<h3>Oracle WebCenter Content</h3>
 			<p>
 			
 			</p>
@@ -59,7 +59,7 @@ Template Name: Project
 	</div>
 </div>
 <br><br>
-<a href="http://365onlinetraining.com/contact/" class="buttoncolor animated fadeInRightBig"><i class="fa fa-user">&nbsp; 24*7 Support</i></a>
+<a href="http://365onlinetraining.com/contact/" class="buttoncolor animated fadeInRightBig"><i class="fa fa-user"><i style="font-family: 'PT Sans', sans-serif;">&nbsp; 24*7 Support</i></i></a>
 <br><br><br><br><br>
 </div>
 </div>
@@ -94,10 +94,7 @@ Template Name: Project
 <div class="row">
 	<div class="text-center color-white col-lg-4">
 	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">About Us</h4>
-	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>365 Online is the leading IT training and consultancy provider in the field of customer experience.. &nbsp;&nbsp;</small><a href="http://365onlinetraining.com/about-us/"> Read more</a></p>
-	 <ul class="social-icons">
-		<li><a href="https://www.linkedin.com/in/tusharwebcentersitestrainer"><i class="fa fa-linkedin"></i></a></li>
-	</ul>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>365 Online is the leading IT training and consultancy provider in the field of customer experience that focuses on quality, innovation, & speed. We utilized technology to to bring results. We pride ourselves in great work ethic, integrity.. &nbsp;&nbsp;</small><a href="http://365onlinetraining.com/about-us/"> Read more</a></p>
 	</div>
 
 	<div class="text-center color-white col-lg-4">
