@@ -39,77 +39,6 @@
                 </div>
             </div>
 <div id="sec3" class="smoothScroll">
-            <div class="container-wrapper row category-wrapper">
-                <div class="container-center row">
-                    <div class="category-group-tabs clearfix">
-                        <ul class="category-tabs-link clearfix">
-                            <li class="tabs-title col-xs-6 col-sm-3 tabs-title-active">
-                                <div id="experience">
-                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;"><b>Experience</b></h4></div>
-                            </li>
-                            <li class="tabs-title col-xs-6 col-sm-3">
-                                <div id="commerce">
-                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;"><b>Commerce</b></h4></div>
-                            </li>
-                            <li class="tabs-title col-xs-6 col-sm-3">
-                                <div id="content">
-                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;"><b>Content</b></h4></div>
-                            </li>
-                            <li class="tabs-title col-xs-6 col-sm-3">
-                                <div id="mobility">
-                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;"><b>Mobility</b></h4></div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="container-wrapper row category-group-info-wrapper" >
-                <div class="container-center row">
-                    <div class="category-group-info clearfix">
-                        <div class="col-sm-12 center-block">
-                            <div class="category-group-info-title-ex text-center">
-                                <h3 style="font-family: 'PT Sans', sans-serif;">Digital Experience</h3></div>
-                         <div class="category-group-info-desc">
-                                <div style="font-family: 'Raleway', sans-serif;">
-                                <p><font size="4">Digital Experience is the center of all Enterprise strategies. We help enterprises to achieve their vision and empower them to provide un matched digital Experience to their Customer. We use both best in class Oracle WebCenter Sites and Sites cloud solution to achieve this.</font></p>
-</div>
-</div>
-                         
-                          <!--  <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div> -->
-                        </div>
-                    </div>
-                    <div class="category-group-info clearfix">
-                        <div class="col-sm-12 center-block">
-                            <div class="category-group-info-title-ex text-center">
-                                <h3 style="font-family: 'PT Sans', sans-serif;">Web Commerce</h3></div>
-                            <div class="category-group-info-desc">
-                                <div style="font-family: 'Raleway', sans-serif;"><p><font size="4">Our web commerce solution help organization to deliver a personalized online buying experience to their customers. We use our expertise in Oracle ATG web commerce and open Source product like Magento and Prestashop to deliver the commerce portal.</font></p></div>
-                            </div>
-                           <!-- <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div> -->
-                        </div>
-                    </div>
-                    <div class="category-group-info clearfix">
-                        <div class="col-sm-12 center-block">
-                            <div class="category-group-info-title-ex text-center">
-                                <h3 style="font-family: 'PT Sans', sans-serif;">Enterprise Content Management</h3></div>
-                            <div class="category-group-info-desc">
-                                <div style="font-family: 'Raleway', sans-serif;"><p><font size="4">Content managemet is one of the key task for all the enterprises and we help them to achieve this. Our solution uses Oracle WebCenter Content and document cloud service to create scalable repositories which support enterprise-wide applications.</font></p></div>
-                            </div>
-                         <!--   <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div> -->
-                        </div>
-                    </div>
-                    <div class="category-group-info clearfix">
-                        <div class="col-sm-12 center-block">
-                            <div class="category-group-info-title-ex text-center">
-                                <h3 style="font-family: 'PT Sans', sans-serif;">Enterprise Mobility</h3></div>
-                            <div class="category-group-info-desc">
-                                <div style="font-family: 'Raleway', sans-serif;"><p><font size="4">We deliver the most advanced solution for developing and securing mobile applications. Our solution use Oracle Mobile Application Framework and Mobile cloud Service to to deliver highly engaging mobile experiences.</font></p></div>
-                            </div>
-                       <!--     <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
 <div id="sec1" class="smoothScroll">
         <div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
             <div class="container-left col-xs-12 col-md-12 column">
@@ -170,6 +99,32 @@ document.write(dt.toDateString());
 							
                         </div>
                     </div>
+					<div class="container-details col-xs-6 col-sm-3">
+                        <div class="clearfix training-det-wrap">
+                            <div class="container-dd-wrapper">
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg" style="opacity:1.0"></div>
+             
+                            </div>
+                            <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle WebCenter Portal Training</h5><i class="fa fa-calendar"></i>
+<?php echo ' <script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(3);
+document.write(dt.toDateString());
+
+</script> ';  ?>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><strong>Learn More</strong></a>
+ </div>
+		 
+                        </div>
+                    </div>
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
@@ -212,7 +167,7 @@ Date.prototype.addDays = function(days)
 
 var dat =  new Date();
 
-var dt=dat.addDays(3);
+var dt=dat.addDays(4);
 document.write(dt.toDateString());
 
 </script> ';  ?>
@@ -289,7 +244,7 @@ Date.prototype.addDays = function(days)
 
 var dat =  new Date();
 
-var dt=dat.addDays(4);
+var dt=dat.addDays(5);
 document.write(dt.toDateString());
 
 </script> ';  ?>
@@ -314,7 +269,8 @@ document.write(dt.toDateString());
                             <div class=" row">
                                 <div class="col-lg-6"><br>
                                     <div ><h4 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-anchor"></i> &nbsp;&nbsp;Oracle WebCenter Sites Project Support</h4></div>
-                                    <div ><h4 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-anchor"></i> &nbsp;&nbsp;Oracle ADF Project Support</h4></div>
+                                    <div ><h4 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-anchor"></i> &nbsp;&nbsp;Oracle WebCenter Content Project Support
+</h4></div>
                                     <div ><h4 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-anchor"></i> &nbsp;&nbsp;Oracle ATG Commerce Project Support</h4></div>
                                     <div ><!--<a href="" class="button button-cloud">--><h4 style="color:white;font-family: 'Raleway', sans-serif;"><i class="fa fa-anchor"></i> &nbsp;&nbsp;Oracle eLoqua Project Support</h4><!--</a>--></div>
                                 </div>
@@ -326,7 +282,79 @@ document.write(dt.toDateString());
                    </div>
                 </div>
             </div>
-<br> 
+
+			<div class="container-wrapper row category-wrapper">
+                <div class="container-center row">
+                    <div class="category-group-tabs clearfix">
+                        <ul class="category-tabs-link clearfix">
+                            <li class="tabs-title col-xs-6 col-sm-3 tabs-title-active">
+                                <div id="experience">
+                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;"><b>Experience</b></h4></div>
+                            </li>
+                            <li class="tabs-title col-xs-6 col-sm-3">
+                                <div id="commerce">
+                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;"><b>Commerce</b></h4></div>
+                            </li>
+                            <li class="tabs-title col-xs-6 col-sm-3">
+                                <div id="content">
+                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;"><b>Content</b></h4></div>
+                            </li>
+                            <li class="tabs-title col-xs-6 col-sm-3">
+                                <div id="mobility">
+                                    <h4 class="category-tab-title" style="font-family: 'Raleway', sans-serif;"><b>Mobility</b></h4></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="container-wrapper row category-group-info-wrapper" >
+                <div class="container-center row">
+                    <div class="category-group-info clearfix">
+                        <div class="col-sm-12 center-block">
+                            <div class="category-group-info-title-ex text-center">
+                                <h3 style="font-family: 'PT Sans', sans-serif;">Digital Experience</h3></div>
+                         <div class="category-group-info-desc">
+                                <div style="font-family: 'Raleway', sans-serif;">
+                                <p><font size="4">Digital Experience is the center of all Enterprise strategies. We help enterprises to achieve their vision and empower them to provide un matched digital Experience to their Customer. We use both best in class Oracle WebCenter Sites and Sites cloud solution to achieve this.</font></p><br>
+</div>
+</div>
+                         
+                          <!--  <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div> -->
+                        </div>
+                    </div>
+                    <div class="category-group-info clearfix">
+                        <div class="col-sm-12 center-block">
+                            <div class="category-group-info-title-ex text-center">
+                                <h3 style="font-family: 'PT Sans', sans-serif;">Web Commerce</h3></div>
+                            <div class="category-group-info-desc">
+                                <div style="font-family: 'Raleway', sans-serif;"><p><font size="4">Our web commerce solution help organization to deliver a personalized online buying experience to their customers. We use our expertise in Oracle ATG web commerce and open Source product like Magento and Prestashop to deliver the commerce portal.</font></p><br></div>
+                            </div>
+                           <!-- <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div> -->
+                        </div>
+                    </div>
+                    <div class="category-group-info clearfix">
+                        <div class="col-sm-12 center-block">
+                            <div class="category-group-info-title-ex text-center">
+                                <h3 style="font-family: 'PT Sans', sans-serif;">Enterprise Content Management</h3></div>
+                            <div class="category-group-info-desc">
+                                <div style="font-family: 'Raleway', sans-serif;"><p><font size="4">Content managemet is one of the key task for all the enterprises and we help them to achieve this. Our solution uses Oracle WebCenter Content and document cloud service to create scalable repositories which support enterprise-wide applications.</font></p><br></div>
+                            </div>
+                         <!--   <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div> -->
+                        </div>
+                    </div>
+                    <div class="category-group-info clearfix">
+                        <div class="col-sm-12 center-block">
+                            <div class="category-group-info-title-ex text-center">
+                                <h3 style="font-family: 'PT Sans', sans-serif;">Enterprise Mobility</h3></div>
+                            <div class="category-group-info-desc">
+                                <div style="font-family: 'Raleway', sans-serif;"><p><font size="4">We deliver the most advanced solution for developing and securing mobile applications. Our solution use Oracle Mobile Application Framework and Mobile cloud Service to to deliver highly engaging mobile experiences.</font></p><br></div>
+                            </div>
+                       <!--     <div class="category-group-tab-button text-center"><a class="button read-more-button"><span><b>Read More</b></span></a></div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
 </div>
          <!--    <div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
                 <div class="container-center col-xs-12 column">
