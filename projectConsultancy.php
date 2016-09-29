@@ -25,7 +25,7 @@ Template Name: Project
 <section id="Section-6" class="fullbg" style="z-index:0;">
 <div class="container" style="box-shadow:none">
 <div class="row page-header text-center color-white">
-		<h1 style="font-family: 'PT Sans', sans-serif;">Project<strong style="color:#4ba2dc"> Consultancy</strong></h1>
+		<h1 style="font-family: 'PT Sans', sans-serif;">Project<strong style="color:#4ba2dc"> Consultancy</strong> ( For Organisations)</h1>
 		<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
 		<p class="lead animated fadeInDownBig" style="color:white; font-family: 'Raleway', sans-serif;">
 			365 Online aims at being the Project Consultancy contractor of choice by supporting its customers’ business objectives and consistently delivering projects with outstanding safety and environmental performance that meet cost, schedule and quality targets. 
@@ -68,10 +68,10 @@ Template Name: Project
 <section id="Section-5" class="fullbg color-white" style="z-index:0;">
 <div class="container" style="box-shadow:none">
 	<div class="row page-header text-center col-sm-12 col-lg-12">
-		<h1 class="animated fade"style="font-family: 'PT Sans', sans-serif;">Project<strong style="color:black"> Support</strong></h1>
+		<h1 class="animated fade"style="font-family: 'PT Sans', sans-serif;">Project<strong style="color:black"> Support</strong> ( For Individuals )</h1>
 		<hr class="animated fade"style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
 		<p class="lead" style="color:white; font-family: 'Raleway', sans-serif;">
-		Helping Small Businesses To Find Right Way
+		Helping Professionals To Outsource Their Work
 		</p>
 <br>
 <h3 class="price text-left">Why Choose Us ?</h3>
