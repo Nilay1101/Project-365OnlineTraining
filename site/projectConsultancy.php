@@ -43,7 +43,7 @@ Template Name: Project
 		</div>
 		<div class="boxservice bottomb">
 			<i class="fa fa-cloud"></i>
-			<h3>Oracle Eloqua Marketing Cloud</h3>
+			<h3>Oracle WebCebcenter Portal</h3>
 			<p>
 			
 			</p>
@@ -55,6 +55,31 @@ Template Name: Project
 			
 			</p>
 
+		</div>
+	</div>
+</div>
+<div class="row color-white">
+	<div class="col-md-12 ">
+		<div class="boxservice bottomb">
+			<i class="fa fa-dot-circle-o"></i>
+			<h3>Oracle WebCenter Imaging</h3>
+			<p>
+			
+			</p>
+		</div>
+		<div class="boxservice rightb bottomb">
+			<i class="fa fa-camera"></i>
+			<h3>Oracle WebCenter Capture</h3>
+			<p>
+			
+			</p>
+		</div>
+		<div class="boxservice rightb bottomb">
+			<i class="fa fa-plus"></i>
+			<h3>&nbsp;</h3>
+			<p>
+			
+			</p>
 		</div>
 	</div>
 </div>
