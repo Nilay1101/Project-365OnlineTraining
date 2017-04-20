@@ -8,21 +8,29 @@
                     <ol class="carousel-indicators">
                         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                         <li data-target="#myCarousel" data-slide-to="1"></li>
+						<li data-target="#myCarousel" data-slide-to="2"></li>
                     </ol>
                     <!-- Wrapper for slides-->
                     <div role="listbox" class="carousel-inner">
-                        <div class="item active"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner1.png" alt="Easa online training">
+                        <div class="item active"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner1.png" alt="Training Programs">
                             <div class="carousel-content col-sm-5 col-md-5">
                                 <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Training Programs</div>
                                     <h4 style="color:white;font-family: 'Raleway', sans-serif;"><br><br>Best in class employee enablement and<br><br>training programs.</h4><br><br><br>
                               <div  class="content-button"><input type="button" value="Read More"  onClick="window.location='#sec1';" ></div>
                             </div>
                         </div>
-                        <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner2.png" alt="Project management">
+                        <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner2.png" alt="Project Support">
                             <div class="carousel-content col-sm-5 col-md-5">
                                 <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Project Support</div>
-		<h4 style="color:white; font-family: 'Raleway', sans-serif;"><br><br>Highly efficient support services which<br><br>help in delivering theprojects on time.</h4><br><br><br>
+		<h4 style="color:white; font-family: 'Raleway', sans-serif;"><br><br>Highly efficient support services which<br><br>help in delivering the projects on time.</h4><br><br><br>
                                <div class="content-button"><input type="button" value="Read More" onClick="window.location='#sec2';"></div>
+                            </div>
+                        </div>
+						<div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner3.png" alt="Pay - Per - Topics">
+                            <div class="carousel-content col-sm-5 col-md-5">
+                                <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Pay - Per - Topics</div>
+		<h4 style="color:white; font-family: 'Raleway', sans-serif;"><br><br>Highly efficient support services which<br><br>help in delivering theprojects on time.</h4><br><br><br>
+                               <div class="content-button"><input type="button" value="Read More" onClick="window.location='#sec3';"></div>
                             </div>
                         </div>
                     </div>
@@ -222,6 +230,51 @@ document.write(dt.toDateString());
         </div>
 </div>
 
+<div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
+                <div class="container-center col-xs-12 column">
+                    <div class="client-wrapper clearfix">
+<br>
+                         <h3  style="color:#262626; font-family: 'PT Sans', sans-serif;" class="content-heading text-center">Past <strong style="color:#4ba2dc">Clients</strong></h3>
+<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
+                    <div id="myCarousel2" data-ride="carousel" data-type="multi" data-interval="3000" class="carousel slide fdi-Carousel clearfix">
+                        <div role="listbox" class="client-list clearfix carousel-inner second-inner">
+                            <div class="client-img-wrp item active">
+                                <div class="client-1 col-sm-3">
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c1.png"></div>
+                                </div>
+                            </div>
+                            <div class="client-img-wrp item">
+                                <div class="client-1 col-sm-3">
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c2.png"></div>
+                                </div>
+                            </div>
+                            <div class="client-img-wrp item">
+                                <div class="client-1 col-sm-3">
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c3.png"></div>
+                                </div>
+                            </div>
+							<div class="client-img-wrp item ">
+                                <div class="client-1 col-sm-3">
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c4.png"></div>
+                                </div>
+                            </div>
+							<div class="client-img-wrp item ">
+                                <div class="client-1 col-sm-3">
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c5.png"></div>
+                                </div>
+                            </div>
+							<div class="client-img-wrp item ">
+                                <div class="client-1 col-sm-3">
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c6.jpg"></div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div><br>
+
 <footer id="foot-sec" class="fullbg" style="z-index:0;margin-top:-45px" >
 <div class="container " style="box-shadow:none">
 <br>
@@ -264,5 +317,6 @@ document.write(dt.toDateString());
                 </div>
             </div>
         </div>
+		
 </body>
 
