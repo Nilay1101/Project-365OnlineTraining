@@ -84,7 +84,7 @@ Template Name: Contact
 		<h2 style="color:white;font-family: 'PT Sans', sans-serif;">Contact <strong style="color:#4ba2dc">Us</strong></h2>
 		<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
 <p class="lead animated fadeInDownBig" style="color:white; font-family: 'Raleway', sans-serif;">
-Mail Us : <a href="mailto:contact@365onlinetraining.com">contact@365onlinetraining.com </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Call : +91-9448-481-470
+<strong>Mail Us</strong> : <a href="mailto:contact@365onlinetraining.com">contact@365onlinetraining.com </a>&nbsp;&nbsp;&nbsp;&nbsp; OR &nbsp;&nbsp;&nbsp;&nbsp;<strong>Call</strong> : +91-9448-481-470<br><br> You can reach us at <strong>Whatsapp</strong> : +91-8095-646-586
 </p>
 
 <p class="lead animated fadeInDownBig" style="color:white; font-family: 'Raleway', sans-serif;">
@@ -169,7 +169,7 @@ Or<br><br>Fill out the form and we will call you back
                     <div class="footer-about-company">
                         <div class="region-footer">
                             <div class="content">
-                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2016 365 Online. All Right Reserved</h5></div>
+                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2017 365 Online. All Right Reserved</h5></div>
                         </div>
                     </div>
                 </div>

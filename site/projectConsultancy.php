@@ -147,7 +147,7 @@ Template Name: Project
                     <div class="footer-about-company">
                         <div class="region-footer">
                             <div class="content">
-                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2016 365 Online. All Right Reserved</h5></div>
+                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2017 365 Online. All Right Reserved</h5></div>
                         </div>
                     </div>
                 </div>

@@ -23,13 +23,13 @@
                             <div class="carousel-content col-sm-5 col-md-5">
                                 <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Project Support</div>
 		<h4 style="color:white; font-family: 'Raleway', sans-serif;"><br><br>Highly efficient support services which<br><br>help in delivering the projects on time.</h4><br><br><br>
-                               <div class="content-button"><input type="button" value="Read More" onClick="window.location='#sec2';"></div>
+                               <div class="content-button"><input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/project-consultancy/';"></div>
                             </div>
                         </div>
 						<div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner3.png" alt="Pay - Per - Topics">
                             <div class="carousel-content col-sm-5 col-md-5">
-                                <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Pay - Per - Topics</div>
-		<h4 style="color:white; font-family: 'Raleway', sans-serif;"><br><br>Highly efficient support services which<br><br>help in delivering theprojects on time.</h4><br><br><br>
+                                <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Pay - Per - Topic</div>
+		<h4 style="color:white; font-family: 'Raleway', sans-serif;"><br><br>Already Experienced ? Want to upgrade your knowledge ?<br><br>Now don’t pay for full training. Pay per Topic !</h4><br><br><br>
                                <div class="content-button"><input type="button" value="Read More" onClick="window.location='#sec3';"></div>
                             </div>
                         </div>
@@ -309,7 +309,7 @@ document.write(dt.toDateString());
                     <div class="footer-about-company">
                         <div class="region-footer">
                             <div class="content">
-                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2016 365 Online. All Right Reserved</h5></div>
+                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2017 365 Online. All Right Reserved</h5></div>
                         </div>
                     </div>
                 </div>
