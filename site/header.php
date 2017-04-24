@@ -66,7 +66,7 @@
                     </ul>
                 </div> 
                 <div class="nav-wrap col-sm-2 col-xs-2" style="font-family: 'Raleway', sans-serif;"><button onclick="location.href='http://365onlinetraining.com/about-us/';" class="about-us"><a href="http://365onlinetraining.com/about-us/">About</a></button></div>
-		<!--<div class="nav-wrap col-sm-2 col-xs-2" style="font-family: 'Raleway', sans-serif;"><button onclick="location.href='http://365onlinetraining.com/project-consultancy/';" class="about-us"><a href="http://365onlinetraining.com/about-us/">Project Consultancy</a></button></div> -->
+		<div class="nav-wrap col-sm-2 col-xs-2" style="font-family: 'Raleway', sans-serif;"><button onclick="location.href='http://365onlinetraining.com/project-consultancy/';" class="about-us"><a href="http://365onlinetraining.com/about-us/">Project Consultancy</a></button></div>
               <!--  <div class="nav-wrap col-sm-2 col-xs-2 consultancy-wrap" style="font-family: 'Raleway', sans-serif;"><button onclick="location.href='#';" class="consultancy"><a href="http://365onlinetraining.com/consultancy/">Consultancy</a></button>
                     <div class="nav-wrap-dropdown">
                         <ul class="dropdown-list">

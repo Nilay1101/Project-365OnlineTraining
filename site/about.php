@@ -57,7 +57,7 @@ Template Name: About
 
 <section id="Section-4" class="fullbg color-white" style="z-index:0;">
 <div class="container" style="box-shadow:none">
-<div class="row page-header text-center animated fadeInUpNow">
+<div class="row page-header text-center">
 	
 		<h1 style="color:white;font-family: 'PT Sans', sans-serif;">Customer <strong style="color:#4ba2dc">Reviews</strong></h1>
  <hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
