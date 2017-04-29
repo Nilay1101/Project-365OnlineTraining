@@ -12,21 +12,21 @@
                     </ol>
                     <!-- Wrapper for slides-->
                     <div role="listbox" class="carousel-inner">
-                        <div class="item active"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner1.png" alt="Training Programs">
+                        <div class="item active"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner1.png" alt="Oracle WebCenter Sites">
                             <div class="carousel-content col-sm-5 col-md-5">
                                 <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Training Programs</div>
                                     <h4 style="color:white;font-family: 'Raleway', sans-serif;"><br><br>Best in class employee enablement and<br><br>training programs.</h4><br><br><br>
                               <div  class="content-button"><input type="button" value="Read More"  onClick="window.location='#sec1';" ></div>
                             </div>
                         </div>
-                        <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner2.png" alt="Project Support">
+                        <div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner2.png" alt="Oracle WebCenter Sites">
                             <div class="carousel-content col-sm-5 col-md-5">
                                 <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Project Support</div>
 		<h4 style="color:white; font-family: 'Raleway', sans-serif;"><br><br>Highly efficient support services which<br><br>help in delivering the projects on time.</h4><br><br><br>
                                <div class="content-button"><input type="button" value="Read More" onClick="window.location='http://365onlinetraining.com/project-consultancy/';"></div>
                             </div>
                         </div>
-						<div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner3.png" alt="Pay - Per - Topics">
+						<div class="item"><img src="<?php bloginfo('template_directory'); ?>/images-new/banner3.png" alt="Oracle WebCenter Sites">
                             <div class="carousel-content col-sm-5 col-md-5">
                                 <div style="color:white;font-family: 'PT Sans', sans-serif;" class="content-heading">Pay - Per - Topic</div>
 		<h4 style="color:white; font-family: 'Raleway', sans-serif;"><br><br>Already Experienced ? Want to upgrade your knowledge ?<br><br>Now don’t pay for full training. Pay per Topic !</h4><br><br><br>
@@ -49,7 +49,7 @@
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg" style="opacity:1.0"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg" style="opacity:1.0" alt="Oracle WebCenter Sites"></div>
              
                             </div>
                             <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle WebCenter Sites Training</h5><i class="fa fa-calendar"></i>
@@ -75,7 +75,7 @@ document.write(dt.toDateString());
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg" style="opacity:1.0"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg" style="opacity:1.0" alt="Oracle WebCenter Sites"></div>
                                
                             </div>
                             <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle WebCenter Content Training</h5><i class="fa fa-calendar"></i>
@@ -100,7 +100,7 @@ document.write(dt.toDateString());
 					<div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg" style="opacity:1.0"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot01.jpg" style="opacity:1.0" alt="Oracle WebCenter Sites"></div>
              
                             </div>
                             <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle WebCenter Portal Training</h5><i class="fa fa-calendar"></i>
@@ -126,7 +126,7 @@ document.write(dt.toDateString());
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot03.png" style="opacity:1.0"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot03.png" style="opacity:1.0" alt="Oracle WebCenter Sites"></div>
                               
                             </div>
                             <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle MAF Training</h5><i class="fa fa-calendar"></i>
@@ -151,7 +151,7 @@ document.write(dt.toDateString());
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot04.png" style="opacity:1.0"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot04.png" style="opacity:1.0" alt="Oracle WebCenter Sites"></div>
                      
                             </div>
                             <div ><h5 style="font-family: 'Raleway', sans-serif;">Oracle ATG Web Commerce Training</h5><i class="fa fa-calendar"></i>
@@ -177,7 +177,7 @@ document.write(dt.toDateString());
                    <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot07.jpg" style="opacity:1.0"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot07.jpg" style="opacity:1.0" alt="Oracle WebCenter Sites"></div>
                                
                             </div>
                             <div ><h5 style="font-family: 'Raleway', sans-serif;">Angular JS Training</h5><i class="fa fa-calendar"></i>
@@ -203,7 +203,7 @@ document.write(dt.toDateString());
                     <div class="container-details col-xs-6 col-sm-3">
                         <div class="clearfix training-det-wrap">
                             <div class="container-dd-wrapper">
-                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot06.jpg" style="opacity:1.0"></div>
+                                <div class="training-image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/shot06.jpg" style="opacity:1.0" alt="Oracle WebCenter Sites"></div>
                             
                             </div>
                             <div><h5 style="font-family: 'Raleway', sans-serif;">Oracle ADF Training</h5><i class="fa fa-calendar"></i>
@@ -245,32 +245,32 @@ document.write(dt.toDateString());
                         <div role="listbox" class="client-list clearfix carousel-inner second-inner">
                             <div class="client-img-wrp item active">
                                 <div class="client-1 col-sm-3">
-                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c1.png"></div>
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c1.png" alt="Oracle WebCenter Sites"></div>
                                 </div>
                             </div>
                             <div class="client-img-wrp item">
                                 <div class="client-1 col-sm-3">
-                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c2.png"></div>
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c2.png" alt="Oracle WebCenter Sites"></div>
                                 </div>
                             </div>
                             <div class="client-img-wrp item">
                                 <div class="client-1 col-sm-3">
-                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c3.png"></div>
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c3.png" alt="Oracle WebCenter Sites"></div>
                                 </div>
                             </div>
 							<div class="client-img-wrp item ">
                                 <div class="client-1 col-sm-3">
-                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c4.png"></div>
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c4.png" alt="Oracle WebCenter Sites"></div>
                                 </div>
                             </div>
 							<div class="client-img-wrp item ">
                                 <div class="client-1 col-sm-3">
-                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c5.png"></div>
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c5.png" alt="Oracle WebCenter Sites"></div>
                                 </div>
                             </div>
 							<div class="client-img-wrp item ">
                                 <div class="client-1 col-sm-3">
-                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c6.jpg"></div>
+                                    <div class="image-wrap"><img src="<?php bloginfo('template_directory'); ?>/images-new/c6.jpg" alt="Oracle WebCenter Sites"></div>
                                 </div>
                             </div>
                         </div>

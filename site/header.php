@@ -26,6 +26,7 @@
 <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/scripts/365online.js"></script>
 <link href="<?php bloginfo('template_directory'); ?>/assets/css/font-awesome.min.css" rel="stylesheet">
 <title>Home</title>
+<link rel="shortcut icon" type="image/png" href="<?php bloginfo('template_directory'); ?>/images-new/favicon-test.png" />
 </head>
 
 <body>

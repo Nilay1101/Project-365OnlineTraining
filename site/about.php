@@ -69,7 +69,7 @@ Template Name: About
 		<div class="testimonials-slider">
 			<div class="slide">
 				<div class="testimonials-carousel-thumbnail">
-					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/1.jpg">    
+					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/1.jpg" alt="Oracle WebCenter Sites">    
 				</div>
 				<div class="testimonials-carousel-context">
                                         <div class="testimonials-name text-left">
@@ -86,7 +86,7 @@ Template Name: About
 			
 			<div class="slide">
 				<div class="testimonials-carousel-thumbnail">
-					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/2.jpg">     
+					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/2.jpg" alt="Oracle WebCenter Sites">     
 				</div>
 				<div class="testimonials-carousel-context">
                                         <div class="testimonials-name text-left">
@@ -102,7 +102,7 @@ Template Name: About
 
 <div class="slide">
 				<div class="testimonials-carousel-thumbnail">
-					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/3.jpg">     
+					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/3.jpg" alt="Oracle WebCenter Sites">     
 				</div>
 				<div class="testimonials-carousel-context">
                                         <div class="testimonials-name text-left">
@@ -118,7 +118,7 @@ Template Name: About
 
 <div class="slide">
 				<div class="testimonials-carousel-thumbnail">
-					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/4.jpg">     
+					<img width="120" alt="" src="<?php bloginfo('template_directory'); ?>/assets/img/4.jpg" alt="Oracle WebCenter Sites">     
 				</div>
 				<div class="testimonials-carousel-context">
                                         <div class="testimonials-name text-left">
