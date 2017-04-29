@@ -142,19 +142,21 @@ Template Name: About
 <br>
 <div class="row">
 	<div class="text-center color-white col-lg-4">
-	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">About Us</h4>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>365 Online is the leading IT training and consultancy provider in the field of customer experience that focuses on quality, innovation, & speed. We utilized technology to to bring results. We pride ourselves in great work ethic, integrity.. &nbsp;&nbsp;</small><a href="http://365onlinetraining.com/about-us/"> Read more</a></p>
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;" class="text-left"><strong>Connect With Us</strong></h4>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-facebook"></i><small><a href="https://www.facebook.com/webcentersitestraining/"> &nbsp;Facebook</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-linkedin"></i><small><a href="https://www.linkedin.com/company/365onlinetraining"> &nbsp;LinkedIn</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-youtube"></i><small><a href="https://www.youtube.com/channel/UCKcZtV65M0_EO9ddRvEeBIA"> &nbsp;YouTube</a></small></p>
 	</div>
 
 	<div class="text-center color-white col-lg-4">
-	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Upcoming Trainings</h4>
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;" class="text-left"><strong>Upcoming Trainings</strong></h4>
 	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small> Oracle WebCenter Sites Training &nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-webcenter-sites-12c-online-training/"> Learn More</a></small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>Oracle WebCenter Content Training &nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-webcenter-content-training/"> Learn More</a></small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>Oracle ATG Web Commerce &nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-atg-training/"> Learn More</a></small></p>
 	</div>
 
 	<div class="text-center color-white col-lg-3">
-	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Contact</h4>
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;" class="text-left"><strong>Contact Us</strong></h4>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-envelope"></i><small><a href="mailto:contact@365onlinetraining.com"> &nbsp;contact@365onlinetraining.com </a></small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91-9448-481-470</small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="http://365onlinetraining.com/contact/"> &nbsp;Write to us</a></small></p>
