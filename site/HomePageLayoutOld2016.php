@@ -256,7 +256,7 @@ document.write(dt.toDateString());
             </div><br>
         </div>
 </div>
-<div id="sec2" class="smoothScroll">
+ <div id="sec2" class="smoothScroll">
            <div class="container-wrapper row" style="background-color:black;margin-top:0px;">
                 <div class="container-center row">
                     <div class="container-cloud-wrapper clearfix">
@@ -355,7 +355,7 @@ document.write(dt.toDateString());
                 </div>
             </div>
 			
-</div>
+</div> -->
          <!--    <div class="container-wrapper row" style="background-color:#e6e6e6;margin-top:0px;">
                 <div class="container-center col-xs-12 column">
                     <div class="client-wrapper clearfix">

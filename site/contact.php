@@ -84,7 +84,7 @@ Template Name: Contact
 		<h2 style="color:white;font-family: 'PT Sans', sans-serif;">Contact <strong style="color:#4ba2dc">Us</strong></h2>
 		<hr style="border : 0;height: 1px; width:50%;background-image: linear-gradient(to right, rgba(255,255,255,255), rgba(255,255,255,255), rgba(255,255,255,255));">
 <p class="lead animated fadeInDownBig" style="color:white; font-family: 'Raleway', sans-serif;">
-Mail Us : <a href="mailto:contact@365onlinetraining.com">contact@365onlinetraining.com </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Call : +91-9448-481-470
+<strong>Mail Us</strong> : <a href="mailto:contact@365onlinetraining.com">contact@365onlinetraining.com </a>&nbsp;&nbsp;&nbsp;&nbsp; OR &nbsp;&nbsp;&nbsp;&nbsp;<strong>Call</strong> : +91-9448-481-470<br><br> You can reach us at <strong>Whatsapp</strong> : +91-8095-646-586
 </p>
 
 <p class="lead animated fadeInDownBig" style="color:white; font-family: 'Raleway', sans-serif;">
@@ -140,23 +140,25 @@ Or<br><br>Fill out the form and we will call you back
 <br>
 <div class="row">
 	<div class="text-center color-white col-lg-4">
-	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">About Us</h4>
-	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>365 Online is the leading IT training and consultancy provider in the field of customer experience that focuses on quality, innovation, & speed. We utilized technology to to bring results. We pride ourselves in great work ethic, integrity.. &nbsp;&nbsp;</small><a href="http://365onlinetraining.com/about-us/"> Read more</a></p>
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;" class="text-left"><strong>Connect With Us</strong></h4>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-facebook"></i><small><a href="https://www.facebook.com/webcentersitestraining/"> &nbsp;Facebook</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-linkedin"></i><small><a href="https://www.linkedin.com/company/365onlinetraining"> &nbsp;LinkedIn</a></small></p>
+	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-youtube"></i><small><a href="https://www.youtube.com/channel/UCKcZtV65M0_EO9ddRvEeBIA"> &nbsp;YouTube</a></small></p>
 	</div>
 
 	<div class="text-center color-white col-lg-4">
-	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Upcoming Trainings</h4>
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;" class="text-left"><strong>Upcoming Trainings</strong></h4>
 	 <p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small> Oracle WebCenter Sites Training &nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-webcenter-sites-12c-online-training/"> Learn More</a></small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>Oracle WebCenter Content Training &nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-webcenter-content-training/"> Learn More</a></small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><small>Oracle ATG Web Commerce &nbsp;&nbsp;<a href="http://365onlinetraining.com/oracle-atg-training/"> Learn More</a></small></p>
 	</div>
 
 	<div class="text-center color-white col-lg-3">
-	<h4 style="color:white;font-family: 'PT Sans', sans-serif;">Contact</h4>
+	<h4 style="color:white;font-family: 'PT Sans', sans-serif;" class="text-left"><strong>Contact Us</strong></h4>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-envelope"></i><small><a href="mailto:contact@365onlinetraining.com"> &nbsp;contact@365onlinetraining.com </a></small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-mobile"></i><small> &nbsp;+91-9448-481-470</small></p>
 	<p style="color:white;font-family: 'Raleway', sans-serif;" class="text-left" ><i class="fa fa-pencil"></i><small><a href="http://365onlinetraining.com/contact/"> &nbsp;Write to us</a></small></p>
-</div>
+	</div>
 </div>
 </div>
 </footer>
@@ -169,7 +171,7 @@ Or<br><br>Fill out the form and we will call you back
                     <div class="footer-about-company">
                         <div class="region-footer">
                             <div class="content">
-                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2016 365 Online. All Right Reserved</h5></div>
+                                <h5 style="font-family: 'Raleway', sans-serif;">Copyright 2017 365 Online. All Right Reserved</h5></div>
                         </div>
                     </div>
                 </div>
