@@ -42,16 +42,16 @@
         		  	<ul class="dropdown-list">
                         <li class="dropdown-list-detail"><a>Oracle WebCenter Sites</a>
 							<ul class="consultancy-dd">
-<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/change-language-of-oracle-webcenter-sites-interfaces/"><small>Change language of Oracle WebCenter Sites interfaces</small></a></li>
+<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/change-language-oracle-webcenter-sites-12c-interfaces/"><small>Change language of Oracle WebCenter Sites 12C interfaces</small></a></li>
 <li class="consultancy-dd-list"><a href="http://365onlinetraining.com/how-to-start-oracle-webcenter-sites-12c-jump-start-kit/"><small>How to start Oracle WebCenter Sites 12C Jump start kit</small></a></li>
-<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/oracle-webcenter-sites-11g-how-to-make-left-side-admin-tab-works-in-mozilla-firefox-browser/"><small>Oracle WebCenter Sites 11g: How to make Left side admin tab works in Mozilla Firefox browser</small></a></li>
+<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/oracle-webcenter-sites-11g-make-left-side-admin-tab-works-mozilla-firefox-browser/"><small>Oracle WebCenter Sites 11g: How to make Left side admin tab works in Mozilla Firefox browser</small></a></li>
 <li class="consultancy-dd-list"><a href="http://365onlinetraining.com/resolve-eclipse-plugin-integration-issue-oracle-webcenter-sites-12c/"><small>How to resolve eclipse plugin integration issue with Oracle WebCenter Sites 12C</small></a></li>
-<li class="consultancy-dd-list"><a href="#"><small>How to use Site Explorer utility to access Pracle WebCenter sites database</small></a></li>
-<li class="consultancy-dd-list"><a href="#"><small>Understanding WebCenter Sites Deployment on Java Cloud Service</small></a></li>
-<li class="consultancy-dd-list"><a href="#"><small>Basic Asset Type Creation in Oracle WebCenter Sites 12C</small></a></li>
-<li class="consultancy-dd-list"><a href="#"><small>How to use Engage in WebCenter Sites 12C</small></a></li>
-<li class="consultancy-dd-list"><a href="#"><small>Integration of Oracle WebCenter Sites with Oracle ATG</small></a></li>
-<li class="consultancy-dd-list"><a href="#"><small>Oracle WebCenter Sies 11g :  How to make left side admin tab work in Mozilla Firefox Browser</small></a></li>
+<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/use-siteexplorer-utility-access-oracle-webcenter-sites-database/"><small>How to use Site Explorer utility to access Oracle WebCenter sites database</small></a></li>
+<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/understanding-webcenter-sites-deployment-java-cloud-service/"><small>Understanding WebCenter Sites Deployment on Java Cloud Service</small></a></li>
+<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/basic-asset-type-creation-oracle-webcenter-sites-12c/"><small>Basic Asset Type Creation in Oracle WebCenter Sites 12C</small></a></li>
+<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/use-engage-oracle-webcenter-sites-12c/"><small>How to use Engage in WebCenter Sites 12C</small></a></li>
+<li class="consultancy-dd-list"><a href="http://365onlinetraining.com/integration-oracle-webcenter-sites-oracle-atg/"><small>Integration of Oracle WebCenter Sites with Oracle ATG</small></a></li>
+
                                 </ul>
 						</li>
                         <li class="dropdown-list-detail"><a>Oracle WebCenter Content</a></li>
@@ -102,7 +102,7 @@
                 <div class="nav-wrap col-xs-2 col-sm-2 trainings-wrap" style="font-family: 'Raleway', sans-serif;"><button class="trainings">Training Programs</button>
                     <div style="background:black" class="nav-wrap-dropdown">
                         <ul class="dropdown-list">
-                            <li class="dropdown-list-detail"><a href="http://365onlinetraining.com/oracle-webcenter-sites-online-training/">Oracle Webcentre Sites Training</a></li>
+                            <li class="dropdown-list-detail"><a href="http://365onlinetraining.com/oracle-webcenter-sites-12c-online-training/">Oracle Webcentre Sites Training</a></li>
                             <li class="dropdown-list-detail"><a href="http://365onlinetraining.com/oracle-adf-online-training/">Oracle ADF Training</a></li>
                             <li class="dropdown-list-detail"><a href="http://365onlinetraining.com/oracle-webcenter-content-training/">Oracle Webcenter Content Training</a></li>
                            
