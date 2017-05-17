@@ -3,7 +3,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
         <meta charset="utf-8" />
-        <title>About Us | 365 Online</title>
+        <title>Contact US | 365 Online</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1.0" name="viewport" />
         <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -30,9 +30,9 @@
         <link href="../assets/base/css/themes/default.css" rel="stylesheet" id="style_theme" type="text/css" />
         <link href="../assets/base/css/custom.css" rel="stylesheet" type="text/css" />
         <!-- END THEME STYLES -->
-        <link rel="shortcut icon" href="../assets/logo/logo.png" />  </head>
+        <link rel="shortcut icon" href="../assets/logo/logo.png" /> </head>
 
-    <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-topbar c-layout-header-topbar-collapse">
+    <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-fullscreen c-layout-header-topbar">
         <!-- BEGIN: LAYOUT/HEADERS/HEADER-1 -->
         <!-- BEGIN: HEADER -->
         <header class="c-layout-header c-layout-header-6" data-minimize-offset="80">
@@ -54,7 +54,7 @@
                                         <span class="c-arrow c-toggler"></span>
                                     </a>
                                 </li>
-								<li class="c-active">
+								<li class="c-menu-type-classic">
                                     <a href="http://beta.365onlinetraining.com/about-us/" class="c-link dropdown-toggle">About Us
                                         <span class="c-arrow c-toggler"></span>
                                     </a>
@@ -101,7 +101,7 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li>
+                                <li class="c-active">
                                     <a href="http://beta.365onlinetraining.com/contact/" class="c-link dropdown-toggle">Contact
                                         <span class="c-arrow c-toggler"></span>
                                     </a>
@@ -166,74 +166,44 @@
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page" style="margin-top:0px">
             <!-- BEGIN: PAGE CONTENT -->
-            <!-- BEGIN: CONTENT/PORTFOLIO/LATEST-WORKS-1 -->
-            <div class="c-content-box c-size-md c-bg-grey-1">
+            <!-- BEGIN: CONTENT/CONTACT/FEEDBACK-1 -->
+            <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
-                    <div class="c-content-title-1"></br>
-                        <h3 class="c-center c-font-uppercase c-font-bold">About 365 Online</h3>
-                        <div class="c-line-center c-theme-bg"></div>
-                        <p class="c-center c-font-uppercase">365 Online is the leading IT training and consultancy provider in the field of customer experience that focuses on quality, innovation, & speed. We utiliz technology to bring results and  pride ourselves in great work ethic and end-results. Our trainers and consultants are certified and highly experienced in their technology domain.</p>
-						
-						 <p class="c-center c-font-uppercase">365 Online also aims at being the Project Consultancy contractor of choice by supporting its customers’ business objectives and consistently delivering projects with outstanding safety and environmental performance that meet cost, schedule and quality targets</p>
-						
-                    </div>
-                </div>
-            </div>
-            <!-- END: CONTENT/PORTFOLIO/LATEST-WORKS-1 -->
-            <!-- BEGIN: CONTENT/FEATURES/FEATURES-13-1 -->
-            <!-- BEGIN: FEATURES 13.1 -->
-            <div class="c-content-box c-size-md c-no-padding c-bg-img-center" style="background-image: url(../assets/banner1.jpg)">
-                <div class="c-content-feature-13">
-                    <div class="row c-reset">
-                        <div class="col-md-6 c-bg-dark">
-                            <div class="c-feature-13-container">
-                                <div class="c-content-title-1">
-                                    <h3 class="c-center c-font-uppercase c-font-white c-font-bold">Learn
-                                        <span class="c-theme-font">More</span></h3>
-                                    <div class="c-line-center c-theme-bg"></div>
-									
-                                </div>
-                                <div class="row">
-                                    <div class="col-sm-12 c-feature-13-tile">
-                                        <div class="c-feature-13-content">
-                                            <h4 class="c-font-uppercase c-theme-font c-font-bold">1. Oracle WebCenter Sites</h4>
-                                            <p class="c-font-white">Enables marketers and business users to easily create and manage contextually relevant, social, and interactive online experiences across multiple channels on a global scale</p>
-                                        </div>
+                    <div class="c-content-feedback-1 c-option-1"></br></br>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="c-contact">
+                                    <div class="c-content-title-1">
+                                        <h3 class="c-font-uppercase c-font-bold">Keep in touch</h3>
+                                        <div class="c-line-left"></div>
+                                        <p class="c-font-lowercase">Our helpline is always open to receive any inquiry or feedback. Please feel free to drop us an email from the form below and we will get back to you as soon as we can.</p>
                                     </div>
-                                    <div class="col-sm-12 c-feature-13-tile">
-                                        <div class="c-feature-13-content">
-                                            <h4 class="c-font-uppercase c-theme-font c-font-bold">2. Oracle WebCebcenter Portal</h4>
-                                            <p class="c-font-white">A web platform for creating intranets, extranets, composite applications, and self-service portals.It provides users a more secure and efficient means to consume information</p>
+                                    <form action="contact_me.php" method="post" name="sentMessage" id="contactForm" novalidate>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Your Name" id="name" class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your name."> </div>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Your Email" id="email"class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your email."> </div>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Contact Phone" id="phone" class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your phone number."> </div>
+                                        <div class="form-group">
+                                            <textarea rows="8" name="message" placeholder="Write comment here ..." id="message" class="form-control c-theme c-square input-lg" required data-validation-required-message="Please enter your message."></textarea>
                                         </div>
-                                    </div>
-                                </div>
-                                <div class="row c-margin-t-40">
-                                    <div class="col-sm-12 c-feature-13-tile">
-                                        <div class="c-feature-13-content">
-                                            <h4 class="c-font-uppercase c-theme-font c-font-bold">3. Oracle WebCenter Content</h4>
-                                            <p class="c-font-white">Provides a unified repository to house unstructured content, enabling organizations to deliver it to business users in the proper format and within the context of applications</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-12 c-feature-13-tile">
-                                        <div class="c-feature-13-content">
-                                            <h4 class="c-font-uppercase c-theme-font c-font-bold">4. Oracle WebCenter Imaging</h4>
-                                            <p class="c-font-white">Provides complete management of document images within transactional business processes, including content management and business process management</p>
-                                        </div>
-                                    </div>
+										<div id="success"></div>
+                                        <button type="submit" class="btn c-theme-btn c-btn-uppercase btn-lg c-btn-bold c-btn-square">Submit</button>
+                                    </form>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- END: FEATURES 13-1 -->
-            <!-- END: CONTENT/FEATURES/FEATURES-13-1 -->
-                <!-- END: PAGE CONTENT -->
-            </div>
-            <!-- END: PAGE CONTAINER -->
-            <!-- BEGIN: LAYOUT/FOOTERS/FOOTER-7 -->
-            <a name="footer"></a>
-            <footer class="c-layout-footer c-layout-footer-7">
+            <!-- END: CONTENT/CONTACT/FEEDBACK-1 -->
+            <!-- END: PAGE CONTENT -->
+        </div>
+        <!-- END: PAGE CONTAINER -->
+        <!-- BEGIN: LAYOUT/FOOTERS/FOOTER-3 -->
+        <a name="footer"></a>
+        <footer class="c-layout-footer c-layout-footer-7">
             <div class="container">
                 <div class="c-prefooter">
                     <div class="c-body">
@@ -256,40 +226,46 @@
                 </div>
             </div>
         </footer>
-            <!-- END: LAYOUT/FOOTERS/FOOTER-7 -->
-            <!-- BEGIN: LAYOUT/BASE/BOTTOM -->
-            <!-- BEGIN: CORE PLUGINS -->
-            <!--[if lt IE 9]>
+        <!-- END: LAYOUT/FOOTERS/FOOTER-3 -->
+        <!-- BEGIN: LAYOUT/BASE/BOTTOM -->
+        <!-- BEGIN: CORE PLUGINS -->
+        <!--[if lt IE 9]>
 	<script src="../../assets/global/plugins/excanvas.min.js"></script> 
 	<![endif]-->
-            <script src="../assets/plugins/jquery.min.js" type="text/javascript"></script>
-            <script src="../assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
-            <script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-            <script src="../assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
-            <script src="../assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
-            <script src="../assets/base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
-            <!-- END: CORE PLUGINS -->
-            <!-- BEGIN: LAYOUT PLUGINS -->
-            <script src="../assets/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>
-            <script src="../assets/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
-            <script src="../assets/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
-            <script src="../assets/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
-            <script src="../assets/plugins/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
-            <script src="../assets/plugins/smooth-scroll/jquery.smooth-scroll.js" type="text/javascript"></script>
-            <script src="../assets/plugins/slider-for-bootstrap/js/bootstrap-slider.js" type="text/javascript"></script>
-            <!-- END: LAYOUT PLUGINS -->
-            <!-- BEGIN: THEME SCRIPTS -->
-            <script src="../assets/base/js/components.js" type="text/javascript"></script>
-            <script src="../assets/base/js/components-shop.js" type="text/javascript"></script>
-            <script src="../assets/base/js/app.js" type="text/javascript"></script>
-            <script>
-                $(document).ready(function()
-                {
-                    App.init(); // init core    
-                });
-            </script>
-            <!-- END: THEME SCRIPTS -->
-            <!-- END: LAYOUT/BASE/BOTTOM -->
-   
+        <script src="../assets/plugins/jquery.min.js" type="text/javascript"></script>
+        <script src="../assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
+        <script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="../assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
+        <script src="../assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
+		<script src="../assets/plugins/contact_me.js" type="text/javascript"></script>
+		<script src="../assets/plugins/jqBootstrapValidation.js" type="text/javascript"></script>
+        <script src="../assets/base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
+        <!-- END: CORE PLUGINS -->
+        <!-- BEGIN: LAYOUT PLUGINS -->
+        <script src="../assets/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>
+        <script src="../assets/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+        <script src="../assets/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
+        <script src="../assets/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
+        <script src="../assets/plugins/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+        <script src="../assets/plugins/smooth-scroll/jquery.smooth-scroll.js" type="text/javascript"></script>
+        <script src="../assets/plugins/slider-for-bootstrap/js/bootstrap-slider.js" type="text/javascript"></script>
+        <!-- END: LAYOUT PLUGINS -->
+        <!-- BEGIN: THEME SCRIPTS -->
+        <script src="../assets/base/js/components.js" type="text/javascript"></script>
+        <script src="../assets/base/js/components-shop.js" type="text/javascript"></script>
+        <script src="../assets/base/js/app.js" type="text/javascript"></script>
+        <script>
+            $(document).ready(function()
+            {
+                App.init(); // init core    
+            });
+        </script>
+        <!-- END: THEME SCRIPTS -->
+        <!-- BEGIN: PAGE SCRIPTS -->
+        <script src="http://maps.google.com/maps/api/js?sensor=true" type="text/javascript"></script>
+        <script src="../assets/plugins/gmaps/gmaps.js" type="text/javascript"></script>
+        <script src="../assets/base/js/scripts/pages/contact.js" type="text/javascript"></script>
+        <!-- END: PAGE SCRIPTS -->
+        <!-- END: LAYOUT/BASE/BOTTOM -->
 </body>
 </html>
