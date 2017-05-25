@@ -177,7 +177,8 @@
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-12 wow animated fadeInLeft">
+					<div class="col-lg-8">
+                        <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
                                 <h3 class="c-font-uppercase c-font-bold">Mobile Development and Oracle Mobile Application Framework Training: Introduction</h3>
@@ -191,7 +192,7 @@
 </li>
                             </ul>
                         </div>
-						 <div class="col-sm-12 wow animated fadeInLeft">
+						 <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
                                 <h3 class="c-font-uppercase c-font-bold">Designing Mobile Applications with Mobile Application Framework</h3>
@@ -205,7 +206,7 @@
 </li>
                             </ul>
                         </div>
-						 <div class="col-sm-12 wow animated fadeInLeft">
+						 <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
                                 <h3 class="c-font-uppercase c-font-bold">Building Features in a MAF Application</h3>
@@ -219,7 +220,7 @@
 </li>
                             </ul>
                         </div>
-						 <div class="col-sm-12 wow animated fadeInLeft">
+						 <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
                                 <h3 class="c-font-uppercase c-font-bold">Developing a Simple Mobile User Interface</h3>
@@ -234,7 +235,7 @@
 </li>
                             </ul>
                         </div>
-						 <div class="col-sm-12 wow animated fadeInLeft">
+						 <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
                                 <h3 class="c-font-uppercase c-font-bold">A Closer Look at Developing a MAF UI</h3>
@@ -249,7 +250,7 @@
 </li>
                             </ul>
                         </div>
-						 <div class="col-sm-12 wow animated fadeInLeft">
+						 <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
                                 <h3 class="c-font-uppercase c-font-bold">Binding Data to Pages with Data Controls</h3>
@@ -263,7 +264,7 @@
 </li>
                             </ul>
                         </div>
-						 <div class="col-sm-12 wow animated fadeInLeft">
+						 <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
                                 <h3 class="c-font-uppercase c-font-bold">Displaying Complex Data with Visualization Components</h3>
@@ -278,7 +279,7 @@
 </li>
                             </ul>
                         </div>
-						 <div class="col-sm-12 wow animated fadeInLeft">
+						 <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
                                 <h3 class="c-font-uppercase c-font-bold">Working with Remote and Local Data</h3>
@@ -292,7 +293,7 @@
 </li>
                             </ul>
                         </div>
-						 <div class="col-sm-12 wow animated fadeInLeft">
+						 <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
                                 <h3 class="c-font-uppercase c-font-bold">Improving the UI with Devices Services</h3>
@@ -303,7 +304,7 @@
                                 <li>Enhancing mobile applications by incorporating device services, such as camera, email, and bar code readers</li>
                             </ul>
                         </div>
-						 <div class="col-sm-12 wow animated fadeInLeft">
+						 <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
                                 <h3 class="c-font-uppercase c-font-bold">Using Non-Declarative Programming Techniques</h3>
@@ -314,7 +315,7 @@
                                 <li>Identifying non-declarative programming scenarios in MAF</li>
                             </ul>
                         </div>
-						 <div class="col-sm-12 wow animated fadeInLeft">
+						 <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
                                 <h3 class="c-font-uppercase c-font-bold">Implementing Standards by Reusing Application Artifacts</h3>
@@ -325,7 +326,7 @@
                                 <li>Constructing and reusing template-like fragment components for a consistent look and feel across MAF applications</li>
                             </ul>
                         </div>
-						 <div class="col-sm-12 wow animated fadeInLeft">
+						 <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
                                 <h3 class="c-font-uppercase c-font-bold">Deploying and Debugging MAF Applications</h3>
@@ -336,6 +337,24 @@
                                 <li>Options for archiving an application</li>
                             </ul>
                         </div>
+						</div>
+					<div class="col-lg-4">
+					<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Request Training Demo</h3>
+					<br>
+					<form action="contact_me.php" method="post" name="sentMessage" id="contactForm" novalidate>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Your Name" id="name" class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your name."> </div>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Your Email" id="email"class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your email."> </div>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Contact Phone" id="phone" class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your phone number."> </div>
+                                        <div class="form-group">
+                                            <textarea rows="8" name="message" placeholder="Write comment here ..." id="message" class="form-control c-theme c-square input-lg" required data-validation-required-message="Please enter your message."></textarea>
+                                        </div>
+										<div id="success"></div>
+                                        <button type="submit" class="btn c-theme-btn c-btn-uppercase btn-lg c-btn-bold c-btn-square">Submit</button>
+                                    </form>
+					</div>
                     </div>
                 </div>
             </div>
@@ -417,6 +436,8 @@
         <script src="../assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
         <script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <script src="../assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
+		<script src="../assets/plugins/contact_me.js" type="text/javascript"></script>
+		<script src="../assets/plugins/jqBootstrapValidation.js" type="text/javascript"></script>
         <script src="../assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
         <script src="../assets/base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
         <!-- END: CORE PLUGINS -->

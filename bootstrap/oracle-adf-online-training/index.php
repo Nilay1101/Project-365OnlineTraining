@@ -3,7 +3,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
         <meta charset="utf-8" />
-        <title>Oracle WebCenter Portal Training | 365 Online</title>
+        <title>Oracle ADF Training | 365 Online</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1.0" name="viewport" />
         <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -72,7 +72,8 @@
                                             <a href="http://beta.365onlinetraining.com/oracle-webcenter-content-training/">Oracle Webcenter Content
                                                 <span class="c-arrow c-toggler"></span>
                                             </a>
-                                        </li><li class="dropdown-submenu">
+                                        </li>
+										<li class="dropdown-submenu">
                                             <a href="http://beta.365onlinetraining.com/oracle-webcenter-portal-training/">Oracle WebCenter Portal
                                                 <span class="c-arrow c-toggler"></span>
                                             </a>
@@ -167,7 +168,7 @@
             <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(../assets/back1.png)">
                 <div class="container">
                     <div class="c-page-title c-pull-left">
-                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Oracle WebCenter Portal Training</h3>  
+                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Oracle ADF Training</h3>  
                     </div>
                 </div>
             </div>
@@ -176,152 +177,389 @@
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-12 wow animated fadeInLeft">
+					<div class="col-lg-8">
+                        <div class="col-sm-12">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Introduction to Oracle WebCenter 12C</h3>
+                                <h3 class="c-font-uppercase c-font-bold">Introduction to Oracle ADF Online Training</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    
-    Oracle Fusion Middleware </li><li>
-    Oracle WebCenter 12C: Overview </li><li>
-    Oracle WebCenter Architecture </li><li>
-    Deployed Architecture of a WebCenter Instance and Service Providers </li><li>
-    Introducing the Course Application
-
+    Oracle ADF and JDeveloper</li><li>
+    Oracle Fusion Middleware</li><li>
+    Oracle Fusion Architecture</li><li>
+    ADF and MVC</li><li>
+    More about ADF
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Oracle Jdeveloper and ADF</h3>
+                                <h3 class="c-font-uppercase c-font-bold">Exploring JDeveloper</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-	
-    Explain JSF, ADF Faces Rich Client, ADF Business Components </li><li>
-    Create a Page Template and Layout </li><li>
-    Build a ADF Task Flow using Business Components </li><li>
-    Configure Partial Page Refresh
-
-
+    JDeveloper 11g New Features</li><li>
+    Building Oracle ADF Application in JDeveloper</li><li>
+    Configuring JDeveloper Preferences
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Oracle WebCenter Framework</h3>
+                                <h3 class="c-font-uppercase c-font-bold">Database Schema Design</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    
-    Identify WebCenter Suite Components </li><li>
-    Describe Framework, Composer and Services </li><li>
-    Explain WebCenter Architecture and role of MDS </li><li>
-    Integrate a Portlet within WebCenter </li><li>
-    Build and Deploy a Portlet 
-
+    JDeveloper 11g New Features</li><li>
+    Database Designing Tools in JDeveloper</li><li>
+    Creating Offline Objects</li><li>
+    Synchronize Online-Offline Database
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">WebCenter Portlets</h3>
+                                <h3 class="c-font-uppercase c-font-bold">Data Modeling with Oracle ADF Business Components</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-	What is a Portlet? </li><li>
-WebCenter-Supported Portlet Standards </li><li>
-Anatomy of a Portlet: Provider, Portlet, Consumer, Communication Protocol </li><li>
-Portlet Modes, Customization, and Personalization </li><li>
-Registering a Portlet Provider </li><li>
-Adding Portlets to a Page </li><li>
-Attributes of the Portlet Tag </li><li>
-Oracle JSF Portlet Bridge
+    Advantages of Oracle ADF BC</li><li>
+    Oracle ADF BC Categories</li><li>
+    Creating Oracle ADF Business Components</li><li>
+    Business Component Browser
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Oracle Composer</h3>
+                                <h3 class="c-font-uppercase c-font-bold">Entity Objects and Associations</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-	
-    Describe Composer, Resource Catalog and Catalog Filters </li><li>
-    Set up Runtime Editing with Customization Components </li><li>
-    Publish Multiple Resource Catalogs </li><li>
-    Customize Metadata with MDS </li><li>
-    Describe Page Service </li><li>
-    Create Pages and Taskflows at Runtime </li><li>
-    Render Pages with ADF Faces Components </li><li>
-    Customize Look and Feel at Runtime  </li><li>
-	Customize at Design Time – Add Styles and Create new
-
-
+    Data Persistence using Entity Objects</li><li>
+    Creating Entity Objects</li><li>
+    Modify Entity Object Default Behavior</li><li>
+    Associations
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">WebCenter Services</h3>
+                                <h3 class="c-font-uppercase c-font-bold">View Objects and View Links</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-
-    Configure Wiki, Blogs, Discussions, Tags </li><li>
-    Configure and use Events, Links and List Service </li><li>
-    Configure and use WorkList </li><li>
-    Configure PeopleConnection Service</li><li> 
-    Configure and Use Mail and Calendar</li><li> 
-    Configure and use Search
-
+    Populating Data in View Objects</li><li>
+    Creating View Objects</li><li>
+    Modify View Object Default Behavior</li><li>
+    View Links</li><li>
+    Creating View Criteria</li><li>
+    Creating List of Values
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Integrating Content</h3>
+                                <h3 class="c-font-uppercase c-font-bold">Application Modules</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-								
-    Configure and Customize Document Library </li><li>
-    Use Content Repository Based Data Controls (JCR) </li><li>
-    Use CIS APIs </li><li>
-    Configure and use Content Presenter
-
+    Designing Application Module</li><li>
+    Creating Application Module</li><li>
+    Application Module Editor</li><li>
+    Testing Service Methods
 </li>
                             </ul>
 							
                         </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Programmatically Modifying Default Behavior</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Supporting Java Classes</li><li>
+    Modify Entity Object Behavior</li><li>
+    Modify View Object Behavior</li><li>
+    Service Methods and Application Module
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Business Validation</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Validation Life Cycle</li><li>
+    Built-in Declarative Validation Rules</li><li>
+    Validation Execution</li><li>
+    Failure Handling</li><li>
+    Groovy Support</li><li>
+    Creating Validation Rule Class
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Introduction to User Interface Technologies</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    User Interface – Available Technologies</li><li>
+    Java Server Faces</li><li>
+    ADF Faces
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Understanding Oracle ADF Data bindings</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Oracle ADF Data Model and Bindings</li><li>
+    Exposing Business Components as Data Controls</li><li>
+    JSF Expression Language</li><li>
+    Binding Components to Data
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Understanding Oracle ADF Task Flows</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Characteristics of Oracle ADF Task Flow</li><li>
+    Creating a Task Flow</li><li>
+    Using Oracle ADF Task Flow Components</li><li>
+    Using Method Call Activities</li><li>
+    Creating Managed Beans
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Enriching the Page Content</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Oracle ADF Faces Rich Client Components</li><li>
+    Using Facets</li><li>
+    Using Oracle ADF Faces Components</li><li>
+    UI and Translation
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Understanding Layout Basics</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Oracle ADF Faces Layout Components</li><li>
+    Oracle ADF Faces Skins</li><li>
+    Enabling PPR
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Ensuring Reusability</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Pros and Cons of Reusability</li><li>
+    Reusing Components</li><li>
+    Designing for Reuse</li><li>
+    Creating Oracle ADF Library</li><li>
+    What Fits your Requirements
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Implementing Page Navigation</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Oracle ADF Faces Navigation Components</li><li>
+    Performing Navigation</li><li>
+    Defining Access Keys</li><li>
+    Using Train Components
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Handling Application Events</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    JSF Page Life Cycle</li><li>
+    Oracle ADF Lifecycle Phases</li><li>
+    Creating Action Methods</li><li>
+    Value Change Events
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Managing and Validating Data</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Holding Values in Data Model</li><li>
+    Holding Values in Managed Beans</li><li>
+    Passing Values between Pages</li><li>
+    Validation Event Points</li><li>
+    Oracle ADF Binding Validation</li><li>
+    Oracle ADF Faces Validation
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Transaction Management</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Handling Transactions with Oracle ADF BC</li><li>
+    Transaction in Oracle ADF Task Flow</li><li>
+    Specifying Task Flow Transaction Start Options
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Troubleshooting Oracle ADF Applications</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Logging and Diagnostics</li><li>
+    Java Logging</li><li>
+    Oracle ADF Logging</li><li>
+    ADF Declarative Debugger</li><li>
+    UI Troubleshooting Tools
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Deploying Oracle ADF Applications (WebLogic)</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Creating a WAR Profile</li><li>
+    Creating a EAR Profile</li><li>
+    Testing the Server Connectivity</li><li>
+    Deploying the Application
+</li>
+                            </ul>
+							
+                        </div>
+						</div>
+					<div class="col-lg-4">
+					<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Request Training Demo</h3>
+					<br>
+					<form action="contact_me.php" method="post" name="sentMessage" id="contactForm" novalidate>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Your Name" id="name" class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your name."> </div>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Your Email" id="email"class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your email."> </div>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Contact Phone" id="phone" class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your phone number."> </div>
+                                        <div class="form-group">
+                                            <textarea rows="8" name="message" placeholder="Write comment here ..." id="message" class="form-control c-theme c-square input-lg" required data-validation-required-message="Please enter your message."></textarea>
+                                        </div>
+										<div id="success"></div>
+                                        <button type="submit" class="btn c-theme-btn c-btn-uppercase btn-lg c-btn-bold c-btn-square">Submit</button>
+                                    </form>
+					</div>
+						
                     </div>
                 </div>
             </div>
@@ -389,6 +627,7 @@ Oracle JSF Portlet Bridge
                             </div>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </footer>
@@ -403,6 +642,8 @@ Oracle JSF Portlet Bridge
         <script src="../assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
         <script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <script src="../assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
+		<script src="../assets/plugins/contact_me.js" type="text/javascript"></script>
+		<script src="../assets/plugins/jqBootstrapValidation.js" type="text/javascript"></script>
         <script src="../assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
         <script src="../assets/base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
         <!-- END: CORE PLUGINS -->

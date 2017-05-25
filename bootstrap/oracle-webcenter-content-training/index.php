@@ -3,7 +3,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
         <meta charset="utf-8" />
-        <title>Oracle WebCentre Sites Training | 365 Online</title>
+        <title>Oracle WebCenter Content Training | 365 Online</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1.0" name="viewport" />
         <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -168,7 +168,7 @@
             <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(../assets/back1.png)">
                 <div class="container">
                     <div class="c-page-title c-pull-left">
-                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Oracle WebCentre Sites Training</h3>  
+                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Oracle WebCenter Content Training</h3>  
                     </div>
                 </div>
             </div>
@@ -177,312 +177,270 @@
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-12 wow animated fadeInLeft">
-                            <p>Oracle WebCenter Sites Training will help you in understanding the complete Oracle Webcenter sites product. In this training, participants will get hands on experience in Oracle WebCenter Sites by building a Sample Application during the training. This training would be provided by well-qualified and certified WebCenter Sites trainer, who during the theory class would teach you concepts of Oracle WebCenter Sites with numerous live examples and will later help you in implementing those concepts in the hands on lab. Our WebCenter Sites Training is tailored for the professionals or organizations to enable themselves in it. We ensure that after the training the participants should be comfortable in using Oracle WebCenter Sites for their project work.</p>
-							<p>Oracle WebCenter Sites Online Training audience will be</p>
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>Solution Architect</li>
-                                <li>Application Developer</li>
-                                <li>Implementation Consultant</li>
-                                <li>Technical Consultant</li>
-                                <li>Java Developer</li>
-                            </ul>
-							<p>No specific pre-requiste needed.</p>
+					<div class="col-lg-8">
+                        <div class="col-sm-12  ">
+                            <p>With the upcoming and new technologies, Oracle WebCenter Content Training is gaining popularity day by day in the market. It helps you to get quite faster and reliable web experiences. There are still some organizations that use older form of browsing technologies and take assistance from the traditional vendor. The contribution of oracle webcenter content 12c is of great help for those who want to progress in the field of technology. WebCenter Content makes the extensive use of the JavaScript for the interface of the browser.</p>
+							
+							<p>In Oracle WebCenter Content Training the navigation structure like option list, menus and some other parts of the page which are drawn dramatically with the help of JavaScript. This is done so as to provide minimum network or download traffic so that the JavaScript can be easily cached over the client. Oracle WebCenter Content 12c comes up with very good and unique features. It elevates the work which has to be done from the end of the server.</p>
+                            
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Architecture and Interfaces</h3>
+                                <h3 class="c-font-uppercase c-font-bold">Introducing Oracle WebCenter Content Training</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Basic configuration and Installation of Oracle WebCenter Sites 11g/12c.</li><li>
-    Basic Architecture of Oracle WebCenter CMS</li><li>
-    What is “Web Experience Management”?</li><li>
-    About WebCenter Sites Terminology.</li><li>
-    The WEM Admin Interface : Authentication</li><li>
-    The Admin Interface : Administration</li><li>
-    The Contributor Interface : Content Creation</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Creating and Configuring a New CM Site</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Discussing User Authentication and Authorization<li></li>
-    About Oracle WebCenter Sites Roles, Users and ACLs<li></li>
-    Creating a CM site in WebCenter Sites 11g/12c<li></li>
-    Creating Users in the WEM Admin Interface<li></li>
-    Creating and Assigning Roles in the WEM Admin Interface to a Site.
+    WebCenter Content Overview</li><li>
+    About Oracle WebCenter Content Server Customization Capabilities</li><li>
+    Introducing What can be Customized
 </li>
                             </ul>
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Asset Model</h3>
+                                <h3 class="c-font-uppercase c-font-bold">WebCenter Security</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Creation of Oracle webcenter sites Basic ../assets</li><li>
-    Creation of Oracle webcenter sites Flex family ../assets</li><li>
-    Database table associated with the ../assets</li><li>
-    Page, Template, CSElement, Site Entry and other Default Asset Types</li><li>
-    Creation of Definition, Parent Child definition</li><li>
-    Designing asset model for the Sample sites.</li><li>
-    About Asset Dependencies
+    User : Internal and External</li><li>
+    WebCenter Content Roles and Group</li><li>
+    WebLogic user and Groups
+</li>
+                            </ul>
+                        </div>
+						<div class="col-sm-12  ">
+                            <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">WebCenter Content Server Administration</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Implementation of Metadata</li><li>
+    Revision Tracking</li><li>
+    Workflow
+</li>
+                            </ul>
+                        </div>
+						<div class="col-sm-12  ">
+                            <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Using Component Wizard</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Enabling Components</li><li>
+    Packaging and Installing Components</li><li>
+    Defining the Default HTML Editor</li><li>
+    Introducing Tag Filtering</li><li>
+    Understanding Where Component Wizard Stores Created Files</li><li>
+    Using Different Types of Content Server Resources</li><li>
+    Identifying Files Created in a Component and the Resulting Directory Structure
+</li>
+                            </ul>
+                        </div>
+						<div class="col-sm-12  ">
+                            <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Idoc Script</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Understanding the Programming Capabilities of Idoc Script</li><li>
+    Using Idoc Script to Alter the Functionality of the Content Server</li><li>
+    Using Idoc Script to Alter the Presentation of the Content Server
+</li>
+                            </ul>
+                        </div>
+						<div class="col-sm-12  ">
+                            <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Component and Glue File</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Environment</li><li>
+    The HTML Include Resource and Localization Strings</li><li>
+    The Query Resource</li><li>
+    The Service Resource</li><li>
+    The Template Resource
+</li>
+                            </ul>
+                        </div>
+						<div class="col-sm-12  ">
+                            <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Creating a New Layout and Skin</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Understanding User interface Purpose and benefits of Layouts and Skins</li><li>
+    Exploring the New Layout Component</li><li>
+    Modifying the Component</li><li>
+    Modifying the Banner Image</li><li>
+    Creating a Custom Skin
+</li>
+                            </ul>
+                        </div>
+						<div class="col-sm-12  ">
+                            <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Using Dynamic Server Pages as Alternatives to Custom Components</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Creating a Custom Include (*.idoc Resource File)</li><li>
+    Creating an HCST Dynamic Server Page (*.hcst)
+</li>
+                            </ul>
+                        </div>
+						<div class="col-sm-12  ">
+                            <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Overview of Java Customization</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Describing the Customization Available With Java</li><li>
+    Introducing JDeveloper
+</li>
+                            </ul>
+                        </div>
+						<div class="col-sm-12  ">
+                            <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Integrating Custom Java Code Into the Oracle WebCenter Content Server</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Extending the Core Oracle Content Server Java Classes</li><li>
+    Writing a Custom Service Class using JDeveloper</li><li>
+    Creating a Service Calling a Custom Service Class</li><li>
+    Deploying a Java Project Into a Component Folder</li><li>
+    Extending a Component Classpath With a Custom JAR file</li><li>
+    Creating a Custom Component Tracing Section
+</li>
+                            </ul>
+                        </div>
+						<div class="col-sm-12  ">
+                            <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Creating Custom Idoc Script Functions and Variables with Java Code</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Creating a Stand-alone Custom Java Class</li><li>
+    Creating Custom Idoc Script Functions and Variables</li><li>
+    Deploying the Idoc Script Extension With JDeveloper
+</li>
+                            </ul>
+                        </div>
+						<div class="col-sm-12  ">
+                            <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Oracle WebCenter Content Demo</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                         <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
+<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/76NjJd1hfnE?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
+<a id="get-youtube-data" class="youtube-embed-code" href="https://www.tubeembed.com">tubeembed</a>
 
-</li>
-                            </ul>
+</div>   
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+												<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Oracle WebCenter Sites Programming</h3>
+                                <h3 class="c-font-uppercase c-font-bold">Desktop Integration</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Rendering Models and Patterns</li><li>
-    About Template Design</li><li>
-    About Site Design Asset Types</li><li>
-    Describing WebCenter Sites Variables and Lists</li><li>
-    Explaining WebCenter Sites Asset API</li><li>
-    Invoking Other Templates and Elements</li><li>
-    Retrieving and Rendering Asset Data</li><li>
-    Manipulating WebCenter Sites Lists</li><li>
-    Building Links to ../assets
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Oracle WebCenter Sites Programming – Cont.</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Rendering Images</li><li>
-    Fetching Associated ../assets</li><li>
-    Building a Navigation Bar</li><li>
-    Designing of Layouts.</li><li>
-    Different types of templates.</li><li>
-    Template calling stack.
-
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">In Context Editing: Web Mode</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Discussing Requirements for In-Context Editing</li><li>
-    Coding for In-Context Content Editing</li><li>
-    Coding for In-Context Presentation Editing</li><li>
-    Coding for In-Context Content Creation
-
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">WebCenter Sites Developer Tools and Tags</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Overview of Oracle WebCenter Sites Tags</li><li>
-    Sites Explorer</li><li>
-    Template Creation and Integration with Eclipse
-
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Workflows</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Overview of Workflow</li><li>
-    Configuration of Email, states and Workflow process
-
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Revision Tracking and Publishing</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Publishing Methods</li><li>
-    Explaining Approval Process</li><li>
-    Creating a New Destination for Dynamic Publishing</li><li>
-    Approving and Publishing Content ../assets
-
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Caching Strategy</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Overview of Resultset Caching</li><li>
-    Discussing Architectural Overview of Page Caching</li><li>
-    About Cache Criteria</li><li>
-    Explaining Compositional Dependencies</li><li>
-    Working with Embedded Pagelets
-
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Software Required</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-							<p>11 g</p>
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Windows 7</li><li>
-    JDK 1.6 or above</li><li>
-    Oracle WebCenter Sites JSK 11.1.1.8 (Apache server) patch 17157514/ Oracle WebCenter sites 11gR1 (11.1.1.8.0)</li><li>
-    Oracle 10g database</li><li>
-    Chrome/Firefox browser</li><li>
-    Notepad ++
-
-</li>
-                            </ul>
-							</br>
-							<p>12 c</p>
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Windows 7</li><li>
-    JDK 1.6 or above</li><li>
-    Oracle WebCenter Sites JSK 11.1.1.8 (Apache server) patch 17157514/ Oracle WebCenter sites 11gR1 (11.1.1.8.0)</li><li>
-    Oracle 10g database</li><li>
-    Chrome/Firefox browser</li><li>
-    Notepad ++
-
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Hardware Requirements</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-								Intel i3/i5 processor</li><li>
-Min. 8 GB RAM
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Training Material</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                               <li>
-    Detail Project on Oracle WebCenter Sites covering all the concepts of WebCenter Sites,</li><li>
-    Code of the Detail Project</li><li>
-    Hands on instructions document</li><li>
-    Sample site as an Assignment
-
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">How in engage in Oracle WebCenter Sites Training</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                           <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
-<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/xjZ_5071T3U?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
+                            <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
+<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/AXi4q9VWMqw?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
 <a id="get-youtube-data" class="youtube-embed-code" href="https://www.tubeembed.com">tubeembed</a>
 
 </div>
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+												<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Users, Roles and ACL Tutorial</h3>
+                                <h3 class="c-font-uppercase c-font-bold">Content Type Creation</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
-                           <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
-<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/Vn2UaHZAagE?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
+                            <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
+<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/ztp1BPHzDlQ?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
 <a id="get-youtube-data" class="youtube-embed-code" href="https://www.tubeembed.com">tubeembed</a>
 
 </div>
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+												<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Basic Asset Types Tutorial</h3>
+                                <h3 class="c-font-uppercase c-font-bold">User Creation</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
-                           <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
-<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/SDlB-JvtOTI?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
+                            <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
+<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/YwkY1RgXnTU?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
 <a id="get-youtube-data" class="youtube-embed-code" href="https://www.tubeembed.com">tubeembed</a>
 
 </div>
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+												<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">How to resolve Webcenter sites 12C eclipse plugin not getting visible in eclipse issue</h3>
+                                <h3 class="c-font-uppercase c-font-bold">Localization</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
-                           <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
-<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/8P4Q_idFu9E?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
+                            <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
+<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/hAjbvDTNzOw?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
 <a id="get-youtube-data" class="youtube-embed-code" href="https://www.tubeembed.com">tubeembed</a>
 
 </div>
                         </div>
+						</div>
+					<div class="col-lg-4">
+					<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Request Training Demo</h3>
+					<br>
+					<form action="contact_me.php" method="post" name="sentMessage" id="contactForm" novalidate>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Your Name" id="name" class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your name."> </div>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Your Email" id="email"class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your email."> </div>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Contact Phone" id="phone" class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your phone number."> </div>
+                                        <div class="form-group">
+                                            <textarea rows="8" name="message" placeholder="Write comment here ..." id="message" class="form-control c-theme c-square input-lg" required data-validation-required-message="Please enter your message."></textarea>
+                                        </div>
+										<div id="success"></div>
+                                        <button type="submit" class="btn c-theme-btn c-btn-uppercase btn-lg c-btn-bold c-btn-square">Submit</button>
+                                    </form>
+					</div>
                     </div>
                 </div>
             </div>
@@ -564,6 +522,8 @@ Min. 8 GB RAM
         <script src="../assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
         <script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <script src="../assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
+		<script src="../assets/plugins/contact_me.js" type="text/javascript"></script>
+		<script src="../assets/plugins/jqBootstrapValidation.js" type="text/javascript"></script>
         <script src="../assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
         <script src="../assets/base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
         <!-- END: CORE PLUGINS -->

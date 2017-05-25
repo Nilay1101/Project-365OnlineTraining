@@ -10,6 +10,8 @@
         <meta content="" name="description" />
         <meta content="" name="author" />
         <!-- BEGIN GLOBAL MANDATORY STYLES -->
+		
+        <script src="https://use.fontawesome.com/52da5feade.js"></script>
         <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&amp;subset=all' rel='stylesheet' type='text/css'>
         <link href="assets/plugins/socicon/socicon.css" rel="stylesheet" type="text/css" />
         <link href="assets/plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css" />
@@ -267,7 +269,7 @@
                             <div class="c-line-center c-theme-bg"></div>
                         </div>
 				<div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                                     <div class="c-content-blog-post-card-1 c-option-2">
                                     <div class="c-media c-content-overlay">
                                         <div class="c-overlay-wrapper">
@@ -279,9 +281,10 @@
                                         </div>
                                         <img class="c-overlay-object img-responsive" src="assets/course/shot01.jpg" alt="Oracle WebCenter Sites"> </div>
                                     <div class="c-body">
-                                        <div class="c-title c-font-uppercase c-font-bold">
+                                        <div class="c-title c-font-uppercase c-font-bold" style="font-size:15px">
                                             <a href="http://beta.365onlinetraining.com/oracle-webcenter-sites-12c-online-training/">Oracle WebCenter Sites</a>
                                         </div>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
 										<script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -295,40 +298,7 @@ var dat =  new Date();
 var dt=dat.addDays(2);
 document.write(dt.toDateString());
 
-</script> </br></br>
-<a href="http://beta.365onlinetraining.com/oracle-webcenter-sites-12c-online-training/" class="c-action-btn btn btn-lg c-btn-square c-btn-bold c-btn-border-1x c-theme-btn c-btn-uppercase">Learn More</a>
-                                    </div>
-                                </div>
-								<br/>
-								<div class="c-content-blog-post-card-1 c-option-2">
-                                    <div class="c-media c-content-overlay">
-                                        <div class="c-overlay-wrapper">
-                                            <div class="c-overlay-content">
-                                                <a href="http://beta.365onlinetraining.com/oracle-webcenter-portal-training/">
-                                                    <i class="icon-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <img class="c-overlay-object img-responsive" src="assets/course/shot01.jpg" alt="Oracle WebCenter Content"> </div>
-                                    <div class="c-body">
-                                        <div class="c-title c-font-uppercase c-font-bold">
-                                            <a href="http://beta.365onlinetraining.com/oracle-webcenter-portal-training/">Oracle WebCenter Portal</a>
-                                        </div>
-                                         <script type="text/javascript">
-Date.prototype.addDays = function(days)
-{
-    var dat = new Date(this.valueOf());
-    dat.setDate(dat.getDate() + days);
-    return dat;
-}
-
-var dat =  new Date();
-
-var dt=dat.addDays(3);
-document.write(dt.toDateString());
-
-</script> </br></br>
-<a href="http://beta.365onlinetraining.com/oracle-webcenter-portal-training/" class="c-action-btn btn btn-lg c-btn-square c-btn-bold c-btn-border-1x c-theme-btn c-btn-uppercase">Learn More</a>
+</script>
                                     </div>
                                 </div>
 								<br/>
@@ -343,9 +313,10 @@ document.write(dt.toDateString());
                                         </div>
                                         <img class="c-overlay-object img-responsive" src="assets/course/shot07.jpg" alt="Angular JS"> </div>
                                     <div class="c-body">
-                                        <div class="c-title c-font-uppercase c-font-bold">
+                                        <div class="c-title c-font-uppercase c-font-bold" style="font-size:15px">
                                             <a href="http://beta.365onlinetraining.com/angular-js-online-course">Angular JS</a>
                                         </div>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
                                         <script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -359,13 +330,12 @@ var dat =  new Date();
 var dt=dat.addDays(4);
 document.write(dt.toDateString());
 
-</script> </br></br>
-<a href="http://beta.365onlinetraining.com/angular-js-online-course" class="c-action-btn btn btn-lg c-btn-square c-btn-bold c-btn-border-1x c-theme-btn c-btn-uppercase">Learn More</a>
+</script>
                                     </div>
                                 </div>
                             </div>
 									
-                                    <div class="col-md-4">
+                                    <div class="col-md-3">
                                     <div class="c-content-blog-post-card-1 c-option-2">
                                     <div class="c-media c-content-overlay">
                                         <div class="c-overlay-wrapper">
@@ -377,9 +347,10 @@ document.write(dt.toDateString());
                                         </div>
                                         <img class="c-overlay-object img-responsive" src="assets/course/shot01.jpg" alt="Oracle WebCenter Content"> </div>
                                     <div class="c-body">
-                                        <div class="c-title c-font-uppercase c-font-bold">
+                                        <div class="c-title c-font-uppercase c-font-bold" style="font-size:15px">
                                             <a href="http://beta.365onlinetraining.com/oracle-webcenter-content-training/">Oracle WebCenter Content</a>
                                         </div>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
                                          <script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -393,8 +364,7 @@ var dat =  new Date();
 var dt=dat.addDays(2);
 document.write(dt.toDateString());
 
-</script> </br></br>
-<a href="http://beta.365onlinetraining.com/oracle-webcenter-content-training/" class="c-action-btn btn btn-lg c-btn-square c-btn-bold c-btn-border-1x c-theme-btn c-btn-uppercase">Learn More</a>
+</script> 
                                     </div>
                                 </div>  
 								<br/>
@@ -409,9 +379,10 @@ document.write(dt.toDateString());
                                         </div>
                                         <img class="c-overlay-object img-responsive" src="assets/course/shot03.png" alt="Oracle MAF"> </div>
                                     <div class="c-body">
-                                        <div class="c-title c-font-uppercase c-font-bold">
+                                        <div class="c-title c-font-uppercase c-font-bold" style="font-size:15px">
                                             <a href="http://beta.365onlinetraining.com/oracle-mobile-application-framework-training-maf/">Oracle MAF</a>
                                         </div>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
                                        <script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -425,59 +396,28 @@ var dat =  new Date();
 var dt=dat.addDays(3);
 document.write(dt.toDateString());
 
-</script>  </br></br>
-<a href="http://beta.365onlinetraining.com/oracle-mobile-application-framework-training-maf/" class="c-action-btn btn btn-lg c-btn-square c-btn-bold c-btn-border-1x c-theme-btn c-btn-uppercase">Learn More</a>
+</script>
                                     </div>
                                 </div>
-								<br/>
-								<div class="c-content-blog-post-card-1 c-option-2">
-                                    <div class="c-media c-content-overlay">
-                                        <div class="c-overlay-wrapper">
-                                            <div class="c-overlay-content">
-                                                <a href="http://beta.365onlinetraining.com/oracle-adf-online-training/">
-                                                    <i class="icon-link"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <img class="c-overlay-object img-responsive" src="assets/course/shot06.jpg" alt="Oracle ADF"> </div>
-                                    <div class="c-body">
-                                        <div class="c-title c-font-uppercase c-font-bold">
-                                            <a href="http://beta.365onlinetraining.com/oracle-adf-online-training/">Oracle ADF</a>
-                                        </div>
-                                        <script type="text/javascript">
-Date.prototype.addDays = function(days)
-{
-    var dat = new Date(this.valueOf());
-    dat.setDate(dat.getDate() + days);
-    return dat;
-}
-
-var dat =  new Date();
-
-var dt=dat.addDays(5);
-document.write(dt.toDateString());
-
-</script> </br></br>
-<a href="http://beta.365onlinetraining.com/oracle-adf-online-training/" class="c-action-btn btn btn-lg c-btn-square c-btn-bold c-btn-border-1x c-theme-btn c-btn-uppercase">Learn More</a>
-                                    </div>
-                                </div>  
+							 
                                     </div>
 									
-									<div class="col-md-4">
-                                    <div class="c-content-blog-post-card-1 c-option-2">
+									<div class="col-md-3">
+                                    								<div class="c-content-blog-post-card-1 c-option-2">
                                     <div class="c-media c-content-overlay">
                                         <div class="c-overlay-wrapper">
                                             <div class="c-overlay-content">
-                                                <a href="http://beta.365onlinetraining.com/oracle-webcenter-content-training/">
+                                                <a href="http://beta.365onlinetraining.com/oracle-webcenter-portal-training/">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <img class="c-overlay-object img-responsive" src="assets/course/shot01.jpg" alt="Oracle WebCenter Content"> </div>
                                     <div class="c-body">
-                                        <div class="c-title c-font-uppercase c-font-bold">
-                                            <a href="http://beta.365onlinetraining.com/oracle-webcenter-content-training/">Oracle WebCenter Content</a>
+                                        <div class="c-title c-font-uppercase c-font-bold" style="font-size:15px">
+                                            <a href="http://beta.365onlinetraining.com/oracle-webcenter-portal-training/">Oracle WebCenter Portal</a>
                                         </div>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
                                          <script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -488,11 +428,10 @@ Date.prototype.addDays = function(days)
 
 var dat =  new Date();
 
-var dt=dat.addDays(2);
+var dt=dat.addDays(3);
 document.write(dt.toDateString());
 
-</script> </br></br>
-<a href="http://beta.365onlinetraining.com/oracle-webcenter-content-training/" class="c-action-btn btn btn-lg c-btn-square c-btn-bold c-btn-border-1x c-theme-btn c-btn-uppercase">Learn More</a>
+</script>
                                     </div>
                                 </div>
 								<br/>
@@ -507,9 +446,10 @@ document.write(dt.toDateString());
                                         </div>
                                         <img class="c-overlay-object img-responsive" src="assets/course/shot04.png" alt="Oracle ATG Web Commerce"> </div>
                                     <div class="c-body">
-                                        <div class="c-title c-font-uppercase c-font-bold">
+                                        <div class="c-title c-font-uppercase c-font-bold" style="font-size:15px">
                                             <a href="http://beta.365onlinetraining.com/oracle-atg-training/">Oracle ATG Web Commerce</a>
                                         </div>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
                                         <script type="text/javascript">
 Date.prototype.addDays = function(days)
 {
@@ -523,11 +463,45 @@ var dat =  new Date();
 var dt=dat.addDays(4);
 document.write(dt.toDateString());
 
-</script> </br></br>
-<a href="http://beta.365onlinetraining.com/oracle-atg-training/" class="c-action-btn btn btn-lg c-btn-square c-btn-bold c-btn-border-1x c-theme-btn c-btn-uppercase">Learn More</a>
+</script>
                                     </div>
                                 </div>  
                             </div>
+							
+							<div class="col-md-3">
+                            <div class="c-content-blog-post-card-1 c-option-2">
+                                    <div class="c-media c-content-overlay">
+                                        <div class="c-overlay-wrapper">
+                                            <div class="c-overlay-content">
+                                                <a href="http://beta.365onlinetraining.com/oracle-adf-online-training/">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <img class="c-overlay-object img-responsive" src="assets/course/shot06.jpg" alt="Oracle ADF"> </div>
+                                    <div class="c-body">
+                                        <div class="c-title c-font-uppercase c-font-bold" style="font-size:15px">
+                                            <a href="http://beta.365onlinetraining.com/oracle-adf-online-training/">Oracle ADF</a>
+                                        </div>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+                                        <script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(5);
+document.write(dt.toDateString());
+
+</script> 
+                                    </div>
+                                </div>  
+                            </div>
+							
                         </div>
                 </div>
             </div>

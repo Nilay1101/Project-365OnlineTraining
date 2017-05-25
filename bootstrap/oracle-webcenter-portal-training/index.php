@@ -3,7 +3,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
         <meta charset="utf-8" />
-        <title>Angular JS Training | 365 Online</title>
+        <title>Oracle WebCenter Portal Training | 365 Online</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1.0" name="viewport" />
         <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -72,8 +72,7 @@
                                             <a href="http://beta.365onlinetraining.com/oracle-webcenter-content-training/">Oracle Webcenter Content
                                                 <span class="c-arrow c-toggler"></span>
                                             </a>
-                                        </li>
-										<li class="dropdown-submenu">
+                                        </li><li class="dropdown-submenu">
                                             <a href="http://beta.365onlinetraining.com/oracle-webcenter-portal-training/">Oracle WebCenter Portal
                                                 <span class="c-arrow c-toggler"></span>
                                             </a>
@@ -168,7 +167,7 @@
             <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(../assets/back1.png)">
                 <div class="container">
                     <div class="c-page-title c-pull-left">
-                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Angular JS Training</h3>  
+                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Oracle WebCenter Portal Training</h3>  
                     </div>
                 </div>
             </div>
@@ -177,164 +176,171 @@
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-12 wow animated fadeInLeft">
+					<div class="col-lg-8">
+                        <div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Hello Angular JS Online Training</h3>
+                                <h3 class="c-font-uppercase c-font-bold">Introduction to Oracle WebCenter 12C</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Hello AngularJS</li><li>
-    What is AngularJS</li><li>
-    The Big Picture</li><li>
-    Hello World</li><li>
-    Karma Jasmine and a Hello World Test</li><li>
-    compile, digest and $apply, Model View Whatever</li><li>
-    Review
+    
+    Oracle Fusion Middleware </li><li>
+    Oracle WebCenter 12C: Overview </li><li>
+    Oracle WebCenter Architecture </li><li>
+    Deployed Architecture of a WebCenter Instance and Service Providers </li><li>
+    Introducing the Course Application
+
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Modules of Angular JS Online Training</h3>
+                                <h3 class="c-font-uppercase c-font-bold">Oracle Jdeveloper and ADF</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+	
+    Explain JSF, ADF Faces Rich Client, ADF Business Components </li><li>
+    Create a Page Template and Layout </li><li>
+    Build a ADF Task Flow using Business Components </li><li>
+    Configure Partial Page Refresh
+
+
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Oracle WebCenter Framework</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    
+    Identify WebCenter Suite Components </li><li>
+    Describe Framework, Composer and Services </li><li>
+    Explain WebCenter Architecture and role of MDS </li><li>
+    Integrate a Portlet within WebCenter </li><li>
+    Build and Deploy a Portlet 
+
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">WebCenter Portlets</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+	What is a Portlet? </li><li>
+WebCenter-Supported Portlet Standards </li><li>
+Anatomy of a Portlet: Provider, Portlet, Consumer, Communication Protocol </li><li>
+Portlet Modes, Customization, and Personalization </li><li>
+Registering a Portlet Provider </li><li>
+Adding Portlets to a Page </li><li>
+Attributes of the Portlet Tag </li><li>
+Oracle JSF Portlet Bridge
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Oracle Composer</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+	
+    Describe Composer, Resource Catalog and Catalog Filters </li><li>
+    Set up Runtime Editing with Customization Components </li><li>
+    Publish Multiple Resource Catalogs </li><li>
+    Customize Metadata with MDS </li><li>
+    Describe Page Service </li><li>
+    Create Pages and Taskflows at Runtime </li><li>
+    Render Pages with ADF Faces Components </li><li>
+    Customize Look and Feel at Runtime  </li><li>
+	Customize at Design Time – Add Styles and Create new
+
+
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">WebCenter Services</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+
+    Configure Wiki, Blogs, Discussions, Tags </li><li>
+    Configure and use Events, Links and List Service </li><li>
+    Configure and use WorkList </li><li>
+    Configure PeopleConnection Service</li><li> 
+    Configure and Use Mail and Calendar</li><li> 
+    Configure and use Search
+
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold">Integrating Content</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
 								
-    Modules in AngularJS</li><li>
-    Your First Module</li><li>
-    Dependency Injection</li><li>
-    Module Constant</li><li>
-    Module Constant Example</li><li>
-    Module Array Syntax</li><li>
-    Kicking Things Off with module.run</li><li>
-    module.run Example</li><li>
-    Review
+    Configure and Customize Document Library </li><li>
+    Use Content Repository Based Data Controls (JCR) </li><li>
+    Use CIS APIs </li><li>
+    Configure and use Content Presenter
 
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Controllers</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Controllers and $scope</li><li>
-    Build Your First Controller</li><li>
-    Methods and Properties on $scope</li><li>
-    Methods and Properties on $scope Example</li><li>
-    Routes with Controllers</li><li>
-    Routes with Controllers Example</li><li>
-    Review
-
-</li>
-                            </ul>
-							
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Views</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-								
-    Views in AngularJS</li><li>
-    Create Your First View with a Template</li><li>
-    Layout Directives</li><li>
-    Layout Directives Example</li><li>
-    Interaction Directives</li><li>
-    Interaction Directives Example</li><li>
-    Styling Directives</li><li>
-    Styling Directives Example</li><li>
-    Review
-
-</li>
-                            </ul>
-							
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Services</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-								
-    Services in AngularJS</li><li>
-    Build Your First Service</li><li>
-    The $http Service</li><li>
-    The $http Service Example</li><li>
-    Communicating with Controllers</li><li>
-    Communicating with Controllers Example</li><li>
-    Review
-
-</li>
-                            </ul>
-							
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Directives</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-								
-    AngularJS Directives Simplified</li><li>
-    Build Your First Directive</li><li>
-    Directive Definition Object</li><li>
-    Directive Definition Object Example</li><li>
-    The Link Function</li><li>
-    The Link Function Example</li><li>
-    The Controller Function</li><li>
-    The Controller Function Example</li><li>
-    Review
-
-</li>
-                            </ul>
-							
-                        </div>
-						<div class="col-sm-12 wow animated fadeInLeft">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Animations</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-								
-    AngularJS Animations</li><li>
-    Build Your First Animation</li><li>
-    The Animation Naming Convention</li><li>
-    CSS Transitions</li><li>
-    CSS Animations</li><li>
-    JavaScript Animations</li><li>
-    Review</li><li>
-    Closing
-
-</li>
-                            </ul>
-							
-                        </div>
+						</div>
+					<div class="col-lg-4">
+					<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Request Training Demo</h3>
+					<br>
+					<form action="contact_me.php" method="post" name="sentMessage" id="contactForm" novalidate>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Your Name" id="name" class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your name."> </div>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Your Email" id="email"class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your email."> </div>
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Contact Phone" id="phone" class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your phone number."> </div>
+                                        <div class="form-group">
+                                            <textarea rows="8" name="message" placeholder="Write comment here ..." id="message" class="form-control c-theme c-square input-lg" required data-validation-required-message="Please enter your message."></textarea>
+                                        </div>
+										<div id="success"></div>
+                                        <button type="submit" class="btn c-theme-btn c-btn-uppercase btn-lg c-btn-bold c-btn-square">Submit</button>
+                                    </form>
+					</div>
                     </div>
                 </div>
             </div>
@@ -416,6 +422,8 @@
         <script src="../assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
         <script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <script src="../assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
+		<script src="../assets/plugins/contact_me.js" type="text/javascript"></script>
+		<script src="../assets/plugins/jqBootstrapValidation.js" type="text/javascript"></script>
         <script src="../assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
         <script src="../assets/base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
         <!-- END: CORE PLUGINS -->
