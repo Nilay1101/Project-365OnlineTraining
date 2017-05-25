@@ -3,34 +3,45 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
         <meta charset="utf-8" />
-        <title>Oracle MAF Training | 365 Online</title>
+        <title>Search Results | 365 Online</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1.0" name="viewport" />
         <meta http-equiv="Content-type" content="text/html; charset=utf-8">
         <meta content="" name="description" />
         <meta content="" name="author" />
         <!-- BEGIN GLOBAL MANDATORY STYLES -->
+		<script src="https://use.fontawesome.com/52da5feade.js"></script>
         <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&amp;subset=all' rel='stylesheet' type='text/css'>
-        <link href="../assets/plugins/socicon/socicon.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/plugins/animate/animate.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/plugins/socicon/socicon.css" rel="stylesheet" type="text/css" />
+        <link href="assets/plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css" />
+        <link href="assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/plugins/animate/animate.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <!-- END GLOBAL MANDATORY STYLES -->
         <!-- BEGIN: BASE PLUGINS  -->
-        <link href="../assets/plugins/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/plugins/owl-carousel/../../assets/owl.carousel.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/plugins/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/plugins/slider-for-bootstrap/css/slider.css" rel="stylesheet" type="text/css" />
+        <link href="assets/plugins/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css" />
+        <link href="assets/plugins/owl-carousel/../../assets/owl.carousel.css" rel="stylesheet" type="text/css" />
+        <link href="assets/plugins/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+        <link href="assets/plugins/slider-for-bootstrap/css/slider.css" rel="stylesheet" type="text/css" />
         <!-- END: BASE PLUGINS -->
         <!-- BEGIN THEME STYLES -->
-        <link href="../assets/base/css/plugins.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/base/css/components.css" id="style_components" rel="stylesheet" type="text/css" />
-        <link href="../assets/base/css/themes/default.css" rel="stylesheet" id="style_theme" type="text/css" />
-        <link href="../assets/base/css/custom.css" rel="stylesheet" type="text/css" />
+        <link href="assets/base/css/plugins.css" rel="stylesheet" type="text/css" />
+        <link href="assets/base/css/components.css" id="style_components" rel="stylesheet" type="text/css" />
+        <link href="assets/base/css/themes/default.css" rel="stylesheet" id="style_theme" type="text/css" />
+        <link href="assets/base/css/custom.css" rel="stylesheet" type="text/css" />
         <!-- END THEME STYLES -->
         <link rel="shortcut icon" href="../assets/logo/logo.png" /> </head>
+		
+		<style>
+		span.match {
+	color:red;
+	font-size:20px;
+	display:block;
+	
+}
+		</style>
+		
 
     <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-topbar c-layout-header-topbar-collapse">
         <!-- BEGIN: LAYOUT/HEADERS/HEADER-1 -->
@@ -46,7 +57,7 @@
                         <!-- BEGIN: LAYOUT/HEADERS/MEGA-MENU -->
                         <!-- BEGIN: MEGA MENU -->
                         <!-- Dropdown menu toggle on mobile: c-toggler class can be applied to the link arrow or link itself depending on toggle mode -->
-                       <nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold">
+                        <nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold">
                             <ul class="nav navbar-nav c-theme-nav">
                                 <li class="c-menu-type-classic">
                                     <a href="http://beta.365onlinetraining.com/" class="c-link dropdown-toggle">Home
@@ -165,10 +176,10 @@
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page" style="margin-top:0px">
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-            <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(../assets/back1.png)">
+            <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(assets/back1.png)">
                 <div class="container">
                     <div class="c-page-title c-pull-left">
-                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Oracle MAF Training</h3>  
+                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Search Results</h3>  
                     </div>
                 </div>
             </div>
@@ -178,167 +189,135 @@
                 <div class="container">
                     <div class="row">
 					<div class="col-lg-8">
-                        <div class="col-sm-12  ">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Mobile Development and Oracle Mobile Application Framework Training: Introduction</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Mobile challenges and enterprise concerns</li><li>
-    Framework features
-</li>
-                            </ul>
-                        </div>
-						 <div class="col-sm-12  ">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Designing Mobile Applications with Mobile Application Framework</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Default projects and contents</li><li>
-    Application configuration file
-</li>
-                            </ul>
-                        </div>
-						 <div class="col-sm-12  ">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Building Features in a MAF Application</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Features, feature content, and constraints</li><li>
-    Views and control flows
-</li>
-                            </ul>
-                        </div>
-						 <div class="col-sm-12  ">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Developing a Simple Mobile User Interface</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Facets, including header, primary, secondary, and footer</li><li>
-    AMX tags Data controls</li><li>
-    Output text and input text
-</li>
-                            </ul>
-                        </div>
-						 <div class="col-sm-12  ">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">A Closer Look at Developing a MAF UI</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Managed beans</li><li>
-    Configuration files</li><li>
-    Bean Scope, including application, page flow, and view
-</li>
-                            </ul>
-                        </div>
-						 <div class="col-sm-12  ">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Binding Data to Pages with Data Controls</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Data controls and bindings</li><li>
-    DCX files, CPX files, and UI Hints
-</li>
-                            </ul>
-                        </div>
-						 <div class="col-sm-12  ">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Displaying Complex Data with Visualization Components</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Charts</li><li>
-    Geographic maps</li><li>
-    Thematic maps
-</li>
-                            </ul>
-                        </div>
-						 <div class="col-sm-12  ">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Working with Remote and Local Data</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Mechanisms that are used to create data controls from web services</li><li>
-    Accessing data in an on-device SQLite database
-</li>
-                            </ul>
-                        </div>
-						 <div class="col-sm-12  ">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Improving the UI with Devices Services</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>Enhancing mobile applications by incorporating device services, such as camera, email, and bar code readers</li>
-                            </ul>
-                        </div>
-						 <div class="col-sm-12  ">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Using Non-Declarative Programming Techniques</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>Identifying non-declarative programming scenarios in MAF</li>
-                            </ul>
-                        </div>
-						 <div class="col-sm-12  ">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Implementing Standards by Reusing Application Artifacts</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>Constructing and reusing template-like fragment components for a consistent look and feel across MAF applications</li>
-                            </ul>
-                        </div>
-						 <div class="col-sm-12  ">
-                           <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Deploying and Debugging MAF Applications</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>Options for archiving an application</li>
-                            </ul>
-                        </div>
-						</div>
+					<div id="search-results" ></div>
+					</div>
 					<div class="col-lg-4">
+					<div class="c-content-title-1 c-inverse">
+										<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Upcoming Trainings</h3>
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Sites<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(2);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Content<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(2);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Portal<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(3);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle ADF<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(5);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Angular JS<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+
+var dat =  new Date();
+
+var dt=dat.addDays(4);
+document.write(dt.toDateString());
+
+</script> </p>	
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle MAF<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(3);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle ATG Web Commerce<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(4);
+document.write(dt.toDateString());
+
+</script> </p>							
+                                        
+                    </div>	
+
+<br>					
+				    	
 					<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Request Training Demo</h3>
 					<br>
 					<form action="contact_me.php" method="post" name="sentMessage" id="contactForm" novalidate>
@@ -422,38 +401,55 @@
                             </div>
                         </div>
                     </div>
+							<div class="c-line"></div>
+                    <div class="c-head">
+                        <div class="row">
+                            <div class="col-md-12 col-sm-12">
+                                <div class="c-center">
+                                    <div class="socicon">
+                                        <a href="https://www.facebook.com/webcentersitestraining/" class="socicon-btn socicon-btn-circle socicon-solid c-font-dark-1 c-theme-on-hover socicon-facebook tooltips" data-original-title="Facebook" data-container="body"></a>
+                                        <a href="https://www.linkedin.com/company/365onlinetraining" class="socicon-btn socicon-btn-circle socicon-solid c-font-dark-1 c-theme-on-hover socicon-linkedin tooltips" data-original-title="Twitter" data-container="body"></a>
+                                        <a href="https://www.youtube.com/channel/UCKcZtV65M0_EO9ddRvEeBIA" class="socicon-btn socicon-btn-circle socicon-solid c-font-dark-1 c-theme-on-hover socicon-youtube tooltips" data-original-title="Youtube" data-container="body"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </footer>
         <!-- END: LAYOUT/FOOTERS/FOOTER-7 -->
-       
+         <div class="c-layout-go2top">
+            <i class="icon-arrow-up"></i>
+        </div>
         <!-- BEGIN: LAYOUT/BASE/BOTTOM -->
         <!-- BEGIN: CORE PLUGINS -->
         <!--[if lt IE 9]>
 	<script src="../../assets/global/plugins/excanvas.min.js"></script> 
 	<![endif]-->
-        <script src="../assets/plugins/jquery.min.js" type="text/javascript"></script>
-        <script src="../assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
-        <script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-        <script src="../assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
-		<script src="../assets/plugins/contact_me.js" type="text/javascript"></script>
-		<script src="../assets/plugins/jqBootstrapValidation.js" type="text/javascript"></script>
-        <script src="../assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
-        <script src="../assets/base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
+        <script src="assets/plugins/jquery.min.js" type="text/javascript"></script>
+        <script src="assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
+        <script src="assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
+        <script src="assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
+		<script src="assets/plugins/contact_me.js" type="text/javascript"></script>
+		<script src="assets/plugins/jqBootstrapValidation.js" type="text/javascript"></script>
+        <script src="assets/base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
         <!-- END: CORE PLUGINS -->
         <!-- BEGIN: LAYOUT PLUGINS -->
-        <script src="../assets/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>
-        <script src="../assets/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
-        <script src="../assets/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
-        <script src="../assets/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
-        <script src="../assets/plugins/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
-        <script src="../assets/plugins/smooth-scroll/jquery.smooth-scroll.js" type="text/javascript"></script>
-        <script src="../assets/plugins/slider-for-bootstrap/js/bootstrap-slider.js" type="text/javascript"></script>
+        <script src="assets/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>
+        <script src="assets/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+        <script src="assets/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
+        <script src="assets/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
+        <script src="assets/plugins/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+        <script src="assets/plugins/smooth-scroll/jquery.smooth-scroll.js" type="text/javascript"></script>
+        <script src="assets/plugins/slider-for-bootstrap/js/bootstrap-slider.js" type="text/javascript"></script>
         <!-- END: LAYOUT PLUGINS -->
         <!-- BEGIN: THEME SCRIPTS -->
-        <script src="../assets/base/js/components.js" type="text/javascript"></script>
-        <script src="../assets/base/js/components-shop.js" type="text/javascript"></script>
-        <script src="../assets/base/js/app.js" type="text/javascript"></script>
+        <script src="assets/base/js/components.js" type="text/javascript"></script>
+        <script src="assets/base/js/components-shop.js" type="text/javascript"></script>
+        <script src="assets/base/js/app.js" type="text/javascript"></script>
+		<script type="text/javascript" src="search/search.js"></script>
         <script>
             $(document).ready(function()
             {

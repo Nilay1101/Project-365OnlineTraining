@@ -3,13 +3,14 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
         <meta charset="utf-8" />
-        <title>Oracle ATG Training | 365 Online</title>
+        <title>Angular JS Training | 365 Online</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1.0" name="viewport" />
         <meta http-equiv="Content-type" content="text/html; charset=utf-8">
         <meta content="" name="description" />
         <meta content="" name="author" />
         <!-- BEGIN GLOBAL MANDATORY STYLES -->
+		<script src="https://use.fontawesome.com/52da5feade.js"></script>
         <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&amp;subset=all' rel='stylesheet' type='text/css'>
         <link href="../assets/plugins/socicon/socicon.css" rel="stylesheet" type="text/css" />
         <link href="../assets/plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css" />
@@ -168,7 +169,7 @@
             <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(../assets/back1.png)">
                 <div class="container">
                     <div class="c-page-title c-pull-left">
-                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Oracle ATG Training</h3>  
+                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Angular JS Training</h3>  
                     </div>
                 </div>
             </div>
@@ -178,202 +179,292 @@
                 <div class="container">
                     <div class="row">
 					<div class="col-lg-8">
-                        <div class="col-sm-12  ">
-                            <p>Oracle ATG Training at 365online training will help you understand the complete Oracle ATG Development Life Cycle . Participants will get hands on experience by building a Sample Application using Oracle ATG. Our team of well-qualified and certified trainers would be demonstrating numerous small examples which will help you understand and implement the concepts of Oracle ATG commerce. Our Oracle ATG online Training would focus and ensure that the participants are comfortable using Oracle ATG for e-commerce site development. During the training, we will be covering a series of practice that will help in understanding the implementation concept. Training audience will be solution architect, application developer, implementation consultant, technical consultant, Java developer.</p>
-							<p>No specific pre- requisite is needed for the ATG training except the basic knowledge of Java and Java Server Faces (JSP).</p>
-                            
-                        </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Getting Started – Oracle ATG Training</h3>
+                        <div class="col-sm-12">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1">
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Hello Angular JS Online Training</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Overview of ATG products and technology</li><li>
-    Core concepts</li><li>
-    ATG file organization</li><li>
-    ATG Application Module assembly and deployment
-
-    </li>
+    Hello AngularJS</li><li>
+    What is AngularJS</li><li>
+    The Big Picture</li><li>
+    Hello World</li><li>
+    Karma Jasmine and a Hello World Test</li><li>
+    compile, digest and $apply, Model View Whatever</li><li>
+    Review
+</li>
                             </ul>
+							
                         </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
+						<div class="col-sm-12">
+                           <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Using Components</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Modules of Angular JS Online Training</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Nucleus components</li><li>
-    Properties files</li><li>
-    Configuration path layering</li><li>
-    Component scope</li><li>
-    Application logging
+								
+    Modules in AngularJS</li><li>
+    Your First Module</li><li>
+    Dependency Injection</li><li>
+    Module Constant</li><li>
+    Module Constant Example</li><li>
+    Module Array Syntax</li><li>
+    Kicking Things Off with module.run</li><li>
+    module.run Example</li><li>
+    Review
 
-    </li>
+</li>
                             </ul>
+							
                         </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
+						<div class="col-sm-12">
+                           <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Dynamic Pages</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Controllers</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    JavaServer page (JSP) basics</li><li>
-    The ATG tag library (DSP)</li><li>
-    Component access</li><li>
-    Page parameters and fragments</li><li>
-    Dynamo Servlet Beans (“Droplets”)</li><li>
-    Nested DSP tag restrictions
+    Controllers and $scope</li><li>
+    Build Your First Controller</li><li>
+    Methods and Properties on $scope</li><li>
+    Methods and Properties on $scope Example</li><li>
+    Routes with Controllers</li><li>
+    Routes with Controllers Example</li><li>
+    Review
 
-    </li>
+</li>
                             </ul>
+							
                         </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
+						<div class="col-sm-12">
+                           <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Using Repositories</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Views</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    ATG Data Anywhere Architecture overview</li><li>
-    Repository architecture</li><li>
-    Using repositories: repository servlet be</li><li>
-    Querying a repository
+								
+    Views in AngularJS</li><li>
+    Create Your First View with a Template</li><li>
+    Layout Directives</li><li>
+    Layout Directives Example</li><li>
+    Interaction Directives</li><li>
+    Interaction Directives Example</li><li>
+    Styling Directives</li><li>
+    Styling Directives Example</li><li>
+    Review
 
-    </li>
+</li>
                             </ul>
+							
                         </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
+						<div class="col-sm-12">
+                           <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Configuring SQL Repositories</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Services</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Item descriptors</li><li>
-    Repository definition files</li><li>
-    Item descriptors</li><li>
-    Item properties</li><li>
-    Multi-value properties</li><li>
-    Item descriptor inheritance</li><li>
-    Sub-typing</li><li>
-    Operational tags
+								
+    Services in AngularJS</li><li>
+    Build Your First Service</li><li>
+    The $http Service</li><li>
+    The $http Service Example</li><li>
+    Communicating with Controllers</li><li>
+    Communicating with Controllers Example</li><li>
+    Review
 
-    </li>
+</li>
                             </ul>
+							
                         </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
+						<div class="col-sm-12">
+                           <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Using Repository Form Handlers</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Directives</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    ATG forms and form handlers</li><li>
-    Configuring repository form handlers</li><li>
-    Accessing dynamic bean properties (DSP form tags)</li><li>
-    Multi-value form input</li><li>
-    Submission handler methods</li><li>
-    Page redirection</li><li>
-    Error handling</li><li>
-    Search form handlers
+								
+    AngularJS Directives Simplified</li><li>
+    Build Your First Directive</li><li>
+    Directive Definition Object</li><li>
+    Directive Definition Object Example</li><li>
+    The Link Function</li><li>
+    The Link Function Example</li><li>
+    The Controller Function</li><li>
+    The Controller Function Example</li><li>
+    Review
 
-    </li>
+</li>
                             </ul>
+							
                         </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
+						<div class="col-sm-12">
+                           <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Personalization</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Animations</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Creating slots ,scenario and targeter</li><li>
-    Extending Profile</li><li>
-    Creating promotions and coupons
+								
+    AngularJS Animations</li><li>
+    Build Your First Animation</li><li>
+    The Animation Naming Convention</li><li>
+    CSS Transitions</li><li>
+    CSS Animations</li><li>
+    JavaScript Animations</li><li>
+    Review</li><li>
+    Closing
 
-    </li>
+</li>
                             </ul>
+							
                         </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Multisite</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Creating Multisite Applications</li><li>
-    Multisite Essentials</li><li>
-    Multisite URL and JSP
-
-    </li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Listed below are the benefits of Oracle ATG training:</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    It brings out the scenario oriented training for Oracle ATG for web based commerce</li><li>
-    Guidance related to the certification and the material needed for the same</li><li>
-    Easy hands-on access</li><li>
-    Convenient customized form of agenda for Oracle ATG based on web commerce</li><li>
-    Live support during your session hours in online training
-
-    </li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Some per-requisites of Oracle ATG training:</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Basic knowledge of OOPS, Jsps, Java and Collection APIs</li><li>
-    Basic knowledge of application server and database</li><li>
-    Basic knowledge of Ajax and Rich Text
-
-    </li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Fulfillment and Integration</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-							<p>Oracle ATG online training, helps you to get the complete idea about how to use it and work on the same. It helps you to deliver the personalized form of online buying to every single customer of yours. Oracle ATG training have always proved to be beneficial for those who have completely relied on this online training.</p>
-                            
-                        </div>
-						</div>
+					</div>
 					<div class="col-lg-4">
+					<div class="c-content-title-1 c-inverse">
+										<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Upcoming Trainings</h3>
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Sites<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(2);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Content<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(2);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Portal<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(3);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle ADF<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(5);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Angular JS<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+
+var dat =  new Date();
+
+var dt=dat.addDays(4);
+document.write(dt.toDateString());
+
+</script> </p>	
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle MAF<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(3);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle ATG Web Commerce<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(4);
+document.write(dt.toDateString());
+
+</script> </p>							
+                                        
+                    </div>	
+
+<br>					
+				    	
 					<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Request Training Demo</h3>
 					<br>
 					<form action="contact_me.php" method="post" name="sentMessage" id="contactForm" novalidate>
@@ -390,7 +481,6 @@
                                         <button type="submit" class="btn c-theme-btn c-btn-uppercase btn-lg c-btn-bold c-btn-square">Submit</button>
                                     </form>
 					</div>
-						
                     </div>
                 </div>
             </div>
@@ -458,12 +548,11 @@
                             </div>
                         </div>
                     </div>
-                    
                 </div>
             </div>
         </footer>
         <!-- END: LAYOUT/FOOTERS/FOOTER-7 -->
-       
+        
         <!-- BEGIN: LAYOUT/BASE/BOTTOM -->
         <!-- BEGIN: CORE PLUGINS -->
         <!--[if lt IE 9]>
@@ -473,9 +562,9 @@
         <script src="../assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
         <script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <script src="../assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
+        <script src="../assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
 		<script src="../assets/plugins/contact_me.js" type="text/javascript"></script>
 		<script src="../assets/plugins/jqBootstrapValidation.js" type="text/javascript"></script>
-        <script src="../assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
         <script src="../assets/base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
         <!-- END: CORE PLUGINS -->
         <!-- BEGIN: LAYOUT PLUGINS -->

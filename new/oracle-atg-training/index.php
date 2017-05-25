@@ -3,13 +3,14 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
         <meta charset="utf-8" />
-        <title>Oracle WebCentre Sites Training | 365 Online</title>
+        <title>Oracle ATG Training | 365 Online</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1.0" name="viewport" />
         <meta http-equiv="Content-type" content="text/html; charset=utf-8">
         <meta content="" name="description" />
         <meta content="" name="author" />
         <!-- BEGIN GLOBAL MANDATORY STYLES -->
+		<script src="https://use.fontawesome.com/52da5feade.js"></script>
         <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&amp;subset=all' rel='stylesheet' type='text/css'>
         <link href="../assets/plugins/socicon/socicon.css" rel="stylesheet" type="text/css" />
         <link href="../assets/plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css" />
@@ -46,7 +47,7 @@
                         <!-- BEGIN: LAYOUT/HEADERS/MEGA-MENU -->
                         <!-- BEGIN: MEGA MENU -->
                         <!-- Dropdown menu toggle on mobile: c-toggler class can be applied to the link arrow or link itself depending on toggle mode -->
-                       <nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold">
+                        <nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold">
                             <ul class="nav navbar-nav c-theme-nav">
                                 <li class="c-menu-type-classic">
                                     <a href="http://beta.365onlinetraining.com/" class="c-link dropdown-toggle">Home
@@ -168,7 +169,7 @@
             <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(../assets/back1.png)">
                 <div class="container">
                     <div class="c-page-title c-pull-left">
-                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Oracle WebCentre Sites Training</h3>  
+                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Oracle ATG Training</h3>  
                     </div>
                 </div>
             </div>
@@ -179,313 +180,327 @@
                     <div class="row">
 					<div class="col-lg-8">
                         <div class="col-sm-12  ">
-                            <p>Oracle WebCenter Sites Training will help you in understanding the complete Oracle Webcenter sites product. In this training, participants will get hands on experience in Oracle WebCenter Sites by building a Sample Application during the training. This training would be provided by well-qualified and certified WebCenter Sites trainer, who during the theory class would teach you concepts of Oracle WebCenter Sites with numerous live examples and will later help you in implementing those concepts in the hands on lab. Our WebCenter Sites Training is tailored for the professionals or organizations to enable themselves in it. We ensure that after the training the participants should be comfortable in using Oracle WebCenter Sites for their project work.</p>
-							<p>Oracle WebCenter Sites Online Training audience will be</p>
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>Solution Architect</li>
-                                <li>Application Developer</li>
-                                <li>Implementation Consultant</li>
-                                <li>Technical Consultant</li>
-                                <li>Java Developer</li>
-                            </ul>
-							<p>No specific pre-requiste needed.</p>
+                            <p>Oracle ATG Training at 365online training will help you understand the complete Oracle ATG Development Life Cycle . Participants will get hands on experience by building a Sample Application using Oracle ATG. Our team of well-qualified and certified trainers would be demonstrating numerous small examples which will help you understand and implement the concepts of Oracle ATG commerce. Our Oracle ATG online Training would focus and ensure that the participants are comfortable using Oracle ATG for e-commerce site development. During the training, we will be covering a series of practice that will help in understanding the implementation concept. Training audience will be solution architect, application developer, implementation consultant, technical consultant, Java developer.</p>
+							<p>No specific pre- requisite is needed for the ATG training except the basic knowledge of Java and Java Server Faces (JSP).</p>
+                            
                         </div>
 						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Architecture and Interfaces</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Getting Started – Oracle ATG Training</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Basic configuration and Installation of Oracle WebCenter Sites 11g/12c.</li><li>
-    Basic Architecture of Oracle WebCenter CMS</li><li>
-    What is “Web Experience Management”?</li><li>
-    About WebCenter Sites Terminology.</li><li>
-    The WEM Admin Interface : Authentication</li><li>
-    The Admin Interface : Administration</li><li>
-    The Contributor Interface : Content Creation</li>
+    Overview of ATG products and technology</li><li>
+    Core concepts</li><li>
+    ATG file organization</li><li>
+    ATG Application Module assembly and deployment
+
+    </li>
                             </ul>
                         </div>
 						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Creating and Configuring a New CM Site</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Using Components</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Discussing User Authentication and Authorization<li></li>
-    About Oracle WebCenter Sites Roles, Users and ACLs<li></li>
-    Creating a CM site in WebCenter Sites 11g/12c<li></li>
-    Creating Users in the WEM Admin Interface<li></li>
-    Creating and Assigning Roles in the WEM Admin Interface to a Site.
-</li>
+    Nucleus components</li><li>
+    Properties files</li><li>
+    Configuration path layering</li><li>
+    Component scope</li><li>
+    Application logging
+
+    </li>
                             </ul>
                         </div>
 						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Asset Model</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Dynamic Pages</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Creation of Oracle webcenter sites Basic ../assets</li><li>
-    Creation of Oracle webcenter sites Flex family ../assets</li><li>
-    Database table associated with the ../assets</li><li>
-    Page, Template, CSElement, Site Entry and other Default Asset Types</li><li>
-    Creation of Definition, Parent Child definition</li><li>
-    Designing asset model for the Sample sites.</li><li>
-    About Asset Dependencies
+    JavaServer page (JSP) basics</li><li>
+    The ATG tag library (DSP)</li><li>
+    Component access</li><li>
+    Page parameters and fragments</li><li>
+    Dynamo Servlet Beans (“Droplets”)</li><li>
+    Nested DSP tag restrictions
 
-</li>
+    </li>
                             </ul>
                         </div>
 						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Oracle WebCenter Sites Programming</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Using Repositories</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Rendering Models and Patterns</li><li>
-    About Template Design</li><li>
-    About Site Design Asset Types</li><li>
-    Describing WebCenter Sites Variables and Lists</li><li>
-    Explaining WebCenter Sites Asset API</li><li>
-    Invoking Other Templates and Elements</li><li>
-    Retrieving and Rendering Asset Data</li><li>
-    Manipulating WebCenter Sites Lists</li><li>
-    Building Links to ../assets
-</li>
+    ATG Data Anywhere Architecture overview</li><li>
+    Repository architecture</li><li>
+    Using repositories: repository servlet be</li><li>
+    Querying a repository
+
+    </li>
                             </ul>
                         </div>
 						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Oracle WebCenter Sites Programming – Cont.</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Configuring SQL Repositories</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Rendering Images</li><li>
-    Fetching Associated ../assets</li><li>
-    Building a Navigation Bar</li><li>
-    Designing of Layouts.</li><li>
-    Different types of templates.</li><li>
-    Template calling stack.
+    Item descriptors</li><li>
+    Repository definition files</li><li>
+    Item descriptors</li><li>
+    Item properties</li><li>
+    Multi-value properties</li><li>
+    Item descriptor inheritance</li><li>
+    Sub-typing</li><li>
+    Operational tags
 
-</li>
+    </li>
                             </ul>
                         </div>
 						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">In Context Editing: Web Mode</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Using Repository Form Handlers</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Discussing Requirements for In-Context Editing</li><li>
-    Coding for In-Context Content Editing</li><li>
-    Coding for In-Context Presentation Editing</li><li>
-    Coding for In-Context Content Creation
+    ATG forms and form handlers</li><li>
+    Configuring repository form handlers</li><li>
+    Accessing dynamic bean properties (DSP form tags)</li><li>
+    Multi-value form input</li><li>
+    Submission handler methods</li><li>
+    Page redirection</li><li>
+    Error handling</li><li>
+    Search form handlers
 
-</li>
+    </li>
                             </ul>
                         </div>
 						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">WebCenter Sites Developer Tools and Tags</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Personalization</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Overview of Oracle WebCenter Sites Tags</li><li>
-    Sites Explorer</li><li>
-    Template Creation and Integration with Eclipse
+    Creating slots ,scenario and targeter</li><li>
+    Extending Profile</li><li>
+    Creating promotions and coupons
 
-</li>
+    </li>
                             </ul>
                         </div>
 						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Workflows</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Multisite</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Overview of Workflow</li><li>
-    Configuration of Email, states and Workflow process
+    Creating Multisite Applications</li><li>
+    Multisite Essentials</li><li>
+    Multisite URL and JSP
 
-</li>
+    </li>
                             </ul>
                         </div>
 						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Revision Tracking and Publishing</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Listed below are the benefits of Oracle ATG training:</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Publishing Methods</li><li>
-    Explaining Approval Process</li><li>
-    Creating a New Destination for Dynamic Publishing</li><li>
-    Approving and Publishing Content ../assets
+    It brings out the scenario oriented training for Oracle ATG for web based commerce</li><li>
+    Guidance related to the certification and the material needed for the same</li><li>
+    Easy hands-on access</li><li>
+    Convenient customized form of agenda for Oracle ATG based on web commerce</li><li>
+    Live support during your session hours in online training
 
-</li>
+    </li>
                             </ul>
                         </div>
 						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Caching Strategy</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Some per-requisites of Oracle ATG training:</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Overview of Resultset Caching</li><li>
-    Discussing Architectural Overview of Page Caching</li><li>
-    About Cache Criteria</li><li>
-    Explaining Compositional Dependencies</li><li>
-    Working with Embedded Pagelets
+    Basic knowledge of OOPS, Jsps, Java and Collection APIs</li><li>
+    Basic knowledge of application server and database</li><li>
+    Basic knowledge of Ajax and Rich Text
 
-</li>
+    </li>
                             </ul>
                         </div>
 						<div class="col-sm-12  ">
                             <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Software Required</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Fulfillment and Integration</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
-							<p>11 g</p>
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Windows 7</li><li>
-    JDK 1.6 or above</li><li>
-    Oracle WebCenter Sites JSK 11.1.1.8 (Apache server) patch 17157514/ Oracle WebCenter sites 11gR1 (11.1.1.8.0)</li><li>
-    Oracle 10g database</li><li>
-    Chrome/Firefox browser</li><li>
-    Notepad ++
-
-</li>
-                            </ul>
-							</br>
-							<p>12 c</p>
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-    Windows 7</li><li>
-    JDK 1.6 or above</li><li>
-    Oracle WebCenter Sites JSK 11.1.1.8 (Apache server) patch 17157514/ Oracle WebCenter sites 11gR1 (11.1.1.8.0)</li><li>
-    Oracle 10g database</li><li>
-    Chrome/Firefox browser</li><li>
-    Notepad ++
-
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Hardware Requirements</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                                <li>
-								Intel i3/i5 processor</li><li>
-Min. 8 GB RAM
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Training Material</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
-                               <li>
-    Detail Project on Oracle WebCenter Sites covering all the concepts of WebCenter Sites,</li><li>
-    Code of the Detail Project</li><li>
-    Hands on instructions document</li><li>
-    Sample site as an Assignment
-
-</li>
-                            </ul>
-                        </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">How in engage in Oracle WebCenter Sites Training</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                           <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
-<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/xjZ_5071T3U?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
-<a id="get-youtube-data" class="youtube-embed-code" href="https://www.tubeembed.com">tubeembed</a>
-
-</div>
-                        </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Users, Roles and ACL Tutorial</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                           <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
-<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/Vn2UaHZAagE?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
-<a id="get-youtube-data" class="youtube-embed-code" href="https://www.tubeembed.com">tubeembed</a>
-
-</div>
-                        </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Basic Asset Types Tutorial</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                           <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
-<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/SDlB-JvtOTI?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
-<a id="get-youtube-data" class="youtube-embed-code" href="https://www.tubeembed.com">tubeembed</a>
-
-</div>
-                        </div>
-						<div class="col-sm-12  ">
-                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">How to resolve Webcenter sites 12C eclipse plugin not getting visible in eclipse issue</h3>
-                                <div class="c-line-left c-theme-bg"></div>
-                            </div>
-                            <!-- End-->
-                           <div style="overflow: hidden; height: 270px; width: 740px; max-width: 100%; max-height: 100%;">
-<div id="youtube_canvas" style="height: 100%; width: 100%; max-width: 100%;"><iframe style="height: 100%; width: 100%; max-width: 100%; border: 0;" src="https://www.youtube.com/embed/8P4Q_idFu9E?hl=en&amp;autoplay=0&amp;cc_load_policy=1&amp;loop=0&amp;iv_load_policy=1&amp;fs=1&amp;showinfo=1" width="300" height="150" frameborder="0"></iframe></div>
-<a id="get-youtube-data" class="youtube-embed-code" href="https://www.tubeembed.com">tubeembed</a>
-
-</div>
+							<p>Oracle ATG online training, helps you to get the complete idea about how to use it and work on the same. It helps you to deliver the personalized form of online buying to every single customer of yours. Oracle ATG training have always proved to be beneficial for those who have completely relied on this online training.</p>
+                            
                         </div>
 						</div>
 					<div class="col-lg-4">
+					<div class="c-content-title-1 c-inverse">
+										<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Upcoming Trainings</h3>
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Sites<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(2);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Content<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(2);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Portal<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(3);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle ADF<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(5);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Angular JS<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+
+var dat =  new Date();
+
+var dt=dat.addDays(4);
+document.write(dt.toDateString());
+
+</script> </p>	
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle MAF<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(3);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle ATG Web Commerce<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(4);
+document.write(dt.toDateString());
+
+</script> </p>							
+                                        
+                    </div>	
+
+<br>					
+		
 					<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Request Training Demo</h3>
 					<br>
 					<form action="contact_me.php" method="post" name="sentMessage" id="contactForm" novalidate>
@@ -502,7 +517,7 @@ Min. 8 GB RAM
                                         <button type="submit" class="btn c-theme-btn c-btn-uppercase btn-lg c-btn-bold c-btn-square">Submit</button>
                                     </form>
 					</div>
-
+						
                     </div>
                 </div>
             </div>
@@ -570,11 +585,12 @@ Min. 8 GB RAM
                             </div>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </footer>
         <!-- END: LAYOUT/FOOTERS/FOOTER-7 -->
-
+       
         <!-- BEGIN: LAYOUT/BASE/BOTTOM -->
         <!-- BEGIN: CORE PLUGINS -->
         <!--[if lt IE 9]>

@@ -3,13 +3,14 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
         <meta charset="utf-8" />
-        <title>Angular JS Training | 365 Online</title>
+        <title>Oracle ADF Training | 365 Online</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1.0" name="viewport" />
         <meta http-equiv="Content-type" content="text/html; charset=utf-8">
         <meta content="" name="description" />
         <meta content="" name="author" />
         <!-- BEGIN GLOBAL MANDATORY STYLES -->
+		<script src="https://use.fontawesome.com/52da5feade.js"></script>
         <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&amp;subset=all' rel='stylesheet' type='text/css'>
         <link href="../assets/plugins/socicon/socicon.css" rel="stylesheet" type="text/css" />
         <link href="../assets/plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css" />
@@ -168,7 +169,7 @@
             <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(../assets/back1.png)">
                 <div class="container">
                     <div class="c-page-title c-pull-left">
-                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Angular JS Training</h3>  
+                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Oracle ADF Training</h3>  
                     </div>
                 </div>
             </div>
@@ -180,164 +181,495 @@
 					<div class="col-lg-8">
                         <div class="col-sm-12">
                            <!-- Begin: Title 1 component -->
-                            <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Hello Angular JS Online Training</h3>
+                            <div class="c-content-title-1">
+                                <h3 class="c-font-uppercase c-font-bold"  style="font-size:25px">Introduction to Oracle ADF Online Training</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Hello AngularJS</li><li>
-    What is AngularJS</li><li>
-    The Big Picture</li><li>
-    Hello World</li><li>
-    Karma Jasmine and a Hello World Test</li><li>
-    compile, digest and $apply, Model View Whatever</li><li>
-    Review
+    Oracle ADF and JDeveloper</li><li>
+    Oracle Fusion Middleware</li><li>
+    Oracle Fusion Architecture</li><li>
+    ADF and MVC</li><li>
+    More about ADF
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Modules of Angular JS Online Training</h3>
+                                <h3 class="c-font-uppercase c-font-bold"  style="font-size:25px">Exploring JDeveloper</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-								
-    Modules in AngularJS</li><li>
-    Your First Module</li><li>
-    Dependency Injection</li><li>
-    Module Constant</li><li>
-    Module Constant Example</li><li>
-    Module Array Syntax</li><li>
-    Kicking Things Off with module.run</li><li>
-    module.run Example</li><li>
-    Review
-
+    JDeveloper 11g New Features</li><li>
+    Building Oracle ADF Application in JDeveloper</li><li>
+    Configuring JDeveloper Preferences
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Controllers</h3>
+                                <h3 class="c-font-uppercase c-font-bold"  style="font-size:25px">Database Schema Design</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-    Controllers and $scope</li><li>
-    Build Your First Controller</li><li>
-    Methods and Properties on $scope</li><li>
-    Methods and Properties on $scope Example</li><li>
-    Routes with Controllers</li><li>
-    Routes with Controllers Example</li><li>
-    Review
-
+    JDeveloper 11g New Features</li><li>
+    Database Designing Tools in JDeveloper</li><li>
+    Creating Offline Objects</li><li>
+    Synchronize Online-Offline Database
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Views</h3>
+                                <h3 class="c-font-uppercase c-font-bold"  style="font-size:25px">Data Modeling with Oracle ADF Business Components</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-								
-    Views in AngularJS</li><li>
-    Create Your First View with a Template</li><li>
-    Layout Directives</li><li>
-    Layout Directives Example</li><li>
-    Interaction Directives</li><li>
-    Interaction Directives Example</li><li>
-    Styling Directives</li><li>
-    Styling Directives Example</li><li>
-    Review
-
+    Advantages of Oracle ADF BC</li><li>
+    Oracle ADF BC Categories</li><li>
+    Creating Oracle ADF Business Components</li><li>
+    Business Component Browser
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Services</h3>
+                                <h3 class="c-font-uppercase c-font-bold"  style="font-size:25px">Entity Objects and Associations</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-								
-    Services in AngularJS</li><li>
-    Build Your First Service</li><li>
-    The $http Service</li><li>
-    The $http Service Example</li><li>
-    Communicating with Controllers</li><li>
-    Communicating with Controllers Example</li><li>
-    Review
-
+    Data Persistence using Entity Objects</li><li>
+    Creating Entity Objects</li><li>
+    Modify Entity Object Default Behavior</li><li>
+    Associations
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Directives</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">View Objects and View Links</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-								
-    AngularJS Directives Simplified</li><li>
-    Build Your First Directive</li><li>
-    Directive Definition Object</li><li>
-    Directive Definition Object Example</li><li>
-    The Link Function</li><li>
-    The Link Function Example</li><li>
-    The Controller Function</li><li>
-    The Controller Function Example</li><li>
-    Review
-
+    Populating Data in View Objects</li><li>
+    Creating View Objects</li><li>
+    Modify View Object Default Behavior</li><li>
+    View Links</li><li>
+    Creating View Criteria</li><li>
+    Creating List of Values
 </li>
                             </ul>
 							
                         </div>
-						<div class="col-sm-12">
+						<div class="col-sm-12  ">
                            <!-- Begin: Title 1 component -->
                             <div class="c-content-title-1"></br>
-                                <h3 class="c-font-uppercase c-font-bold">Animations</h3>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Application Modules</h3>
                                 <div class="c-line-left c-theme-bg"></div>
                             </div>
                             <!-- End-->
                             <ul class="c-content-list-1 c-theme  c-font-uppercase">
                                 <li>
-								
-    AngularJS Animations</li><li>
-    Build Your First Animation</li><li>
-    The Animation Naming Convention</li><li>
-    CSS Transitions</li><li>
-    CSS Animations</li><li>
-    JavaScript Animations</li><li>
-    Review</li><li>
-    Closing
-
+    Designing Application Module</li><li>
+    Creating Application Module</li><li>
+    Application Module Editor</li><li>
+    Testing Service Methods
 </li>
                             </ul>
 							
                         </div>
-					</div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Programmatically Modifying Default Behavior</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Supporting Java Classes</li><li>
+    Modify Entity Object Behavior</li><li>
+    Modify View Object Behavior</li><li>
+    Service Methods and Application Module
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Business Validation</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Validation Life Cycle</li><li>
+    Built-in Declarative Validation Rules</li><li>
+    Validation Execution</li><li>
+    Failure Handling</li><li>
+    Groovy Support</li><li>
+    Creating Validation Rule Class
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Introduction to User Interface Technologies</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    User Interface – Available Technologies</li><li>
+    Java Server Faces</li><li>
+    ADF Faces
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Understanding Oracle ADF Data bindings</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Oracle ADF Data Model and Bindings</li><li>
+    Exposing Business Components as Data Controls</li><li>
+    JSF Expression Language</li><li>
+    Binding Components to Data
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Understanding Oracle ADF Task Flows</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Characteristics of Oracle ADF Task Flow</li><li>
+    Creating a Task Flow</li><li>
+    Using Oracle ADF Task Flow Components</li><li>
+    Using Method Call Activities</li><li>
+    Creating Managed Beans
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Enriching the Page Content</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Oracle ADF Faces Rich Client Components</li><li>
+    Using Facets</li><li>
+    Using Oracle ADF Faces Components</li><li>
+    UI and Translation
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Understanding Layout Basics</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Oracle ADF Faces Layout Components</li><li>
+    Oracle ADF Faces Skins</li><li>
+    Enabling PPR
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Ensuring Reusability</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Pros and Cons of Reusability</li><li>
+    Reusing Components</li><li>
+    Designing for Reuse</li><li>
+    Creating Oracle ADF Library</li><li>
+    What Fits your Requirements
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Implementing Page Navigation</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Oracle ADF Faces Navigation Components</li><li>
+    Performing Navigation</li><li>
+    Defining Access Keys</li><li>
+    Using Train Components
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Handling Application Events</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    JSF Page Life Cycle</li><li>
+    Oracle ADF Lifecycle Phases</li><li>
+    Creating Action Methods</li><li>
+    Value Change Events
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Managing and Validating Data</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Holding Values in Data Model</li><li>
+    Holding Values in Managed Beans</li><li>
+    Passing Values between Pages</li><li>
+    Validation Event Points</li><li>
+    Oracle ADF Binding Validation</li><li>
+    Oracle ADF Faces Validation
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Transaction Management</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Handling Transactions with Oracle ADF BC</li><li>
+    Transaction in Oracle ADF Task Flow</li><li>
+    Specifying Task Flow Transaction Start Options
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Troubleshooting Oracle ADF Applications</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Logging and Diagnostics</li><li>
+    Java Logging</li><li>
+    Oracle ADF Logging</li><li>
+    ADF Declarative Debugger</li><li>
+    UI Troubleshooting Tools
+</li>
+                            </ul>
+							
+                        </div>
+						<div class="col-sm-12  ">
+                           <!-- Begin: Title 1 component -->
+                            <div class="c-content-title-1"></br>
+                                <h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Deploying Oracle ADF Applications (WebLogic)</h3>
+                                <div class="c-line-left c-theme-bg"></div>
+                            </div>
+                            <!-- End-->
+                            <ul class="c-content-list-1 c-theme  c-font-uppercase">
+                                <li>
+    Creating a WAR Profile</li><li>
+    Creating a EAR Profile</li><li>
+    Testing the Server Connectivity</li><li>
+    Deploying the Application
+</li>
+                            </ul>
+							
+                        </div>
+						</div>
 					<div class="col-lg-4">
+					<div class="c-content-title-1 c-inverse">
+										<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Upcoming Trainings</h3>
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Sites<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(2);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Content<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(2);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Portal<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(3);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle ADF<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(5);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Angular JS<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+
+var dat =  new Date();
+
+var dt=dat.addDays(4);
+document.write(dt.toDateString());
+
+</script> </p>	
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle MAF<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(3);
+document.write(dt.toDateString());
+
+</script> </p>
+
+                                        <p class="c-font-uppercase" style="font-size:15px">Oracle ATG Web Commerce<br>
+										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
+										<script type="text/javascript">
+Date.prototype.addDays = function(days)
+{
+    var dat = new Date(this.valueOf());
+    dat.setDate(dat.getDate() + days);
+    return dat;
+}
+
+var dat =  new Date();
+
+var dt=dat.addDays(4);
+document.write(dt.toDateString());
+
+</script> </p>							
+                                        
+                    </div>	
+
+<br>					
+		
 					<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Request Training Demo</h3>
 					<br>
 					<form action="contact_me.php" method="post" name="sentMessage" id="contactForm" novalidate>
@@ -354,6 +686,7 @@
                                         <button type="submit" class="btn c-theme-btn c-btn-uppercase btn-lg c-btn-bold c-btn-square">Submit</button>
                                     </form>
 					</div>
+						
                     </div>
                 </div>
             </div>
@@ -421,6 +754,7 @@
                             </div>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </footer>
@@ -435,9 +769,9 @@
         <script src="../assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
         <script src="../assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <script src="../assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
-        <script src="../assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
 		<script src="../assets/plugins/contact_me.js" type="text/javascript"></script>
 		<script src="../assets/plugins/jqBootstrapValidation.js" type="text/javascript"></script>
+        <script src="../assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
         <script src="../assets/base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
         <!-- END: CORE PLUGINS -->
         <!-- BEGIN: LAYOUT PLUGINS -->
