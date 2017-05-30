@@ -185,6 +185,17 @@
                                             <input type="text" placeholder="Your Email" id="email"class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your email."> </div>
                                         <div class="form-group">
                                             <input type="text" placeholder="Contact Phone" id="phone" class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your phone number."> </div>
+										<div class="form-group">
+										<select id="subject" class="form-control c-square c-theme input-lg">
+										<option value="Blank">Select Subject</option>
+										<option value="Oracle Webcenter Sites">Oracle Webcenter Sites</option>
+										<option value="Oracle Webcenter Content">Oracle Webcenter Content</option>
+										<option value="Oracle Webcenter Portal">Oracle Webcenter Portal</option>
+										<option value="Oracle ADF">Oracle ADF</option>
+										<option value="Angular JS">Angular JS</option>
+										<option value="Oracle MAF">Oracle MAF</option>
+										<option value="Oracle ATG Web Commerce">Oracle ATG Web Commerce</option>
+										</select></div>
                                         <div class="form-group">
                                             <textarea rows="8" name="message" placeholder="Write comment here ..." id="message" class="form-control c-theme c-square input-lg" required data-validation-required-message="Please enter your message."></textarea>
                                         </div>

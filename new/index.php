@@ -155,8 +155,8 @@
                                         </li>
                                     </ul>
                                 </li>
-                                    </ul>
-                                    <!-- END: MOBILE VERSION OF THE TAB MEGA MENU -->
+                            </ul>
+                        <!-- END: MOBILE VERSION OF THE TAB MEGA MENU -->
                         </nav>
                         <!-- END: MEGA MENU -->
                         <!-- END: LAYOUT/HEADERS/MEGA-MENU -->
@@ -224,7 +224,10 @@ var dat =  new Date();
 var dt=dat.addDays(2);
 document.write(dt.toDateString());
 
-</script>
+</script></br>
+<a style="color:seagreen" href="http://beta.365onlinetraining.com/oracle-webcenter-sites-12c-online-training/"><strong>Learn More</strong></a>
+
+
                                     </div>
                                 </div>
 								<br/>
@@ -257,6 +260,9 @@ var dt=dat.addDays(4);
 document.write(dt.toDateString());
 
 </script>
+</br>
+<a style="color:seagreen" href="http://beta.365onlinetraining.com/angular-js-online-course"><strong>Learn More</strong></a>
+
                                     </div>
                                 </div>
                             </div>
@@ -291,6 +297,8 @@ var dt=dat.addDays(2);
 document.write(dt.toDateString());
 
 </script> 
+</br>
+<a style="color:seagreen" href="http://beta.365onlinetraining.com/oracle-webcenter-content-training/"><strong>Learn More</strong></a>
                                     </div>
                                 </div>  
 								<br/>
@@ -323,6 +331,8 @@ var dt=dat.addDays(3);
 document.write(dt.toDateString());
 
 </script>
+</br>
+<a style="color:seagreen" href="http://beta.365onlinetraining.com/oracle-mobile-application-framework-training-maf/"><strong>Learn More</strong></a>
                                     </div>
                                 </div>
 							 
@@ -358,6 +368,8 @@ var dt=dat.addDays(3);
 document.write(dt.toDateString());
 
 </script>
+</br>
+<a style="color:seagreen" href="http://beta.365onlinetraining.com/oracle-webcenter-portal-training/"><strong>Learn More</strong></a>
                                     </div>
                                 </div>
 								<br/>
@@ -390,6 +402,8 @@ var dt=dat.addDays(4);
 document.write(dt.toDateString());
 
 </script>
+</br>
+<a style="color:seagreen" href="http://beta.365onlinetraining.com/oracle-atg-training/"><strong>Learn More</strong></a>
                                     </div>
                                 </div>  
                             </div>
@@ -424,6 +438,8 @@ var dt=dat.addDays(5);
 document.write(dt.toDateString());
 
 </script> 
+</br>
+<a style="color:seagreen" href="http://beta.365onlinetraining.com/oracle-adf-online-training/" ><strong>Learn More</strong></a>
                                     </div>
                                 </div>  
                             </div>

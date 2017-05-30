@@ -168,9 +168,15 @@
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
             <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(../assets/back1.png)">
                 <div class="container">
-                    <div class="c-page-title c-pull-left">
-                        <h3 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim">Oracle ADF Training</h3>  
+				<div class="col-lg-2">
+				</div>
+				<div class="col-lg-8 text-center">
+                    <div class="c-page-title">
+                        <h1 class="c-font-uppercase c-font-bold c-font-white c-font-20 c-font-slim"  style="font-size:30px;">Oracle ADF Training</h1>  
                     </div>
+								</div>
+				<div class="col-lg-2">
+				</div>
                 </div>
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
@@ -546,7 +552,7 @@
 					<div class="col-lg-4">
 					<div class="c-content-title-1 c-inverse">
 										<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Upcoming Trainings</h3>
-                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Sites<br>
+                                        <p class="c-font-uppercase" style="font-size:15px"><a style="color:seagreen" href="http://beta.365onlinetraining.com/oracle-webcenter-sites-12c-online-training/"><strong>Oracle Webcenter Sites</strong></a><br>
 										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
 										<script type="text/javascript">
 Date.prototype.addDays = function(days)
@@ -563,7 +569,7 @@ document.write(dt.toDateString());
 
 </script> </p>
 
-                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Content<br>
+                                        <p class="c-font-uppercase" style="font-size:15px"><a style="color:seagreen" href="http://beta.365onlinetraining.com/oracle-webcenter-content-training/"><strong>Oracle Webcenter Content</strong></a><br>
 										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
 										<script type="text/javascript">
 Date.prototype.addDays = function(days)
@@ -580,7 +586,7 @@ document.write(dt.toDateString());
 
 </script> </p>
 
-                                        <p class="c-font-uppercase" style="font-size:15px">Oracle Webcenter Portal<br>
+                                        <p class="c-font-uppercase" style="font-size:15px"><a style="color:seagreen" href="http://beta.365onlinetraining.com/oracle-webcenter-portal-training/"><strong>Oracle Webcenter Portal</strong></a><br>
 										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
 										<script type="text/javascript">
 Date.prototype.addDays = function(days)
@@ -597,7 +603,7 @@ document.write(dt.toDateString());
 
 </script> </p>
 
-                                        <p class="c-font-uppercase" style="font-size:15px">Oracle ADF<br>
+                                        <p class="c-font-uppercase" style="font-size:15px"><a style="color:seagreen" href="http://beta.365onlinetraining.com/oracle-adf-online-training/"><strong>Oracle ADF</strong></a><br>
 										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
 										<script type="text/javascript">
 Date.prototype.addDays = function(days)
@@ -614,7 +620,7 @@ document.write(dt.toDateString());
 
 </script> </p>
 
-                                        <p class="c-font-uppercase" style="font-size:15px">Angular JS<br>
+                                        <p class="c-font-uppercase" style="font-size:15px"><a style="color:seagreen" href="http://beta.365onlinetraining.com/angular-js-online-course"><strong>Angular JS</strong></a><br>
 										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
 										<script type="text/javascript">
 Date.prototype.addDays = function(days)
@@ -632,7 +638,7 @@ document.write(dt.toDateString());
 
 </script> </p>	
 
-                                        <p class="c-font-uppercase" style="font-size:15px">Oracle MAF<br>
+                                        <p class="c-font-uppercase" style="font-size:15px"><a style="color:seagreen" href="http://beta.365onlinetraining.com/oracle-mobile-application-framework-training-maf/"><strong>Oracle MAF</strong></a><br>
 										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
 										<script type="text/javascript">
 Date.prototype.addDays = function(days)
@@ -649,7 +655,7 @@ document.write(dt.toDateString());
 
 </script> </p>
 
-                                        <p class="c-font-uppercase" style="font-size:15px">Oracle ATG Web Commerce<br>
+                                        <p class="c-font-uppercase" style="font-size:15px"><a style="color:seagreen" href="http://beta.365onlinetraining.com/oracle-atg-training/"><strong>Oracle ATG Web Commerce</strong></a><br>
 										<i class="fa fa-calendar">&nbsp;&nbsp;</i>
 										<script type="text/javascript">
 Date.prototype.addDays = function(days)
@@ -669,7 +675,7 @@ document.write(dt.toDateString());
                     </div>	
 
 <br>					
-		
+				    	
 					<h3 class="c-font-uppercase c-font-bold" style="font-size:25px">Request Training Demo</h3>
 					<br>
 					<form action="contact_me.php" method="post" name="sentMessage" id="contactForm" novalidate>
@@ -679,14 +685,24 @@ document.write(dt.toDateString());
                                             <input type="text" placeholder="Your Email" id="email"class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your email."> </div>
                                         <div class="form-group">
                                             <input type="text" placeholder="Contact Phone" id="phone" class="form-control c-square c-theme input-lg" required data-validation-required-message="Please enter your phone number."> </div>
+										<div class="form-group">
+										<select id="subject" class="form-control c-square c-theme input-lg">
+										<option value="Blank">Select Subject</option>
+										<option value="Oracle Webcenter Sites">Oracle Webcenter Sites</option>
+										<option value="Oracle Webcenter Content">Oracle Webcenter Content</option>
+										<option value="Oracle Webcenter Portal">Oracle Webcenter Portal</option>
+										<option value="Oracle ADF">Oracle ADF</option>
+										<option value="Angular JS">Angular JS</option>
+										<option value="Oracle MAF">Oracle MAF</option>
+										<option value="Oracle ATG Web Commerce">Oracle ATG Web Commerce</option>
+										</select></div>
                                         <div class="form-group">
-                                            <textarea rows="8" name="message" placeholder="Write comment here ..." id="message" class="form-control c-theme c-square input-lg" required data-validation-required-message="Please enter your message."></textarea>
+                                            <textarea rows="8" name="message" placeholder="Enter Your Message" id="message" class="form-control c-theme c-square input-lg" required data-validation-required-message="Please enter your message."></textarea>
                                         </div>
 										<div id="success"></div>
                                         <button type="submit" class="btn c-theme-btn c-btn-uppercase btn-lg c-btn-bold c-btn-square">Submit</button>
                                     </form>
 					</div>
-						
                     </div>
                 </div>
             </div>
